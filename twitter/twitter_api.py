@@ -71,13 +71,18 @@ def display_tweets(tweets):
         print('=' * 75)
 
 
-def get_multiple_tweets(api, topic, num_tweets=100):
+def get_multiple_tweets(api, topic, num_tweets=100, tweetlite=False):
     """
     Get the specified number of tweets for the given topic
+    :param tweetlite:
     :param api: Authenticated api object
     :param topic: Topic to search for
     :param num_tweets: Number of tweets to fetch
     :return: List of tweets
     """
-    return [tweet for tweet in Cursor(api.search, q=topic + ' -filter:retweets', lang='en', tweet_mode='extended').items(num_tweets)]
+    tweets = Cursor(api.search, q=topic + ' -filter:retweets', lang='en', tweet_mode='extended').items(num_tweets)
+    if tweetlite:
+        print('Fetched tweets and converting to TweetLite')
+        return [TweetLite.convert_tweet_object_to_tweet_lite(tweet).to_dict for tweet in tweets]
 
+    return [tweet for tweet in tweets]

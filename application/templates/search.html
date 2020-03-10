@@ -1,0 +1,23 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}Search{% endblock %}
+
+{% block content %}
+<body>
+    <div class="container">
+        <form action="/assign_sent" method="post">
+          <div class="form-group">
+            <label for="topic">Topic</label>
+            <input type="text" class="form-control" id="topic" placeholder="Enter Topic" required name="topic">
+          </div>
+          <div class="form-group">
+            <label for="numTweets">#Tweets</label>
+            <input type="number" class="form-control" id="numTweets" placeholder=5 name="num_tweets", required>
+          </div>
+          <input type="submit" class="btn btn-primary" value="Fetch Tweet">
+        </form>
+    </div>
+
+
+
+{% endblock %}
+

@@ -1,0 +1,29 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}Search{% endblock %}
+
+{% block content %}
+<body>
+    <div class="container">
+
+        <h1>Classify {{topic}}</h1>
+        <h1>Remaining tweets {{num_tweets}}</h1>
+
+        <h4>{{tweet.text}}</h4>
+
+        <form action="/classify/{{tweet.tweet_id}}" method="post">
+            <label class="radio-inline">
+                <input type="radio" name="sent" value="positive">Good
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="sent" value="neutral" checked>Neutral
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="sent" value="negative" >Negative
+            </label>
+            <br>
+            <button type="submit" class="btn btn-primary">Classify {{topic}}</button>
+        </form>
+    </div>
+</body>
+
+{% endblock %}
