@@ -3,6 +3,19 @@
 
 {% block content %}
 <body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Twitter Sentiment</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Manually Classify</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>
+            </ul>
+        </div>
+    </nav>
     <div class="container">
 
         <h1>Classify {{topic}}</h1>
@@ -12,7 +25,7 @@
 
         <form action="/classify/{{tweet.tweet_id}}" method="post">
             <label class="radio-inline">
-                <input type="radio" name="sent" value="positive">Good
+                <input type="radio" name="sent" value="positive">Positive
             </label>
             <label class="radio-inline">
                 <input type="radio" name="sent" value="neutral" checked>Neutral

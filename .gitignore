@@ -4,5 +4,5 @@ __pycache__
 twitter_keys.py
 .env
 *.pyc
-*.idea*
+*.idea
 

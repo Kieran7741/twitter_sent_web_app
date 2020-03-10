@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request, render_template, session
 from flask_bootstrap import Bootstrap
-from twitter.twitter_api import get_api, get_multiple_tweets
+from twitter.twitter_api import get_api, get_multiple_tweets, TweetLite
 from twitter_keys import CONSUMER_KEY, CONSUMER_SECRET, API_KEY, SECRET_KEY
 from database.db_ops import get_db, get_tweets_from_collection
 
@@ -9,6 +9,7 @@ app.config['SECRET_KEY'] = CONSUMER_SECRET
 Bootstrap(app)
 twitter_api = get_api(CONSUMER_KEY, CONSUMER_SECRET, API_KEY, SECRET_KEY)
 db = get_db('tweets')
+import json
 
 
 @app.route('/positive')
@@ -30,7 +31,7 @@ def display_tweets():
     print(tweets)
     session['tweets'] = tweets
     return render_template('classify.html', topic=session['topic'], num_tweets=session['num_tweets'],
-                           tweet=session['tweets'].pop())
+                           tweet=session['tweets'][session['num_tweets'] -1])
 
 
 @app.route('/classify/<tweet_id>', methods=['POST'])
@@ -40,13 +41,15 @@ def classify_tweet(tweet_id):
     :param tweet_id: Id of tweet
     :return:
     """
+    print(session)
     session['num_tweets'] = session['num_tweets'] - 1
     # Implement logic for updating tweet sentiment in the database
     # set_tweet_sentiment(tweet_id, request.form['sent'])
-    print('Tweet ID:',tweet_id, 'Sentiment', request.form['sent'])
+    print('Tweet ID:', tweet_id, 'Sentiment', request.form['sent'])
+    db.manually_classified.insert_one(session['tweets'][session['num_tweets']])
     if session['num_tweets']:
-        tweet = session['tweets'].pop()
-        return render_template('classify.html', topic=session['topic'], num_tweets=session['num_tweets'], tweet=tweet)
+        return render_template('classify.html', topic=session['topic'], num_tweets=session['num_tweets'],
+                               tweet=session['tweets'][session['num_tweets'] - 1])
     else:
         session.pop('num_tweets')
         session.pop('topic')
