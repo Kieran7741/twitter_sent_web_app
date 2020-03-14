@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test JQuery</title>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type=text/javascript>
+        $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+    </script>
+
+    <script type=text/javascript>
+      $(function() {
+        $('a#message').bind('click', function() {
+          $.getJSON($SCRIPT_ROOT + '/_jquery_get',
+           function(data) {
+            $("#message_back").text(data.message);
+          });
+          return false;
+        });
+      });
+    </script>
+</head>
+<body>
+<h1>Click the button to send request to the server</h1>
+<a href=# id=message>Get message</a>
+<h2 id="message_back"></h2>
+</body>
+</html>

@@ -61,5 +61,16 @@ def classify_tweet(tweet_id):
         return render_template('search.html')
 
 
+@app.route('/test_jquery')
+def testing_jquery():
+    return render_template('test_jquery.html')
+
+
+@app.route('/_jquery_get')
+def jquery_get():
+    return jsonify(message='Successfully got this message from the server')
+
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
