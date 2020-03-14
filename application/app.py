@@ -71,6 +71,9 @@ def jquery_get():
     return jsonify(message='Successfully got this message from the server')
 
 
+@app.route('/ping')
+def ping():
+    return jsonify(pong='pong')
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')

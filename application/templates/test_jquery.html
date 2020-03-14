@@ -10,6 +10,8 @@
     </script>
 
     <script type=text/javascript>
+      setInterval(function(){  $.getJSON($SCRIPT_ROOT + '/ping',
+           function(data) {console.log(data.pong);}); }, 5000);
       $(function() {
         $('a#message').bind('click', function() {
           $.getJSON($SCRIPT_ROOT + '/_jquery_get',
