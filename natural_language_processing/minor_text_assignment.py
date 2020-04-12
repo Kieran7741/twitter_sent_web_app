@@ -8,6 +8,7 @@ from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
 import matplotlib.pyplot as plt
 from sklearn.metrics._plot.confusion_matrix import ConfusionMatrixDisplay
+import datetime
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 stopwords = stopwords.words('english')
@@ -34,7 +35,7 @@ def process_text(text, stem=True):
         return [word for word in word_tokenize(text) if word not in stopwords]
 
 
-def apply_classifier(classifier, x_train, y_train, x_test, y_test, num_groups=10):
+def apply_classifier(classifier, x_train, y_train, x_test, y_test):
     """
     Applies the provided classifier.
     :param classifier: Target classifier
@@ -42,12 +43,11 @@ def apply_classifier(classifier, x_train, y_train, x_test, y_test, num_groups=10
     :param y_train: Output classes
     :param x_test: Input testing data
     :param y_test: Output classes to test against
-    :param num_groups: Number of new groups being predicted
     """
 
-    groups = ['alt.atheism', 'comp.graphics', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware', 'comp.sys.mac.hardware', 'comp.windows.x', 'misc.forsale',
-              'rec.autos', 'rec.motorcycles', 'rec.sport.baseball', 'rec.sport.hockey', 'sci.crypt', 'sci.electronics', 'sci.med', 'sci.space', 'soc.religion.christian',
-              'talk.politics.guns', 'talk.politics.mideast', 'talk.politics.misc', 'talk.religion.misc'][:num_groups]
+    groups = ['alt.atheism', 'comp.graphics', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware',
+              'comp.sys.mac.hardware', 'comp.windows.x', 'misc.forsale',
+              'rec.autos', 'rec.motorcycles', 'rec.sport.baseball']
 
     classifier.fit(x_train, y_train)
     prediction = classifier.predict(x_test)
@@ -69,22 +69,17 @@ def apply_classifier(classifier, x_train, y_train, x_test, y_test, num_groups=10
 
 
 if __name__ == '__main__':
-
-    # Specify the number of news groups to use. Smaller value makes the confusion matrix more readable
-    num_groups = 10
-
-    groups = ['alt.atheism', 'comp.graphics', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware', 'comp.sys.mac.hardware', 'comp.windows.x', 'misc.forsale',
-              'rec.autos', 'rec.motorcycles', 'rec.sport.baseball', 'rec.sport.hockey', 'sci.crypt', 'sci.electronics', 'sci.med', 'sci.space', 'soc.religion.christian',
-              'talk.politics.guns', 'talk.politics.mideast', 'talk.politics.misc', 'talk.religion.misc']
-
-    remove = ('footers', 'quotes', 'headers')
-
-    train_data = fetch_20newsgroups(shuffle=True, random_state=7741, remove=remove, categories=groups[:num_groups])
-    testing_data = fetch_20newsgroups(subset='test', shuffle=True, random_state=7741, remove=remove, categories=groups[:num_groups])
+    # Selecting 10 groups to reduce training time
+    groups = ['alt.atheism', 'comp.graphics', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware',
+              'comp.sys.mac.hardware', 'comp.windows.x', 'misc.forsale',
+              'rec.autos', 'rec.motorcycles', 'rec.sport.baseball']
+    print('Fetching dataset...')
+    train_data = fetch_20newsgroups(shuffle=True, random_state=7741, categories=groups)
+    testing_data = fetch_20newsgroups(subset='test', shuffle=True, random_state=7741, categories=groups)
 
     y_train, y_test = train_data.target, testing_data.target
 
-    tfid_vectorizer = TfidfVectorizer(max_df=0.1, stop_words=stopwords, tokenizer=process_text)
+    tfid_vectorizer = TfidfVectorizer(max_df=0.5, stop_words=stopwords, tokenizer=process_text, max_features=10000)
     x_train = tfid_vectorizer.fit_transform(train_data.data)
 
     x_test = tfid_vectorizer.transform(testing_data.data)
@@ -100,19 +95,17 @@ if __name__ == '__main__':
         results_summary.append(apply_classifier(MultinomialNB(alpha=alpha), x_train, y_train, x_test, y_test))
 
     # Apply SVC models
-    for kernel_type in ['linear', 'poly']:
+    for kernel_type in ['linear']: #, 'poly']:
         print(f'Kernel type: {kernel_type}')
-        results_summary.append(apply_classifier(SVC(kernel=kernel_type), x_train, y_train, x_test, y_test,
-                                                num_groups=num_groups))
+        results_summary.append(apply_classifier(SVC(kernel=kernel_type), x_train, y_train, x_test, y_test))
 
     # Apply NN model:
-    import datetime
     print(f'Starting training at: {datetime.datetime.now()}')
-    results_summary.append(apply_classifier(MLPClassifier(hidden_layer_sizes=(10,)), x_train, y_train, x_test, y_test,
-                                            num_groups=num_groups))
+    results_summary.append(apply_classifier(MLPClassifier(hidden_layer_sizes=(10,)), x_train, y_train, x_test, y_test))
     print(f'Finished training at: {datetime.datetime.now()}')
 
     print('\n')
+    # Print results in descending order
     sorted_results = sorted(results_summary, key=lambda x: x[1], reverse=True)
     for result in sorted_results:
         print(result[0])
