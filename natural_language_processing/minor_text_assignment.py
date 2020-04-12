@@ -69,7 +69,7 @@ def apply_classifier(classifier, x_train, y_train, x_test, y_test):
 
 
 if __name__ == '__main__':
-    # Selecting 10 groups to reduce training time
+    # Selecting 10 groups to reduce training time and prevent crowded confusion matrix
     groups = ['alt.atheism', 'comp.graphics', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.hardware',
               'comp.sys.mac.hardware', 'comp.windows.x', 'misc.forsale',
               'rec.autos', 'rec.motorcycles', 'rec.sport.baseball']
@@ -78,28 +78,30 @@ if __name__ == '__main__':
     testing_data = fetch_20newsgroups(subset='test', shuffle=True, random_state=7741, categories=groups)
 
     y_train, y_test = train_data.target, testing_data.target
-
     tfid_vectorizer = TfidfVectorizer(max_df=0.5, stop_words=stopwords, tokenizer=process_text, max_features=10000)
+    print('Fitting train data')
     x_train = tfid_vectorizer.fit_transform(train_data.data)
-
+    print('Fitting test data')
     x_test = tfid_vectorizer.transform(testing_data.data)
 
-    feature_names = tfid_vectorizer.get_feature_names()
-    print(f'Number of features: {len(feature_names)}')
+    print(f'Number of features: {len(tfid_vectorizer.get_feature_names())}')
 
     results_summary = []
 
     # Apply Naive Bayes with different Alpha values
+    print('Naive Bayes Classifiers')
     for alpha in [0.1, 0.5, 1]:
         print(f'Alpha value: {alpha}')
         results_summary.append(apply_classifier(MultinomialNB(alpha=alpha), x_train, y_train, x_test, y_test))
 
     # Apply SVC models
-    for kernel_type in ['linear']: #, 'poly']:
+    print('SVM Classifier')
+    for kernel_type in ['linear']: #, 'poly']: # Poly produces poor accuracy and takes a long time to train
         print(f'Kernel type: {kernel_type}')
         results_summary.append(apply_classifier(SVC(kernel=kernel_type), x_train, y_train, x_test, y_test))
 
     # Apply NN model:
+    print('Neural Network Classifier')
     print(f'Starting training at: {datetime.datetime.now()}')
     results_summary.append(apply_classifier(MLPClassifier(hidden_layer_sizes=(10,)), x_train, y_train, x_test, y_test))
     print(f'Finished training at: {datetime.datetime.now()}')
@@ -111,9 +113,3 @@ if __name__ == '__main__':
         print(result[0])
 
     plt.show()
-
-
-
-
-
-
