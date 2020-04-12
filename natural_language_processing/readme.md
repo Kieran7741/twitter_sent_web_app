@@ -21,6 +21,6 @@ SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
     max_iter=-1, probability=False, random_state=None, shrinking=True,
     tol=0.001, verbose=False): Score: 0.597
  ```
- ##Note:
- This script takes about 3 minutes to run mainly due to generating the tokenized dataset and the Nearal Net with 
+ ## Note:
+ This script takes about 3 minutes to run mainly due to generating the tokenized dataset and the Neural Network with 
  hidden layers of size 5.
