@@ -1,6 +1,6 @@
 # Text Classification on the 20NewsGroups dataset
 
-This activity was carried out as part of a Machine Learning and Aritificial Intelegence
+This activity was carried out as part of a Machine Learning and Artificial Intelligence Masters
 * Implement text classification using Stemming, Stopping and Term Frequency over Item Document Frequency
 
 ## Script output:
