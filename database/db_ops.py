@@ -18,6 +18,7 @@ def get_tweets_from_collection(db, collection, search):
 
     return db[collection].find(search)
 
+
 def example():
     """
     Example function to populate a database

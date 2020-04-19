@@ -4,9 +4,11 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = '12345'
 print(app.config)
 
+
 class Tweet:
     def __init__(self, tweet_id):
         self.tweet_id = tweet_id
+
 
 html_search = """
 <!DOCTYPE html>
@@ -48,9 +50,11 @@ html_classify = """
 </html>
 """
 
+
 @app.route('/')
 def find_tweet():
     return render_template_string(html_search)
+
 
 @app.route('/display', methods=['POST'])
 def display_tweets():
@@ -61,6 +65,7 @@ def display_tweets():
     session['tweets'] = [{'tweet_id': i + 1} for i in range(session['num_tweets'])]
     print('here')
     return render_template_string(html_classify, topic=session['topic'], num_tweets=session['num_tweets'], tweet=session['tweets'].pop())
+
 
 @app.route('/classify/<tweet_id>', methods=['POST'])
 def classify_tweet(tweet_id):
