@@ -22,7 +22,7 @@ db = get_db('tweets')
 
 @app.route('/positive')
 def get_positive_tweets():
-    tweets = [tweet for tweet in get_tweets_from_collection(db, 'manual_classified', {'sentiment': 'positive'})]
+    tweets = [tweet for tweet in get_tweets_from_collection(db, 'manually_classified', {'sentiment': 'positive'})]
     return jsonify(tweets)
 
 
@@ -61,20 +61,6 @@ def classify_tweet(tweet_id):
         return render_template('search.html')
 
 
-@app.route('/test_jquery')
-def testing_jquery():
-    return render_template('test_jquery.html')
-
-
-@app.route('/_jquery_get')
-def jquery_get():
-    return jsonify(message='Successfully got this message from the server')
-
-
-@app.route('/ping')
-def ping():
-    return jsonify(pong='pong')
-
-
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+
+    app.run(host='0.0.0.0.0')

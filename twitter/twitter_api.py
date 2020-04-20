@@ -55,10 +55,12 @@ class TweetLite:
 
 
 def get_api(consumer_key, consumer_secret, api_key, secret_key):
+    """
+    Fetch authenticated twitter api object
+    """
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(api_key, secret_key)
-    api = tweepy.API(auth)
-    return api
+    return tweepy.API(auth)
 
 
 def display_tweets(tweets):
@@ -74,10 +76,10 @@ def display_tweets(tweets):
 def get_multiple_tweets(api, topic, num_tweets=100, tweetlite=False):
     """
     Get the specified number of tweets for the given topic
-    :param tweetlite:
     :param api: Authenticated api object
     :param topic: Topic to search for
     :param num_tweets: Number of tweets to fetch
+    :param tweetlite: Use custom tweet object
     :return: List of tweets
     """
     tweets = Cursor(api.search, q=topic + ' -filter:retweets', lang='en', tweet_mode='extended').items(num_tweets)
