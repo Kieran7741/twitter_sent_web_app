@@ -50,7 +50,10 @@ def classify_tweet(tweet_id):
     session['num_tweets'] = session['num_tweets'] - 1
 
     print('Tweet ID:', tweet_id, 'Sentiment', request.form['sent'])
-    db.manually_classified.insert_one(session['tweets'][session['num_tweets']])
+    tweet = session['tweets'][session['num_tweets']]
+    tweet['sentiment'] = request.form['sent']
+    print(tweet)
+    db.manually_classified.insert_one(tweet)
     if session['num_tweets']:
         return render_template('classify.html', topic=session['topic'], num_tweets=session['num_tweets'],
                                tweet=session['tweets'][session['num_tweets'] - 1])
@@ -63,4 +66,4 @@ def classify_tweet(tweet_id):
 
 if __name__ == '__main__':
 
-    app.run(host='0.0.0.0.0')
+    app.run(host='0.0.0.0')

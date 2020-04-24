@@ -12,10 +12,11 @@ def get_tweets_from_collection(db, collection, search):
     :param collection: Name of collection to searcg
     :param search: Query dict
     :return:
-    :rtype: `pymongo.cursor.Cursor`
+    :rtype: list
     """
     print(f'Fetching data from {collection} search: {search}')
-
+    result = db[collection].find(search)
+    print(f'Found {result.count()} tweets')
     return [_ for _ in db[collection].find(search)]
 
 

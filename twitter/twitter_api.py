@@ -7,14 +7,14 @@ import json
 
 class TweetLite:
 
-    def __init__(self, tweet_id, text, author, date, location, sentiment='Neutral', _id=None):
+    def __init__(self, tweet_id, text, author, date, location, sentiment='neutral', _id=None):
         self.tweet_id = tweet_id
         self.text = text
         self.author = author
         self.date = str(date)
         self.location = location
         self.sentiment = sentiment
-        self._id = _id or uuid4()
+        self._id = _id or str(uuid4())
 
     @property
     def to_dict(self):
