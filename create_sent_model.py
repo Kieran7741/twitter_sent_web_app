@@ -25,8 +25,8 @@ def load_tweets(db, collection):
     :rtype: list of dict
     """
     positive_tweets = get_tweets_from_collection(db, collection, {'sentiment': 'positive'})
-    neutral_tweets = get_tweets_from_collection(db, 'manually_classified', {'sentiment': 'neutral'})
-    negative_tweets = get_tweets_from_collection(db, 'manually_classified', {'sentiment': 'negative'})
+    neutral_tweets = get_tweets_from_collection(db, collection, {'sentiment': 'neutral'})
+    negative_tweets = get_tweets_from_collection(db, collection, {'sentiment': 'negative'})
 
     return positive_tweets + negative_tweets + neutral_tweets
 

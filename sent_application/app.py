@@ -19,13 +19,6 @@ Session(app)
 twitter_api = get_api(CONSUMER_KEY, CONSUMER_SECRET, API_KEY, SECRET_KEY)
 db = get_db('tweets')
 
-
-@app.route('/positive')
-def get_positive_tweets():
-    tweets = [tweet for tweet in get_tweets_from_collection(db, 'manually_classified', {'sentiment': 'positive'})]
-    return jsonify(tweets)
-
-
 @app.route('/')
 def find_tweet():
     return render_template('search.html')
@@ -45,7 +38,6 @@ def classify_tweet(tweet_id):
     """
     Submit sentiment for a provided tweet
     :param tweet_id: Id of tweet
-    :return:
     """
     session['num_tweets'] = session['num_tweets'] - 1
 
