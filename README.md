@@ -101,6 +101,9 @@ def classify_tweet(tweet_id):
 Now that tweets have been collected we can now begin to train a model to predict the sentiment of new tweets .
 
 #### Steps to building a model
+The model was specifically trained using Motor related tweets. Tweets were gathered using keywords such as
+'Tesla', 'Ford' and Volkswagen.
+
 * Load tweets from database
 ```python
 def load_tweets(db, collection):
@@ -223,6 +226,15 @@ The testing data provided to the model has had punctuation removed which vader t
   
 The custom model from an accuracy standpoint performs worse, however it can identify some positive
 tweets but cannot identify negative tweets.
+
+### Using model on unseen topic: Football
+The models accuracy was tested on the unseen topic of football. 50 football related tweets were used to test the models accuracy.
+```commandline
+Other topic score using Motor car model: Score: 0.48
+```
+
+![Unseen topic of football](./images/Custom_Model_Confusion_Matrix_used_on_Football_tweets.png)
+
 
 ## Final remarks
 Sentiment analysis on tweets is not a straight forward task. Tweets by nature contain slag and poorly 

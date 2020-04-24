@@ -1,8 +1,8 @@
-from flask import Flask, jsonify, request, render_template, session
+from flask import Flask, request, render_template, session
 from flask_bootstrap import Bootstrap
 from twitter.twitter_api import get_api, get_multiple_tweets
 from twitter_keys import CONSUMER_KEY, CONSUMER_SECRET, API_KEY, SECRET_KEY
-from database.db_ops import get_db, get_tweets_from_collection
+from database.db_ops import get_db
 from flask_session import Session
 from datetime import timedelta
 
@@ -18,6 +18,7 @@ Session(app)
 
 twitter_api = get_api(CONSUMER_KEY, CONSUMER_SECRET, API_KEY, SECRET_KEY)
 db = get_db('tweets')
+
 
 @app.route('/')
 def find_tweet():

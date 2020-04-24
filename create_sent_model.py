@@ -130,4 +130,28 @@ if __name__ == "__main__":
     plt.subplots_adjust(bottom=0.25, right=0.80, top=0.75)
 
     compare_sentiment(x_test, y_test, score)
+
+    # Use model on unseen topic: Football
+    other_topic = process_tweet_text(load_tweets(db, 'other_topic'))
+    other_topic_df = pd.DataFrame(columns=['text', 'sentiment'])
+    for tweet in other_topic:
+        other_topic_df.loc[len(other_topic_df)] = [tweet['text'], tweet['sentiment']]
+
+    other_topic_test = tfid_vectorizer.transform(other_topic_df.text)
+
+    other_topic_predictions = model.predict(other_topic_test)
+    other_topic_score = accuracy_score(other_topic_df.sentiment, other_topic_predictions)
+    result_string = f'Other topic score using Motor Car model: Score: {round(other_topic_score, 3)}'
+    print(result_string)
+    cm = confusion_matrix(other_topic_df.sentiment, other_topic_predictions, labels=['positive', 'neutral', 'negative'], normalize='true')
+    plot = ConfusionMatrixDisplay(cm, ['positive', 'neutral', 'negative'])
+    plot.plot(xticks_rotation=45)
+    plot.ax_.set_title(result_string)
+    plot.figure_.canvas.set_window_title('Custom Model used on Football tweets')
+    plt.subplots_adjust(bottom=0.25, right=0.80, top=0.75)
+
     plt.show()
+
+    # Save tweet text and sentiment to csv
+    tweet_df.to_csv('./tweets/motor_tweets.csv')
+    other_topic_df.to_csv('./tweets/football_tweets.csv')
