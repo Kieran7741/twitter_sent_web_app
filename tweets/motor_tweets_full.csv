@@ -1,31 +1,31 @@
-,_id,tweet_id,text,author,date,location,sentiment
+,_id,tweet_id,text,author,date,location,sentiment,author_fav_count,author_followers,tweet_retweets,tweet_favs
 0,2edb73b2-01cd-4e91-a6cc-7bc80369fd10,1251858372342755328,"Honda Motor Reduces Trial and Development Time Thanks to the Accuracy of Water Impact #Simulation Testing
 
 #VirtualPrototyping #VPS #Automotive
-https://t.co/yRJgxxU4DM",ESI Group,2020-04-19 13:01:09,"Paris, France",positive
-1,47796f16-dd8c-4887-9ac6-9d44b210f6b0,1252363318448119812,@namjoon_trash94 Its the Hyundai project thing. But Jungkook looooookkkkssss greeeeaaaaaatttt as alwayyyyys😭😭😭💜💜💜💜,AnyaJeon⁷,2020-04-20 22:27:37,Hope World,positive
-2,b28b15fc-5c3c-4130-a0d6-392e2cad3d59,1252355091174047744,Feeling a strange tilt on one side of your #VW? It's probably time to stop by our Service Center and get your Tires Rotated by our excellent technicians! #VWLove #Volkswagen Book appointment: https://t.co/UEDE7XcYMj https://t.co/jjoZwjUcJN,HewlettVW,2020-04-20 21:54:56,"Just north of Austin, Texas",positive
-3,1e75bab9-7f3b-4a67-8574-6383d01883c4,1252357920316026880,I learned out of necessity on a Volkswagen Jetta when I was 21 but I very much prefer an automatic transmission. https://t.co/2rffkXJ4RE,Spencer W. McBride,2020-04-20 22:06:10,,positive
-4,81ea2be8-4d23-4aa9-b91b-f894afecd14f,1252364845984346113,@nicdasilva @volkswagen So cute!! ❤️,Karen Longo,2020-04-20 22:33:41,"The Villages, FL",positive
+https://t.co/yRJgxxU4DM",ESI Group,2020-04-19 13:01:09,"Paris, France",positive,,,,
+1,47796f16-dd8c-4887-9ac6-9d44b210f6b0,1252363318448119812,@namjoon_trash94 Its the Hyundai project thing. But Jungkook looooookkkkssss greeeeaaaaaatttt as alwayyyyys😭😭😭💜💜💜💜,AnyaJeon⁷,2020-04-20 22:27:37,Hope World,positive,,,,
+2,b28b15fc-5c3c-4130-a0d6-392e2cad3d59,1252355091174047744,Feeling a strange tilt on one side of your #VW? It's probably time to stop by our Service Center and get your Tires Rotated by our excellent technicians! #VWLove #Volkswagen Book appointment: https://t.co/UEDE7XcYMj https://t.co/jjoZwjUcJN,HewlettVW,2020-04-20 21:54:56,"Just north of Austin, Texas",positive,,,,
+3,1e75bab9-7f3b-4a67-8574-6383d01883c4,1252357920316026880,I learned out of necessity on a Volkswagen Jetta when I was 21 but I very much prefer an automatic transmission. https://t.co/2rffkXJ4RE,Spencer W. McBride,2020-04-20 22:06:10,,positive,,,,
+4,81ea2be8-4d23-4aa9-b91b-f894afecd14f,1252364845984346113,@nicdasilva @volkswagen So cute!! ❤️,Karen Longo,2020-04-20 22:33:41,"The Villages, FL",positive,,,,
 5,bf27aebd-3d8c-4c5b-abef-c0d467315f76,1252365290551119872,"Some exiting news I wanted to share!
 
 So I talked to my mam after watching the Bumblebee movie saying that I wanted a 1967 Volkswagen Beetle and she wanted the same car! So she is gunna help me get a 1967 Volkswagen Beetle, just like the one in the film!!
 
-So exiting!!!! https://t.co/q4cfuhOTFO",Jar of Tesco's Gherkins,2020-04-20 22:35:27,,positive
+So exiting!!!! https://t.co/q4cfuhOTFO",Jar of Tesco's Gherkins,2020-04-20 22:35:27,,positive,,,,
 6,7d1e24b1-3c14-4dc2-820a-0ec408cb02eb,1252296792290582529,"""The online synthesis workshop allowed us to keep a key research initiative moving.  We were able to collaborate without having to travel and the end result was clarity and confidence on the path forward."" Mark Duer, Design Research, Ford Motor Company
-https://t.co/d3zgEtf00U https://t.co/76xrRAf4zH",lextant,2020-04-20 18:03:16,"Columbus, Ohio",positive
-7,6d62741a-1916-4709-a337-edc60c28f311,1252296849622552576,Ford Motor Company gave their car designers a special assignment. Craft up activity sheets + coloring pages to amuse kids stuck at home during the pandemic. Check out these fun free downloads available from @Ford:  https://t.co/WRSckrw5TG #StayHome #StaySafe https://t.co/BRVXLTiEwc,A Geek Daddy,2020-04-20 18:03:30,"Detroit, Michigan USA",positive
-8,ce589535-0a41-4fa6-89a7-1e08dd0c6e12,1252326179249537024,Congrats to our customers #GE Healthcare and #Ford Motor Company for their work together in increasing ventilator production and helping health care workers save lives. #covid19 #coronavirus #fighttheviruswithus https://t.co/ILZSkscxUZ,BL@,2020-04-20 20:00:02,München,positive
-9,ec2f0100-3072-48d2-8313-1f18113af363,1252363774532521984,"https://t.co/YRx21bvhZE On Monday Grandad and i worked on his cars. My favorite car is a 1984 toyota group b rally car. He has a lot of cars, he collects them. Grandads favorite car is a renolt. Grandad has been ... https://t.co/UFziuRkiQU",Toki Pounamu,2020-04-20 22:29:26,"West Coast Region, New Zealand",positive
-10,717219d6-d00b-406e-9f23-4b7edb635382,1252364194436939776,Ima get a job at Toyota JZ be spending racks on designer https://t.co/GdWfqLSHne,raúl,2020-04-20 22:31:06,"Denver, CO",positive
-11,6a1bc58c-b6c0-4a83-b486-0bf17972c427,1252364630262820864,"y’all 2020 is like a nissan altima , mine is more like a Toyota corolla ... keeping it safe and secure .",may 10th . 🖤,2020-04-20 22:32:50,,positive
+https://t.co/d3zgEtf00U https://t.co/76xrRAf4zH",lextant,2020-04-20 18:03:16,"Columbus, Ohio",positive,,,,
+7,6d62741a-1916-4709-a337-edc60c28f311,1252296849622552576,Ford Motor Company gave their car designers a special assignment. Craft up activity sheets + coloring pages to amuse kids stuck at home during the pandemic. Check out these fun free downloads available from @Ford:  https://t.co/WRSckrw5TG #StayHome #StaySafe https://t.co/BRVXLTiEwc,A Geek Daddy,2020-04-20 18:03:30,"Detroit, Michigan USA",positive,,,,
+8,ce589535-0a41-4fa6-89a7-1e08dd0c6e12,1252326179249537024,Congrats to our customers #GE Healthcare and #Ford Motor Company for their work together in increasing ventilator production and helping health care workers save lives. #covid19 #coronavirus #fighttheviruswithus https://t.co/ILZSkscxUZ,BL@,2020-04-20 20:00:02,München,positive,,,,
+9,ec2f0100-3072-48d2-8313-1f18113af363,1252363774532521984,"https://t.co/YRx21bvhZE On Monday Grandad and i worked on his cars. My favorite car is a 1984 toyota group b rally car. He has a lot of cars, he collects them. Grandads favorite car is a renolt. Grandad has been ... https://t.co/UFziuRkiQU",Toki Pounamu,2020-04-20 22:29:26,"West Coast Region, New Zealand",positive,,,,
+10,717219d6-d00b-406e-9f23-4b7edb635382,1252364194436939776,Ima get a job at Toyota JZ be spending racks on designer https://t.co/GdWfqLSHne,raúl,2020-04-20 22:31:06,"Denver, CO",positive,,,,
+11,6a1bc58c-b6c0-4a83-b486-0bf17972c427,1252364630262820864,"y’all 2020 is like a nissan altima , mine is more like a Toyota corolla ... keeping it safe and secure .",may 10th . 🖤,2020-04-20 22:32:50,,positive,,,,
 12,4299fdf7-78c9-40ab-b622-f6cf46b775ca,1252366047346167808,"@olanike_ayomide @Sonjoe_Kutuh Just imagine comparing Benz C200 Kompressor to Toyota corolla 2020 edition 
 
-Its benz but not close at all",WaakyeTwo ShitoNkoaaa 🇬🇭🇬🇭,2020-04-20 22:38:28,"Accra, Ghana",positive
-13,615dfa20-95e3-4404-a084-a339f825358e,1252367557186576390,I have an interview tomorrow for Toyota corporate in Phoenix. Should I take the job if I get it??,You,2020-04-20 22:44:28,Naptown USA,positive
-14,50c77753-a878-4704-bd8d-1d76827156cf,1252368001183039491,only goal in my life is to travel around the world with my Toyota Land Cruiser and some kittens.,Sherwin Dcunha,2020-04-20 22:46:14,"Muscat, Oman",positive
-15,eb826806-f9a1-49c8-bb18-8565d7a792dc,1252363338597625861,"I don't want friends, I want audi's.",👑,2020-04-20 22:27:42,elusive👄,positive
-16,0bcde657-b521-4bb8-aed1-1995ad20e352,1252364515796107271,Can’t wait for these Audi’s to come in for my kids 😌😌😌,👑Prxncess👑,2020-04-20 22:32:23,,positive
+Its benz but not close at all",WaakyeTwo ShitoNkoaaa 🇬🇭🇬🇭,2020-04-20 22:38:28,"Accra, Ghana",positive,,,,
+13,615dfa20-95e3-4404-a084-a339f825358e,1252367557186576390,I have an interview tomorrow for Toyota corporate in Phoenix. Should I take the job if I get it??,You,2020-04-20 22:44:28,Naptown USA,positive,,,,
+14,50c77753-a878-4704-bd8d-1d76827156cf,1252368001183039491,only goal in my life is to travel around the world with my Toyota Land Cruiser and some kittens.,Sherwin Dcunha,2020-04-20 22:46:14,"Muscat, Oman",positive,,,,
+15,eb826806-f9a1-49c8-bb18-8565d7a792dc,1252363338597625861,"I don't want friends, I want audi's.",👑,2020-04-20 22:27:42,elusive👄,positive,,,,
+16,0bcde657-b521-4bb8-aed1-1995ad20e352,1252364515796107271,Can’t wait for these Audi’s to come in for my kids 😌😌😌,👑Prxncess👑,2020-04-20 22:32:23,,positive,,,,
 17,c9a85673-a772-4dff-987e-873c8451bece,1252365478573400065,"I would like to take a route and drive and drive ... and enjoy the sea! 🌊🌞
 and you? 
 What would you like to do?😀
@@ -41,42 +41,42 @@ What would you like to do?😀
 .
 .
 .
-#quarantine #cuarentena #bucewillis #enjoy #covid_19 #car #sunglasses #audi https://t.co/aQ6LyAJqo6",𝐵𝑟𝑢𝑐𝑒 𝑊𝑖𝑙𝑙𝑖𝑠 𝐷𝑜𝑢𝑏𝑙𝑒,2020-04-20 22:36:12,Ciudad Autónoma de Buenos Aire,positive
-18,1c4f6a96-1258-4a35-ae89-1ee6c965e25f,1252367062250303491,Still blazing......happy 420 y’all 💨 💨 https://t.co/ODcn53UwZ9,NOLO,2020-04-20 22:42:30,The Bronx Soundview ✈️ Tampa ,positive
+#quarantine #cuarentena #bucewillis #enjoy #covid_19 #car #sunglasses #audi https://t.co/aQ6LyAJqo6",𝐵𝑟𝑢𝑐𝑒 𝑊𝑖𝑙𝑙𝑖𝑠 𝐷𝑜𝑢𝑏𝑙𝑒,2020-04-20 22:36:12,Ciudad Autónoma de Buenos Aire,positive,,,,
+18,1c4f6a96-1258-4a35-ae89-1ee6c965e25f,1252367062250303491,Still blazing......happy 420 y’all 💨 💨 https://t.co/ODcn53UwZ9,NOLO,2020-04-20 22:42:30,The Bronx Soundview ✈️ Tampa ,positive,,,,
 19,8533a177-410c-4ce4-bc81-93dee755067e,1252367673272397825,"“My happiness is predicated by humility” - @garyvee 
 
-#paeuros #audi #audisport #audipittsburgh #audisportquattro #audizine #rs4 #b7rs4 #b7 #rsgang #quattro #misano #misanored #misanors4 #audizine #widebody… https://t.co/8RxiStiDs5",Jon Stuver,2020-04-20 22:44:55,"Pittsburgh, PA",positive
-20,ac97e1bc-735b-46ae-8127-df175b74d0e0,1252368385385435136,I’m so stuck between getting this Audi or Genesis☹️,Jaylene figueroa,2020-04-20 22:47:45,,positive
-21,bcbc82f8-c1da-46ad-ac70-39212e3e701d,1252367909571026954,@G2esports @BMW Wunder solo killing Bwipo twice in a row during the 3rd game. Me &amp; my friends talked about this moment a lot last night.,RabDiwk.,2020-04-20 22:45:52,Right,positive
+#paeuros #audi #audisport #audipittsburgh #audisportquattro #audizine #rs4 #b7rs4 #b7 #rsgang #quattro #misano #misanored #misanors4 #audizine #widebody… https://t.co/8RxiStiDs5",Jon Stuver,2020-04-20 22:44:55,"Pittsburgh, PA",positive,,,,
+20,ac97e1bc-735b-46ae-8127-df175b74d0e0,1252368385385435136,I’m so stuck between getting this Audi or Genesis☹️,Jaylene figueroa,2020-04-20 22:47:45,,positive,,,,
+21,bcbc82f8-c1da-46ad-ac70-39212e3e701d,1252367909571026954,@G2esports @BMW Wunder solo killing Bwipo twice in a row during the 3rd game. Me &amp; my friends talked about this moment a lot last night.,RabDiwk.,2020-04-20 22:45:52,Right,positive,,,,
 22,1290b103-2304-44b5-a409-cb0dba197cdf,1252367951417638919,"BMW of El Paso appreciates all of our customers' support. Leave us a review about your experience with us today. We look forward to your next visit! 
-https://t.co/KhV5CRuwpk https://t.co/AAPTJO0dsx",BMW of El Paso,2020-04-20 22:46:02,"El Paso, TX",positive
-23,dc6da2b5-d314-4c1f-8c19-214c2126ae9a,1252368042329178112,@G2esports @BMW @G2Wunder absolutely slamming Bwipo in 2 1v1s in Game 3,Bungoh,2020-04-20 22:46:23,Some house,positive
-24,3c40eda6-9ae4-4c78-b671-0f5b4fd7b262,1252368056703057920,Prepped For Track Work. https://t.co/bbfzhKpeN4,News BMW,2020-04-20 22:46:27,USA,positive
-25,43f36d4a-f330-42c5-80bf-338432df26a8,1252369649544527873,@G2esports @BMW When Wunder dominated Bwipo in both sides of the Ornn vs. Zac matchup ! #Denmark @G2Wunder,Viktor | Shwiftey,2020-04-20 22:52:47,denmark frederikshavn,positive
-26,512a5c81-2e77-449f-bf77-4df17f9c39c0,1252945247430115328,"NPR’s Rachel Martin talks to Adrian Price, Ford’s director of manufacturing, about the company’s efforts to repurpose equipment used to make cars to now make ventilators and other medical supplies. https://t.co/z7KzOsPAH2 https://t.co/Nr5sStmztr",AMT,2020-04-22 13:00:00,"McLean, VA",positive
-27,aeedf149-da58-44c2-b6de-a55953ba3d12,1252947340266278913,Hero of the day: @Ford Motor Company for converting their plants to manufacture ventilators. #heroes #heroesworkhere #Ford #fordmotorcompany #ventilators #coronavirus #covid19 https://t.co/VAucIpbrWo,Steve Hasting,2020-04-22 13:08:19,"Tulsa, Okla",positive
-28,02efe4c4-9e1b-41a7-9bbd-9aacaf8ad732,1252958604648423425,Happy Earth Day from Ford Motor Company! #EarthDay2020 #EarthDay #WorldEarthDay https://t.co/aQJXmAKDp1,Ford Careers,2020-04-22 13:53:04,Global,positive
-29,479ae555-f174-48c3-b80b-eed5bfc4e6bc,1252968677844168704,"Based on Red Hat® OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story https://t.co/YvTj0NwcwG",Daniel Oh,2020-04-22 14:33:06,"Boston, MA",positive
+https://t.co/KhV5CRuwpk https://t.co/AAPTJO0dsx",BMW of El Paso,2020-04-20 22:46:02,"El Paso, TX",positive,,,,
+23,dc6da2b5-d314-4c1f-8c19-214c2126ae9a,1252368042329178112,@G2esports @BMW @G2Wunder absolutely slamming Bwipo in 2 1v1s in Game 3,Bungoh,2020-04-20 22:46:23,Some house,positive,,,,
+24,3c40eda6-9ae4-4c78-b671-0f5b4fd7b262,1252368056703057920,Prepped For Track Work. https://t.co/bbfzhKpeN4,News BMW,2020-04-20 22:46:27,USA,positive,,,,
+25,43f36d4a-f330-42c5-80bf-338432df26a8,1252369649544527873,@G2esports @BMW When Wunder dominated Bwipo in both sides of the Ornn vs. Zac matchup ! #Denmark @G2Wunder,Viktor | Shwiftey,2020-04-20 22:52:47,denmark frederikshavn,positive,,,,
+26,512a5c81-2e77-449f-bf77-4df17f9c39c0,1252945247430115328,"NPR’s Rachel Martin talks to Adrian Price, Ford’s director of manufacturing, about the company’s efforts to repurpose equipment used to make cars to now make ventilators and other medical supplies. https://t.co/z7KzOsPAH2 https://t.co/Nr5sStmztr",AMT,2020-04-22 13:00:00,"McLean, VA",positive,,,,
+27,aeedf149-da58-44c2-b6de-a55953ba3d12,1252947340266278913,Hero of the day: @Ford Motor Company for converting their plants to manufacture ventilators. #heroes #heroesworkhere #Ford #fordmotorcompany #ventilators #coronavirus #covid19 https://t.co/VAucIpbrWo,Steve Hasting,2020-04-22 13:08:19,"Tulsa, Okla",positive,,,,
+28,02efe4c4-9e1b-41a7-9bbd-9aacaf8ad732,1252958604648423425,Happy Earth Day from Ford Motor Company! #EarthDay2020 #EarthDay #WorldEarthDay https://t.co/aQJXmAKDp1,Ford Careers,2020-04-22 13:53:04,Global,positive,,,,
+29,479ae555-f174-48c3-b80b-eed5bfc4e6bc,1252968677844168704,"Based on Red Hat® OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story https://t.co/YvTj0NwcwG",Daniel Oh,2020-04-22 14:33:06,"Boston, MA",positive,,,,
 30,9915e38d-9ad0-432e-9c2d-9df6ec345902,1253002941692293121,"UAW-Ford Stands Up! In the toughest of times and in times of need, UAW members, along with the Ford Motor Company, have always been on the front lines to help out their local communities as well as the nation.
-https://t.co/uskvczxhmj https://t.co/4pKwghsBtC",UAW - Ford Dept.,2020-04-22 16:49:15,"Detroit, Michigan",positive
+https://t.co/uskvczxhmj https://t.co/4pKwghsBtC",UAW - Ford Dept.,2020-04-22 16:49:15,"Detroit, Michigan",positive,,,,
 31,97820970-1465-43c1-8d13-7be8d4aeebc6,1253007476313579520,"(Natural News)
  To help with the nation’s response to the Wuhan coronavirus (COVID-19) crisis, Ford Motor Company has decided to repurpose production on one of its vehicle components to produce thousands of potentially life-saving ventilators f ...
 
-https://t.co/l3DXkm9lHl https://t.co/yVkHKPX7x8",💥💥💥💥💥⓵ⒷⓊⓋ💥💥💥💥💥,2020-04-22 17:07:16, 🌎 ❤️️ เt ๏г lєคשє เt 💫👽,positive
+https://t.co/l3DXkm9lHl https://t.co/yVkHKPX7x8",💥💥💥💥💥⓵ⒷⓊⓋ💥💥💥💥💥,2020-04-22 17:07:16, 🌎 ❤️️ เt ๏г lєคשє เt 💫👽,positive,,,,
 32,80f55951-1c8d-4286-b2f3-feb72552e887,1253013999618310145,"Sharing the wonderful Frontline Worker tribute video from Ford Motor Company! Thank you for providing KDPS with needed face shields to ensure our safety during the Covid-19 response. #inthistogether #backtheblue #TDMFaceshields #FordBuiltTough
 
-https://t.co/MMvSa6wsUk https://t.co/qgThWAIhQj",KDPS,2020-04-22 17:33:12,"Kalamazoo, MI",positive
+https://t.co/MMvSa6wsUk https://t.co/qgThWAIhQj",KDPS,2020-04-22 17:33:12,"Kalamazoo, MI",positive,,,,
 33,4feb10af-abf6-4189-940e-a358b81cbd2a,1253021371778715648,"A UK motor insurance company has become the first to offer customers an unprompted refund of £25 as vehicles up and down the nation remain idle during the coronavirus (COVID-19) lockdown.
 
 Will your insurer give you a refund?
 
-TAP THIS LINK TO READ MORE 🔻 https://t.co/4Qokd9lO89 https://t.co/d8rqU9e2iD",Essex Ford,2020-04-22 18:02:29,"Essex, UK",positive
-34,8e3f51d5-6ee7-47e2-9c12-c0e08fcf74f8,1253022220408029184,Congrats to my FAMU Freshman Sister Crystal Green Worthem of Ford Motor Company! #FordMotorCompany #FAMU #CoverGirl https://t.co/is4sRSNToO,Alan Williams,2020-04-22 18:05:52,"Shooting hoops w/ my Son, USA",positive
-35,23ec9079-eb37-4724-9a81-d1ae3ca6cce4,1252905619691991041,"$TSLA #Tesla TSLA - Embedded Expectations Analysis - 2020 04 22:  Tesla, Inc. (TSLA:USA) currently trades well above corporate averages relative to UAFRS-based (Uniform) earnings, with a 69.9x Uniform P/E. At these levels, the market… https://t.co/CxYZaMReDr #equity #stocks",ResearchPool,2020-04-22 10:22:32,"Paris, France",positive
+TAP THIS LINK TO READ MORE 🔻 https://t.co/4Qokd9lO89 https://t.co/d8rqU9e2iD",Essex Ford,2020-04-22 18:02:29,"Essex, UK",positive,,,,
+34,8e3f51d5-6ee7-47e2-9c12-c0e08fcf74f8,1253022220408029184,Congrats to my FAMU Freshman Sister Crystal Green Worthem of Ford Motor Company! #FordMotorCompany #FAMU #CoverGirl https://t.co/is4sRSNToO,Alan Williams,2020-04-22 18:05:52,"Shooting hoops w/ my Son, USA",positive,,,,
+35,23ec9079-eb37-4724-9a81-d1ae3ca6cce4,1252905619691991041,"$TSLA #Tesla TSLA - Embedded Expectations Analysis - 2020 04 22:  Tesla, Inc. (TSLA:USA) currently trades well above corporate averages relative to UAFRS-based (Uniform) earnings, with a 69.9x Uniform P/E. At these levels, the market… https://t.co/CxYZaMReDr #equity #stocks",ResearchPool,2020-04-22 10:22:32,"Paris, France",positive,,,,
 36,28d7bb31-8fd7-4131-af4f-78268d230a4d,1252916623738130433,"1 entrepreneurial trait may be at the heart of success, and Tesla's Elon Musk demonstrated it in spades... https://t.co/LSIXgowG2f
-#doaday #speaker https://t.co/dLCtKeQfjC","Bryan Falchuk, Public Speaker, Coach, Author Ⓥ",2020-04-22 11:06:15,"Boston, MA",positive
-37,028e3870-b6b8-4d08-8ce3-ee5398ef3457,1252938008615104513,"New post (Apple Inc. (NASDAQ:AAPL), Tesla Motors, Inc. (NASDAQ:TSLA) - Gene Munster Sees Apple And Tesla As Biggest Winners This Earnings Season) has been published on FUNDSWIFT - https://t.co/gEN1fRForV https://t.co/ePoqP8o5Ux",FundSwift,2020-04-22 12:31:14,,positive
-38,15e9a86d-c054-4399-9f08-807ce796ab4b,1252953438473859073,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Bain capital changed the rating to Buy, as Tesla, Inc. (TSLA) reported a net revenue that soared 617%.",EquityMarketPredictor,2020-04-22 13:32:33,,positive
+#doaday #speaker https://t.co/dLCtKeQfjC","Bryan Falchuk, Public Speaker, Coach, Author Ⓥ",2020-04-22 11:06:15,"Boston, MA",positive,,,,
+37,028e3870-b6b8-4d08-8ce3-ee5398ef3457,1252938008615104513,"New post (Apple Inc. (NASDAQ:AAPL), Tesla Motors, Inc. (NASDAQ:TSLA) - Gene Munster Sees Apple And Tesla As Biggest Winners This Earnings Season) has been published on FUNDSWIFT - https://t.co/gEN1fRForV https://t.co/ePoqP8o5Ux",FundSwift,2020-04-22 12:31:14,,positive,,,,
+38,15e9a86d-c054-4399-9f08-807ce796ab4b,1252953438473859073,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Bain capital changed the rating to Buy, as Tesla, Inc. (TSLA) reported a net revenue that soared 617%.",EquityMarketPredictor,2020-04-22 13:32:33,,positive,,,,
 39,aab392ce-111d-4b7f-9925-0573dc4d7bcb,1252997757364834304,"TSLA Stock Price | Tesla Inc. Stock Quote (U.S.: Nasdaq) | MarketWatch
 
 Tesla is doing very good.
@@ -87,190 +87,304 @@ Sam
 
 Houston 
 
- https://t.co/FY9odzvE0T",Sam Rupani,2020-04-22 16:28:39,,positive
-40,594c9662-26fa-4939-97cd-de5a3d25ac9f,1253035644936486914,Our showroom has plenty of space to safely shop and practice social distancing! https://t.co/oQrG5mDpnX,Huggins Honda,2020-04-22 18:59:12,"North Richland Hills, TX",positive
-41,674e3764-b4e3-4a63-b5aa-c9760e0f705b,1253035945596772352,"Your local @Honda dealers are committed to serving our community. We know you depend on your car, particularly now. With vehicle pickups and drop offs available, feel free to schedule service, enhanced sanitation, or an inspection at your local Honda dealer. https://t.co/QDb1ERELjt",Northwest Honda,2020-04-22 19:00:24,"Washington, Oregon, California",positive
+ https://t.co/FY9odzvE0T",Sam Rupani,2020-04-22 16:28:39,,positive,,,,
+40,594c9662-26fa-4939-97cd-de5a3d25ac9f,1253035644936486914,Our showroom has plenty of space to safely shop and practice social distancing! https://t.co/oQrG5mDpnX,Huggins Honda,2020-04-22 18:59:12,"North Richland Hills, TX",positive,,,,
+41,674e3764-b4e3-4a63-b5aa-c9760e0f705b,1253035945596772352,"Your local @Honda dealers are committed to serving our community. We know you depend on your car, particularly now. With vehicle pickups and drop offs available, feel free to schedule service, enhanced sanitation, or an inspection at your local Honda dealer. https://t.co/QDb1ERELjt",Northwest Honda,2020-04-22 19:00:24,"Washington, Oregon, California",positive,,,,
 42,c6d9a52a-eff4-42b6-b84e-d2090d9cd9ae,1253061384146911233,"I'd love a cheap cyber sports car
-https://t.co/lYXxUhBlu2",50% Ramen🍜,2020-04-22 20:41:29,New York,positive
-43,528f398a-148f-4378-b867-ca2c3b2da45f,1253039679990980610,#NMED just announced recipients of this round of Volkswagen settlement funding on the 50th anniversary of #EarthDay! These projects will result in fewer harmful emissions - great news for #NewMexicans and the environment!,New Mexico Environment Department,2020-04-22 19:15:14,"New Mexico, USA",positive
+https://t.co/lYXxUhBlu2",50% Ramen🍜,2020-04-22 20:41:29,New York,positive,,,,
+43,528f398a-148f-4378-b867-ca2c3b2da45f,1253039679990980610,#NMED just announced recipients of this round of Volkswagen settlement funding on the 50th anniversary of #EarthDay! These projects will result in fewer harmful emissions - great news for #NewMexicans and the environment!,New Mexico Environment Department,2020-04-22 19:15:14,"New Mexico, USA",positive,,,,
 44,07af699a-dbff-474c-a711-be9bda1f8627,1253043506400178176,"When people doubt your ideas just remember Ford turned down Volkswagen for free (They own Lamborghini, Bentley, Bugatti, Porsche, Audi + more) because they thought it was worthless. 
 
-Keep going, with proven results the support will follow.",SUCCESSFUL,2020-04-22 19:30:27,GymBox London,positive
+Keep going, with proven results the support will follow.",SUCCESSFUL,2020-04-22 19:30:27,GymBox London,positive,,,,
 45,b1849498-9793-4969-9a6c-fed520e6f33e,1253061521313161216,"So today, my coffee was actually paid for by a dude driving the new butterfly door Tesla. And he gave Starbucks a $500 tip and $1k worth of free coffee for the next few hours that people go there ☕️ 
 
 just radiating Big Dick Energy
 
-findom • finD",⛓Mei V🖤,2020-04-22 20:42:02,READ PINNED TWEET,positive
+findom • finD",⛓Mei V🖤,2020-04-22 20:42:02,READ PINNED TWEET,positive,,,,
 46,e4c1224d-1429-424f-b535-47410d236c60,1253048188531027969,"We want to make your car buying experience convenient and stress-free. Browse our inventory from the comfort of your own home!
 
-#VW #Pasadena #Volkswagen #Turbo #VolksLovers #socal #DealershipLife #VWLife #VWLifestyle #VWLove #VDub #NowYouCan #VDubLove #VWSociety #DubLoveLess https://t.co/yttQHWdVX8",Volkswagen Pasadena,2020-04-22 19:49:03,"Pasadena, CA",positive
-47,7b26b97c-4c6b-4bd3-b1c7-1bca8cc3c71e,1253062348975136768,"I’m so proud of having had the opportunity to work in companies commited with #sustainability Thank you 🙏 Tesla, BoA, Merrill. We are green!! #proudwoman #ESG #tech #HappyEarthDay #EnergyEfficiency #EnergyTransition One panel, car, investment at a time!! 🥰😍 https://t.co/KFQeMazAOc https://t.co/a2XXSMQgFs",LIZ BAZURTO,2020-04-22 20:45:19,"Beverly Hills, CA",positive
+#VW #Pasadena #Volkswagen #Turbo #VolksLovers #socal #DealershipLife #VWLife #VWLifestyle #VWLove #VDub #NowYouCan #VDubLove #VWSociety #DubLoveLess https://t.co/yttQHWdVX8",Volkswagen Pasadena,2020-04-22 19:49:03,"Pasadena, CA",positive,,,,
+47,7b26b97c-4c6b-4bd3-b1c7-1bca8cc3c71e,1253062348975136768,"I’m so proud of having had the opportunity to work in companies commited with #sustainability Thank you 🙏 Tesla, BoA, Merrill. We are green!! #proudwoman #ESG #tech #HappyEarthDay #EnergyEfficiency #EnergyTransition One panel, car, investment at a time!! 🥰😍 https://t.co/KFQeMazAOc https://t.co/a2XXSMQgFs",LIZ BAZURTO,2020-04-22 20:45:19,"Beverly Hills, CA",positive,,,,
 48,c490e52a-9c07-47ac-87eb-30dc06017b34,1253048949973430272,"It’s beauty glistens. ✨ #CardinaleVW
 
 2020 Volkswagen #Passat 2.0T R-Line shown in Platinum Grey.
 
-Visit us - https://t.co/Qp7NKqh5O6 💻 https://t.co/OCeSHImL4D",Cardinale Volkswagen,2020-04-22 19:52:04,"Salinas, CA",positive
-49,a08237c5-c486-439d-a78c-0df2233975f8,1253062485852057600,Happy #EarthDay2020 with @Tesla https://t.co/1C9mUQU605,Vincent,2020-04-22 20:45:52,"Irvine, CA",positive
-50,541eaa1f-3e7f-4628-915f-49e90d33df7d,1253062551589588992,Leno could see Tesla was the future while driving the Roadster. https://t.co/lH0P2NcKsT,InsideHook,2020-04-22 20:46:07,"New York, NY",positive
-51,d8e41e80-67aa-46d7-a27e-843438844022,1253049278886318080,Some friends on Facebook pointed out that I did exactly this in my Volkswagen bus when I was 25 and I couldn't be happier to have been so wrong. No regrets!,Grunion Guy (Blue Checkmark),2020-04-22 19:53:23,Under the Sea,positive
-52,7616a21d-698d-40bb-af91-fe06333affde,1253051675889238016,"Still wild how Yoruba accent turned the Volkswagen Vanagon to ""Fanagon"" 😂",Al Sa-her™,2020-04-22 20:02:54,,positive
-53,c8b0cc3b-987e-4826-9a91-15d9cf17d6cb,1253051908152946688,Fun fact about me : when I get older I wanna get a Volkswagen van pimp it out and travel the whole USA in it !,Aliegh Kristina,2020-04-22 20:03:50,UP STATE NEW YORK ,positive
-54,c7f926fa-3f77-4495-9d80-6b1951ee4986,1253062570279239681,@pulte Would it be possible to get one share of Tesla to see it grow for my kids future education fund?  $aerialjc if that’s possible.  😬,John Cover,2020-04-22 20:46:12,"Cheyenne, WY",positive
-55,29ec9d92-519a-469b-9eb3-a01caedd9612,1253062577384574978,@vincent13031925 @Tesla I love this!,James Boylan,2020-04-22 20:46:13,"Wisconsin, USA",positive
+Visit us - https://t.co/Qp7NKqh5O6 💻 https://t.co/OCeSHImL4D",Cardinale Volkswagen,2020-04-22 19:52:04,"Salinas, CA",positive,,,,
+49,a08237c5-c486-439d-a78c-0df2233975f8,1253062485852057600,Happy #EarthDay2020 with @Tesla https://t.co/1C9mUQU605,Vincent,2020-04-22 20:45:52,"Irvine, CA",positive,,,,
+50,541eaa1f-3e7f-4628-915f-49e90d33df7d,1253062551589588992,Leno could see Tesla was the future while driving the Roadster. https://t.co/lH0P2NcKsT,InsideHook,2020-04-22 20:46:07,"New York, NY",positive,,,,
+51,d8e41e80-67aa-46d7-a27e-843438844022,1253049278886318080,Some friends on Facebook pointed out that I did exactly this in my Volkswagen bus when I was 25 and I couldn't be happier to have been so wrong. No regrets!,Grunion Guy (Blue Checkmark),2020-04-22 19:53:23,Under the Sea,positive,,,,
+52,7616a21d-698d-40bb-af91-fe06333affde,1253051675889238016,"Still wild how Yoruba accent turned the Volkswagen Vanagon to ""Fanagon"" 😂",Al Sa-her™,2020-04-22 20:02:54,,positive,,,,
+53,c8b0cc3b-987e-4826-9a91-15d9cf17d6cb,1253051908152946688,Fun fact about me : when I get older I wanna get a Volkswagen van pimp it out and travel the whole USA in it !,Aliegh Kristina,2020-04-22 20:03:50,UP STATE NEW YORK ,positive,,,,
+54,c7f926fa-3f77-4495-9d80-6b1951ee4986,1253062570279239681,@pulte Would it be possible to get one share of Tesla to see it grow for my kids future education fund?  $aerialjc if that’s possible.  😬,John Cover,2020-04-22 20:46:12,"Cheyenne, WY",positive,,,,
+55,29ec9d92-519a-469b-9eb3-a01caedd9612,1253062577384574978,@vincent13031925 @Tesla I love this!,James Boylan,2020-04-22 20:46:13,"Wisconsin, USA",positive,,,,
 56,ed2823a3-6cd4-4c26-bf78-78074cc0be51,1253062600675319808,"Happy Earth Day!! 
-#tesla #reVolution #EarthDay https://t.co/ujEPjvPmj1",Roberto Mondragon,2020-04-22 20:46:19,Bay Area SFO,positive
-57,fd1d746a-22f2-40f0-b066-7596fb892eb8,1253053292537659394,I can’t wait to get a Volkswagen 😭😭,🔮 BAD WITCH 🔮,2020-04-22 20:09:20,,positive
+#tesla #reVolution #EarthDay https://t.co/ujEPjvPmj1",Roberto Mondragon,2020-04-22 20:46:19,Bay Area SFO,positive,,,,
+57,fd1d746a-22f2-40f0-b066-7596fb892eb8,1253053292537659394,I can’t wait to get a Volkswagen 😭😭,🔮 BAD WITCH 🔮,2020-04-22 20:09:20,,positive,,,,
 58,b95ad7f5-c0e8-47fa-9e9e-c164cd860a73,1253054478279946241,"Come in and have your vehicle climate control and A/C functions tested - on us.
 
-#VW #Pasadena #Volkswagen #Turbo #VolksLovers #socal #DealershipLife #VWLife #VWLifestyle #VWLove #VDub #NowYouCan #VDubLove #VWSociety #DubLoveLess https://t.co/6nZS2ltWwC",@TimmonsLB,2020-04-22 20:14:02,"Long Beach, CA",positive
-59,224b19e1-0f03-45c9-9108-090f9761ddd4,1253055869132124160,A gorgeous Lapiz Blue Golf R to brighten up everyone's day on this rainy Wednesday. #vwcanada #staysafe #staystrong #mk7r @ Harbourview Volkswagen https://t.co/GqCHwSQ33M,HarbourviewVW,2020-04-22 20:19:34,"Nanaimo, BC, Canada",positive
-60,707f3a2f-2864-4187-a223-7cdd2a9bb253,1253062796381696001,"@thirdrowtesla They’re working towards similar goals as Tesla, to be fair",Faraz Sultan,2020-04-22 20:47:06,"Chicago, IL",positive
-61,62f2067a-31b8-4383-a9ee-3d041fc1a28b,1253059142320705536,"Just got a new car two days ago, loving the 1.8 turbo #volkswagen #Passat #wagon https://t.co/C4A0YdQFHc",Zomix,2020-04-22 20:32:34,,positive
-62,54fbb21c-d52e-4652-8259-32d53a88fa39,1253059322717896704,Need a #Automotive service manual? Yes the ones the dealers use we have the manual for your #Volkswagen you need! https://t.co/YmWK1UT0R9,Looking Out For You,2020-04-22 20:33:17,"MN, USA",positive
+#VW #Pasadena #Volkswagen #Turbo #VolksLovers #socal #DealershipLife #VWLife #VWLifestyle #VWLove #VDub #NowYouCan #VDubLove #VWSociety #DubLoveLess https://t.co/6nZS2ltWwC",@TimmonsLB,2020-04-22 20:14:02,"Long Beach, CA",positive,,,,
+59,224b19e1-0f03-45c9-9108-090f9761ddd4,1253055869132124160,A gorgeous Lapiz Blue Golf R to brighten up everyone's day on this rainy Wednesday. #vwcanada #staysafe #staystrong #mk7r @ Harbourview Volkswagen https://t.co/GqCHwSQ33M,HarbourviewVW,2020-04-22 20:19:34,"Nanaimo, BC, Canada",positive,,,,
+60,707f3a2f-2864-4187-a223-7cdd2a9bb253,1253062796381696001,"@thirdrowtesla They’re working towards similar goals as Tesla, to be fair",Faraz Sultan,2020-04-22 20:47:06,"Chicago, IL",positive,,,,
+61,62f2067a-31b8-4383-a9ee-3d041fc1a28b,1253059142320705536,"Just got a new car two days ago, loving the 1.8 turbo #volkswagen #Passat #wagon https://t.co/C4A0YdQFHc",Zomix,2020-04-22 20:32:34,,positive,,,,
+62,54fbb21c-d52e-4652-8259-32d53a88fa39,1253059322717896704,Need a #Automotive service manual? Yes the ones the dealers use we have the manual for your #Volkswagen you need! https://t.co/YmWK1UT0R9,Looking Out For You,2020-04-22 20:33:17,"MN, USA",positive,,,,
 63,5f49ba75-f8ae-4124-a04d-994208bfb0cd,1253062871325556736,"why doesnt david dobrik get me in his tesla and interview me about monsta x and then go like ""LOOK BEHIND YOU MONSTA X IS HERE"" like I would like that👉👈 
 
-I mean ofc after corona",Ema☾⁷ | #seeyou,2020-04-22 20:47:23,nan molla,positive
-64,132fb446-dd7a-4a4e-945b-8e2cbfc96f0a,1253062888299720704,@SerildaVrc @engineeringvids Play catch with a Tesla? Hell yeah that sounds fun!,Yuki Hana,2020-04-22 20:47:28,Nanny state,positive
-65,e1f95cb5-cbb6-4bce-a084-1b0db4801491,1253062936542826501,@charlidamelio OMG ARE U GETTING A TESLA?,daniela loves Charli and Ariana,2020-04-22 20:47:39,,positive
-66,4d8fb922-1831-48de-9bce-0814b15d8aef,1252309935762931715,Honda Motor Company Ltd (HMC) stock dropped by 1.4582%! Currently priced at 22.3. https://t.co/AelX1HRkNl,EquityMongoose,2020-04-20 18:55:30,"Philadelphia, PA",negative
-67,42c116ad-ae58-4c2d-aa4f-8b7ae388023b,1252363255936282626,@namjoon_trash94 it is jungkook :) it was posted on the hyundai instagram,𓂃𓏸愛𝖾𝗅𝗅𝗂𝖾⁷,2020-04-20 22:27:22,Scenery,negative
-68,46169221-38d8-4174-a33d-42718b466736,1252355450617491465,@evanroggio I’m gonna run your Volkswagen over in a Raptor.,Jimmy Steaks,2020-04-20 21:56:21,,negative
-69,28accebd-90f4-4e0b-9a5f-c2ba9816d9f8,1252359087095902209,The all new Volkswagen Tiguan “Meteor” Commercial 60 Seconds   YouTube https://t.co/odTavY1x5I via @YouTube @samtripoli  dude is this them telling us man wtf,jose,2020-04-20 22:10:48,Nine cloud ,negative
-70,c4c40216-907a-4556-bdc6-04932bd59610,1252361962194796544,@njc2oo Says the guy who’s entire generation was introduced to him by a Volkswagen Cabrio commercial.,Max Deadroom,2020-04-20 22:22:14,"Denver, CO",negative
-71,8a5e7480-366c-4d53-9496-07b93bd52b43,1252363818732150787,"@anthonypants @BAKKOOONN Like Hitler before him, Elon Musk also had an ambitious project to make a car for the people. Unlike the Tesla Truck, the Volkswagen actually worked.
+I mean ofc after corona",Ema☾⁷ | #seeyou,2020-04-22 20:47:23,nan molla,positive,,,,
+64,132fb446-dd7a-4a4e-945b-8e2cbfc96f0a,1253062888299720704,@SerildaVrc @engineeringvids Play catch with a Tesla? Hell yeah that sounds fun!,Yuki Hana,2020-04-22 20:47:28,Nanny state,positive,,,,
+65,e1f95cb5-cbb6-4bce-a084-1b0db4801491,1253062936542826501,@charlidamelio OMG ARE U GETTING A TESLA?,daniela loves Charli and Ariana,2020-04-22 20:47:39,,positive,,,,
+66,e074650c-6d92-4a41-82b5-99308699e672,1252596904568819714,"Proud of my superstar Emergency Medicine physician wife @JSingletonMD for her role in helping to keep the workers of @CoorsTekInc safe during this pandemic!  
 
-That's why, on Hitler's birthday, we celebrate car visionary #ElonMuskDay",A War On Dougs,2020-04-20 22:29:36,,negative
-72,3784dafb-06e9-464c-9389-623053a7c6fa,1252365008966729728,@angieandmurry same sound as my volkswagen beetle with a bad starter,Sensual Chocolate,2020-04-20 22:34:20,,negative
-73,b8fa6a67-a2bd-411d-8492-dc826c48eb42,1252304719365787648,"FOLKS WARNING 
+Fun Fact: CoorsTek is producing ceramic parts for the ventilators that Ford Motor Company is manufacturing! #COVID19 https://t.co/8T3Hnhvafs",Brandon Wojcik,2020-04-21 13:55:48,,positive,120.0,160.0,0.0,2.0
+67,e7a34ef8-5a3e-4bad-8a20-28d096dc0186,1252639506114785283,A big thank you to the Ford Motor Company for donating face shields to the Romeoville Fire Department! https://t.co/rXDHcbSmyV,Romeoville,2020-04-21 16:45:05,"Romeoville, Illinois",positive,216.0,2001.0,5.0,34.0
+68,a3ba6b7c-4b54-41c1-8700-8a81076129b7,1252650055355510788,"I covered the autos in Detroit for about 4.5 years with Red Hat, so I still feel a little personal connection when I see success line this - Ford Motor Company optimizes with container platform to speed delivery https://t.co/cbkmR0Rvlf",Scott McCarty,2020-04-21 17:27:00,Akron,positive,3198.0,3844.0,1.0,9.0
+69,8bfeb628-7ebd-4554-a044-d1c892bd807f,1252658894545051648,Ford Fact :The Ford Motor Company made Henry Ford one of the richest and well-known people of his time. https://t.co/Ht6dxqdKe2,Tom's Ford,2020-04-21 18:02:08,"Keyport, NJ",positive,28.0,232.0,0.0,0.0
+70,f2216999-42b6-432d-b607-c902bf026fd7,1252735868881813506,"Ford Motor Company does more than just provide high-quality vehicles and maintenance services: Ford takes care of its community, like us. ur CEO Jim Hackett  shared how Ford is leading the torch for innovation in giving back to the local community.https://t.co/ZqHQcvc02O",Rost Motors Ford,2020-04-21 23:08:00,"Manson, Iowa",positive,820.0,1029.0,0.0,1.0
+71,85dff218-20c5-4d34-883c-3a11a19e0b76,1252763338078994433,"Credits to the Ford Motor Company, and the designers and engineers at Ford in 1966",Sean,2020-04-22 00:57:09,United States,positive,2776.0,48.0,0.0,0.0
+72,8ebc085f-702e-4cac-89e2-89b6a93b3a10,1252840514782543872,"@ford have excelled here, call it @mustang and let the controversy begin, as the luddites keep bashing it  and attempt to stop the @ford motor company moving into the 21st century - absolutely brilliant - cannot wait to get one and turn up at @mustang meets https://t.co/1BY3ji3eTY",Aston Martin and Bullitt go on holiday,2020-04-22 06:03:50,"Northampton, England UK",positive,22551.0,583.0,0.0,1.0
+73,4cb86bc6-e69e-4c64-be91-715878ac5e54,1252892425284194304,We’re proud to support Ford Motor Company in their efforts to manufacture Powered Air Purifying Respirators (PAPRs). These respirators help healthcare workers on the frontline protect themselves from COVID-19 #EveryConnectionCounts https://t.co/EtvvsHQMYQ,Abhay,2020-04-22 09:30:06,"Mysuru, India",positive,941.0,36.0,0.0,0.0
+74,fb49b715-adaf-403b-a6d2-e70ed6d23bfd,1252947340266278913,Hero of the day: @Ford Motor Company for converting their plants to manufacture ventilators. #heroes #heroesworkhere #Ford #fordmotorcompany #ventilators #coronavirus #covid19 https://t.co/VAucIpbrWo,Steve Hasting,2020-04-22 13:08:19,"Tulsa, Okla",positive,83952.0,3267.0,0.0,0.0
+75,92784b01-64d4-43fe-b088-5e3c8d48e28a,1252958604648423425,Happy Earth Day from Ford Motor Company! #EarthDay2020 #EarthDay #WorldEarthDay https://t.co/aQJXmAKDp1,Ford Careers,2020-04-22 13:53:04,Global,positive,416.0,6863.0,0.0,2.0
+76,d2524ea4-7f27-4445-93f8-67b756a0d67d,1252968677844168704,"Based on Red Hat® OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story https://t.co/YvTj0NwcwG",Daniel Oh,2020-04-22 14:33:06,"Boston, MA",positive,60918.0,1574.0,0.0,0.0
+77,1c4bec39-9d76-41ae-a0fc-625b127b0f4f,1253455885436891136,the hyundai x bts commercial is very pretty,cass ⁷✨,2020-04-23 22:49:05,she + her / 16,positive,46554.0,243.0,0.0,0.0
+78,38de4883-23d8-40f9-9cbf-71847ad8c550,1253457409223376896,"Congratulations                                                                                                                                                                                                                                 
+Happy Customer
+Hyundai Genesis
+#vccars https://t.co/PUzPHlt9Ob",versatile collection,2020-04-23 22:55:09,,positive,1381.0,27.0,0.0,1.0
+79,1d352dff-d263-43c6-8d7e-e8ec4953f55a,1253457631576014851,The Prophecy and Hyundai 45 concept vehicles from the Frankfurt Auto Show have been green lit! Check out Hyundai's slick new rides: https://t.co/LB82cT1med https://t.co/5OELq3fzp2,Grayson Hyundai,2020-04-23 22:56:02,"Knoxville,TN",positive,129.0,304.0,0.0,0.0
+80,40e0f662-0174-4958-b95d-04be76814cfa,1253458241381699584,@ChicagoBears @Hyundai Go Bears,Hweaver,2020-04-23 22:58:27,"Florida, USA",positive,46.0,1.0,0.0,0.0
+81,31aacda5-38de-45d6-91eb-4ae2ad4c9325,1253459011602714624,@MotorWeek @BioshockLGP @Hyundai Oh that looks awesome. I love the color,Kish,2020-04-23 23:01:31,"Midland, TX",positive,18255.0,1741.0,0.0,0.0
+82,199a7de3-2460-42ab-8d84-0557a37c88e2,1253460865656991745,@Hyundai_Global @bts_bighit Ayyyyyyy y love You,mirka marisol,2020-04-23 23:08:53,,positive,588.0,4.0,0.0,0.0
+83,74f1c2f9-22a0-4363-856e-e41f0edb24f3,1253460956824457216,"Congratulations                                                                                                                                                                                                                                 
+Happy Customer
+Hyundai Elantra
+#hyundai https://t.co/NammE4sFqM",versatile collection,2020-04-23 23:09:14,,positive,1381.0,27.0,0.0,1.0
+84,36bdfc46-c3cf-4613-b55d-346030a445ce,1253461337528774658,the bts hyundai ad is the only minute long ad i’ll watch from beginning to end,⁷,2020-04-23 23:10:45,,positive,645.0,84.0,0.0,0.0
+85,abb7bc90-5465-4174-9cfd-e2724b9e09c6,1253463515123159041,@samsamthefamfam @BTS_twt @Hyundai_Global Yo it’s good!,BTS ARMY💜,2020-04-23 23:19:24,,positive,663.0,1.0,0.0,0.0
+86,efb2aa68-4304-4cc9-b8b4-a7d56dfcc7a0,1253464749347569667,"This Hyundai looks beautiful 😍
+https://t.co/YShTxeMOX7",Jeffrey Cadman,2020-04-23 23:24:19,DC Metro,positive,3457.0,343.0,0.0,1.0
+87,71c09c8e-37cb-498f-8097-4967d3e22159,1253466125360173056,@BHA @Hyundai @MWilkins @BryanHerta @mason_filippi @TylerGonzalez57 @TylerMaxsonRace @WeatherTechRcwy Off to a wicked start! 🏁,Forza Motorsport,2020-04-23 23:29:47,,positive,1841.0,306972.0,0.0,3.0
+88,e830272d-bea3-4aa4-ba1c-7752c6139f42,1253467302948937730,"2 DEC 2019. Hope named Hyundai A-League Young Player of the Month for November.
+Melbourne Victory F.C's Mezzala Josh Hope has wowed the fans with some outstanding performances and has duly won the Hyundai A-League Young Player of the Month. @MelbourneCity https://t.co/eoFUU3nLxP",Australia Football Simulator,2020-04-23 23:34:27,,positive,0.0,38.0,0.0,0.0
+89,0bab1611-5333-42c1-b945-9d6483da6115,1253468094258794496,@BTSARMY21943741 @BTS_twt @Hyundai_Global Thanks!! 🥺,BANGBANGCON 😩,2020-04-23 23:37:36,,positive,8891.0,48.0,0.0,0.0
+90,d3f02e37-77cf-4f55-b648-f672974eea95,1253471048684777478,@Hyundai_Global @BTS_twt MY BABY,ram⁷,2020-04-23 23:49:21,,positive,60108.0,949.0,0.0,0.0
+91,c672b3c7-2c98-405e-99df-bbfcefe34e7f,1253472395681320960,YAAAS HYUNDAI LET'S GO HYDROGEN ENERGYYYY,호비 here 🤭🤗 selling tour tix 📌,2020-04-23 23:54:42,nat. '94. she/her 🌈,positive,94337.0,187.0,0.0,0.0
+92,b06b8d3e-3887-4add-b442-2917b8bacf41,1253471477602664448,"@Tesla @elonmusk Any word on leasing the Model Y? My company lease on the Model S is running out in Sept. These days, can't really support a giant payment but would love to get another Tesla.",Mike Jackman,2020-04-23 23:51:03,DC,positive,1.0,10.0,0.0,0.0
+93,b7bff19c-a12e-4ccc-aadb-72232f39830e,1253471656862978048,@MKBHD @Tesla You are using OnePlus ❤️❤️❤️ .. I think the screenshot was taken by a OnePlus phone.  . .🤔,Xavier,2020-04-23 23:51:46,Bangladesh,positive,1790.0,11.0,0.0,0.0
+94,3892b21d-16ba-498e-913d-bd365408445d,1253471678774095874,@mirpaix @elonmusk @Tesla Wow congrats French man go back to fixing your president before you talk about American stuff,Jacob Prittie,2020-04-23 23:51:51,"Indianapolis, IN",positive,217.0,6.0,0.0,1.0
+95,66646943-71d2-4308-b997-9e37953870d0,1253471980457734147,"@NuovaRealta @Tesla Yes, very nice",live long and prosper,2020-04-23 23:53:03,Planet Earth,positive,9168.0,65.0,0.0,0.0
+96,29333163-5a9e-4418-bfe3-261242e0e691,1253472211341504512,Best car I’ve ever owned #Tesla https://t.co/BTuEXbab4b,Jay Cordero,2020-04-23 23:53:58,"Fresno, CA",positive,7341.0,628.0,0.0,24.0
+97,0ba71367-0243-4506-946e-90457dad8acb,1253472412882124801,"Elon Musk: Tesla has sent over 1,000 ventilators to hospitals - CNET: MT @mikequindazzi https://t.co/77Qs9frERI https://t.co/SIxzSZgx7K",Harry Miller,2020-04-23 23:54:46,"Renton, WA",positive,30428.0,13306.0,0.0,1.0
+98,be90de5d-32e8-43b7-8578-39bc037226c1,1253472452514062336,@Tesla @elonmusk Make some Tesla branded masks!!!!! I’ll buy,gaines,2020-04-23 23:54:55,,positive,21.0,0.0,0.0,0.0
+99,b051d2e3-0deb-4eda-8b9b-7c7aa6f8d3dc,1253472566510936064,"ordered a lyft today to the dispensary and back and i got an older african man in a tesla model t with butterfly doors😂 he asked what the place was, I said ""a dispensary"" and he said ""ohhh like medicine?"" and i didn't have the heart to say no",giuseppe giusouppi,2020-04-23 23:55:22,the town,positive,22940.0,172.0,0.0,2.0
+100,09171c13-d64a-4397-be95-55c870d6f634,1253473028614295559,"@jnoien @thirdrowtesla @Tesla Wow, Serbia is dark. Nothing. That is actually impressive.",Nick,2020-04-23 23:57:13,"Point Elias, Stalburg",positive,30680.0,207.0,0.0,1.0
+101,6ed663b6-64e4-46d9-aea8-67e847ad94fb,1253473113846710277,"@CoryGroshek Only took a crushing of the entire battery metals industry, Tesla to beat the crap out of legacy auto, and a ridiculous virus situation for the main street media to notice a project that has been around for countless years.",Noah Seidman 💙,2020-04-23 23:57:33,,positive,6957.0,1659.0,0.0,1.0
+102,91222a64-9954-4fbb-be41-1a4009e7adbe,1253473423902334980,"When everyone returns to normaly #TeslaSemi will have some 6 advantages vs #DieselTrucks and will dominate the trucking industry when production starts.
+-
+Watch why https://t.co/1V5X2ejf7T
+-
+#Tesla #Semitrucks #trucking https://t.co/z8libzTSV6",Torque News,2020-04-23 23:58:47,"Fort Mill, SC",positive,3090.0,2481.0,0.0,0.0
+103,0ffc1e1d-ea36-4c27-a454-99817d0f77e2,1253473447667068928,There was a Tesla behind me in the taco Bell drive-thru and it made me feel really successful,Avery,2020-04-23 23:58:52,"West Sacramento, CA",positive,39338.0,391.0,0.0,5.0
+104,4d8fb922-1831-48de-9bce-0814b15d8aef,1252309935762931715,Honda Motor Company Ltd (HMC) stock dropped by 1.4582%! Currently priced at 22.3. https://t.co/AelX1HRkNl,EquityMongoose,2020-04-20 18:55:30,"Philadelphia, PA",negative,,,,
+105,42c116ad-ae58-4c2d-aa4f-8b7ae388023b,1252363255936282626,@namjoon_trash94 it is jungkook :) it was posted on the hyundai instagram,𓂃𓏸愛𝖾𝗅𝗅𝗂𝖾⁷,2020-04-20 22:27:22,Scenery,negative,,,,
+106,46169221-38d8-4174-a33d-42718b466736,1252355450617491465,@evanroggio I’m gonna run your Volkswagen over in a Raptor.,Jimmy Steaks,2020-04-20 21:56:21,,negative,,,,
+107,28accebd-90f4-4e0b-9a5f-c2ba9816d9f8,1252359087095902209,The all new Volkswagen Tiguan “Meteor” Commercial 60 Seconds   YouTube https://t.co/odTavY1x5I via @YouTube @samtripoli  dude is this them telling us man wtf,jose,2020-04-20 22:10:48,Nine cloud ,negative,,,,
+108,c4c40216-907a-4556-bdc6-04932bd59610,1252361962194796544,@njc2oo Says the guy who’s entire generation was introduced to him by a Volkswagen Cabrio commercial.,Max Deadroom,2020-04-20 22:22:14,"Denver, CO",negative,,,,
+109,8a5e7480-366c-4d53-9496-07b93bd52b43,1252363818732150787,"@anthonypants @BAKKOOONN Like Hitler before him, Elon Musk also had an ambitious project to make a car for the people. Unlike the Tesla Truck, the Volkswagen actually worked.
+
+That's why, on Hitler's birthday, we celebrate car visionary #ElonMuskDay",A War On Dougs,2020-04-20 22:29:36,,negative,,,,
+110,3784dafb-06e9-464c-9389-623053a7c6fa,1252365008966729728,@angieandmurry same sound as my volkswagen beetle with a bad starter,Sensual Chocolate,2020-04-20 22:34:20,,negative,,,,
+111,b8fa6a67-a2bd-411d-8492-dc826c48eb42,1252304719365787648,"FOLKS WARNING 
 WE ARE RAPIDLY HEADED TOWARD A FINANCIAL DEPRESSION. WORSE THAN THE GREAT DEPRESSION. LOOK AT FORD MOTOR COMPANY THEY MAY NOT SURVIVE. I'VE BEEN TOLD STORE TWO WEEKS OF GROCERIES AND START A GARDEN. 
-THIS PAIN IS SELF INFLICTED BY THE REPUBLICAN PARTY.",Bobbyjean9,2020-04-20 18:34:46,United States,negative
-74,81650a01-07fb-40b9-9e34-6738a9980e67,1252307244718477313,Sad But IMO RIP @FordEu @Ford😌No more Focus RS model and with current ST Focus model massively overpriced and current ST line Focus Massively overpriced and uninspiring its so cheap looking especially inside a once great motor company is in serious decline #Ford,Darren Buckley🇮🇪,2020-04-20 18:44:48,Cork City🇮🇪,negative
-75,8fd47e39-5067-4e65-867f-0da6c25502e1,1252314059174752256,Ford motor company just had to borrow $$ off bonds.. the lender gave them 9.6% interest because the lender thinks they won’t make it #trumpsfailedeconomy #COVID19,guerrasanchez,2020-04-20 19:11:53,"Georgia, USA",negative
-76,db3e55ad-cfe9-45fe-a2f3-f8c9628360bd,1252319240054587393,"Happy birthday to the #DollarThief your work and commitment has been our struggle, your struggle, My Struggle
+THIS PAIN IS SELF INFLICTED BY THE REPUBLICAN PARTY.",Bobbyjean9,2020-04-20 18:34:46,United States,negative,,,,
+112,81650a01-07fb-40b9-9e34-6738a9980e67,1252307244718477313,Sad But IMO RIP @FordEu @Ford😌No more Focus RS model and with current ST Focus model massively overpriced and current ST line Focus Massively overpriced and uninspiring its so cheap looking especially inside a once great motor company is in serious decline #Ford,Darren Buckley🇮🇪,2020-04-20 18:44:48,Cork City🇮🇪,negative,,,,
+113,8fd47e39-5067-4e65-867f-0da6c25502e1,1252314059174752256,Ford motor company just had to borrow $$ off bonds.. the lender gave them 9.6% interest because the lender thinks they won’t make it #trumpsfailedeconomy #COVID19,guerrasanchez,2020-04-20 19:11:53,"Georgia, USA",negative,,,,
+114,db3e55ad-cfe9-45fe-a2f3-f8c9628360bd,1252319240054587393,"Happy birthday to the #DollarThief your work and commitment has been our struggle, your struggle, My Struggle
 
 1919 on 1st Jan, Edsel Ford succeeds his father, Henry Ford, as president of the Ford Motor Company
 
-Enjoy your birthday today, maybe you'll be 4th time lucky 🍀 https://t.co/H6vuoTU2yS",Carlos Garcia,2020-04-20 19:32:28,Manchester,negative
-77,1e401342-85d3-492d-ae5e-3a00956228a6,1252338586395070464,"@obannonJD @Teslarati Its OK. He is way better than Henry Ford who bankrupted himself twice before making it work at the Ford Motor company. At the end of this all, Elon Musk will be remembered as greater than the sum of Henry Ford and Werner Von Braun. https://t.co/RPgAaXQvSl",Angel N Devil,2020-04-20 20:49:20,"Pennsylvania, USA",negative
-78,c2eab814-81f8-4253-bbaa-e2aa5b11921f,1252364276846612482,this is a difficult and uncertain time for us all... buy a toyota,L,2020-04-20 22:31:26,,negative
-79,bb7bfa41-2ba7-45b5-9dba-69076ee4b5e3,1252364942985945094,@ChilliKong But Tate Kong I thought you don’t like Toyota,Indileni,2020-04-20 22:34:04,Windhoek Ondangwa Ongwediva,negative
-80,831c1cbe-aa89-4767-a12e-1b4ad1fa698b,1252365078818549762,@IndiraNelago Toyota bakkies. I hate em.,Monkey™🇳🇦,2020-04-20 22:34:37,KFC ,negative
-81,ccb9fa3a-1f70-4e7c-9b6c-e490b9220a2f,1252362821058179074,"What would you do with your life if you knew there were no limits? — I'd steal a ferrari or an Audi, drive as fast as I can, drink, smoke, get a tattoo
-Watch sunrise somewhere far.  https://t.co/fuRRPo5876",NAIYERA.,2020-04-20 22:25:38,ما وراء المحور,negative
-82,18925b4f-cf7f-4a8c-bcbd-3e82666b72c9,1252363098976948226,"@seanhannity @DavidAdrianUSA 😂 so now the President, and media op-ed's are responsible for the actions of individuals 😂 how pmrc of y'all 😂 things really have come full circle. What ever happened to personal responsibility?🤔 Are you blaming Audi car manufacturers for people who crash due to commercials..",Turnip P Marsden,2020-04-20 22:26:45,"Denver, CO",negative
-83,d08d4fdd-da58-4472-b3cd-c437af870b3c,1252363405131788289,"@wordamentalist Audi
+Enjoy your birthday today, maybe you'll be 4th time lucky 🍀 https://t.co/H6vuoTU2yS",Carlos Garcia,2020-04-20 19:32:28,Manchester,negative,,,,
+115,1e401342-85d3-492d-ae5e-3a00956228a6,1252338586395070464,"@obannonJD @Teslarati Its OK. He is way better than Henry Ford who bankrupted himself twice before making it work at the Ford Motor company. At the end of this all, Elon Musk will be remembered as greater than the sum of Henry Ford and Werner Von Braun. https://t.co/RPgAaXQvSl",Angel N Devil,2020-04-20 20:49:20,"Pennsylvania, USA",negative,,,,
+116,c2eab814-81f8-4253-bbaa-e2aa5b11921f,1252364276846612482,this is a difficult and uncertain time for us all... buy a toyota,L,2020-04-20 22:31:26,,negative,,,,
+117,bb7bfa41-2ba7-45b5-9dba-69076ee4b5e3,1252364942985945094,@ChilliKong But Tate Kong I thought you don’t like Toyota,Indileni,2020-04-20 22:34:04,Windhoek Ondangwa Ongwediva,negative,,,,
+118,831c1cbe-aa89-4767-a12e-1b4ad1fa698b,1252365078818549762,@IndiraNelago Toyota bakkies. I hate em.,Monkey™🇳🇦,2020-04-20 22:34:37,KFC ,negative,,,,
+119,ccb9fa3a-1f70-4e7c-9b6c-e490b9220a2f,1252362821058179074,"What would you do with your life if you knew there were no limits? — I'd steal a ferrari or an Audi, drive as fast as I can, drink, smoke, get a tattoo
+Watch sunrise somewhere far.  https://t.co/fuRRPo5876",NAIYERA.,2020-04-20 22:25:38,ما وراء المحور,negative,,,,
+120,18925b4f-cf7f-4a8c-bcbd-3e82666b72c9,1252363098976948226,"@seanhannity @DavidAdrianUSA 😂 so now the President, and media op-ed's are responsible for the actions of individuals 😂 how pmrc of y'all 😂 things really have come full circle. What ever happened to personal responsibility?🤔 Are you blaming Audi car manufacturers for people who crash due to commercials..",Turnip P Marsden,2020-04-20 22:26:45,"Denver, CO",negative,,,,
+121,d08d4fdd-da58-4472-b3cd-c437af870b3c,1252363405131788289,"@wordamentalist Audi
 
-(stands for Arsehole Usually Drives It)",Graham Niven,2020-04-20 22:27:58,,negative
-84,fafb0972-356e-4464-8bd9-4712d165eddc,1252364522716688386,Parked the Audi now we sliding Ina rental✅,1300 boy🧟‍♂️💚,2020-04-20 22:32:24,,negative
-85,8b4aa320-8b80-4afd-86cc-3d4c57702bf5,1252368498094862336,@UnrulySea @fredwalton216 Nothing SHOULD save them. Elitest MFers heavily in debt Audi drivers who dont need to obey stop signs in the parking lot will just have to deal with Nordstrom I guess.poor wine moms. What ever will they do!,Michael Kenney,2020-04-20 22:48:12,"Philadelphia, PA",negative
-86,54999be8-748d-417b-aba0-c42f58b92a52,1252368227839078404,"To the guy ripping down my street letting the backfire of his BMW M3 go off, I just wanted to let you know, you’re the coolest guy in the world. I want to be you when I grow up.",Anthony Lamanna,2020-04-20 22:47:08,,negative
-87,93897836-2f29-4cc1-be83-b7b29f4aeade,1252368755629293571,@adam22 kept it bmw and but a bar end on his shit. https://t.co/L2mYVH4vY1,shooting star,2020-04-20 22:49:13,"Las Vegas, NV",negative
-88,a9ec4836-1ae3-4855-9e56-21f41e998405,1252944839739670528,"#OTD in 1968, thousands of employees of the Ford Motor Company of Canada began a weeklong strike at an assembly plant in St. Thomas, Ont.
+(stands for Arsehole Usually Drives It)",Graham Niven,2020-04-20 22:27:58,,negative,,,,
+122,fafb0972-356e-4464-8bd9-4712d165eddc,1252364522716688386,Parked the Audi now we sliding Ina rental✅,1300 boy🧟‍♂️💚,2020-04-20 22:32:24,,negative,,,,
+123,8b4aa320-8b80-4afd-86cc-3d4c57702bf5,1252368498094862336,@UnrulySea @fredwalton216 Nothing SHOULD save them. Elitest MFers heavily in debt Audi drivers who dont need to obey stop signs in the parking lot will just have to deal with Nordstrom I guess.poor wine moms. What ever will they do!,Michael Kenney,2020-04-20 22:48:12,"Philadelphia, PA",negative,,,,
+124,54999be8-748d-417b-aba0-c42f58b92a52,1252368227839078404,"To the guy ripping down my street letting the backfire of his BMW M3 go off, I just wanted to let you know, you’re the coolest guy in the world. I want to be you when I grow up.",Anthony Lamanna,2020-04-20 22:47:08,,negative,,,,
+125,93897836-2f29-4cc1-be83-b7b29f4aeade,1252368755629293571,@adam22 kept it bmw and but a bar end on his shit. https://t.co/L2mYVH4vY1,shooting star,2020-04-20 22:49:13,"Las Vegas, NV",negative,,,,
+126,a9ec4836-1ae3-4855-9e56-21f41e998405,1252944839739670528,"#OTD in 1968, thousands of employees of the Ford Motor Company of Canada began a weeklong strike at an assembly plant in St. Thomas, Ont.
 
-https://t.co/t5SkpKUcP6 #history #Cdnpoli #Cdnecon #philately #collectstamps #onthisday https://t.co/XvlAROZaJ2",CCN & CSN,2020-04-22 12:58:23,"Welland, Ontario",negative
-89,6facd17c-4703-4ec9-a66a-d257bc8ba0cf,1252970296770023424,"@CNN I have a good friend who's surname is ""Ford"". I should ask him what he thinks about Ford Motor Company's business and compensation plans. Because that's about as much as Abigail Disney knows about Disney's. She has zero...ZERO...knowledge about anything at that company.",SC Norman,2020-04-22 14:39:32,,negative
-90,492eb1c3-4c04-4904-bd1b-c59f73f737b4,1252972173976670214,"@gatewaypundit and I am wondering how many of the THOUSANDS
+https://t.co/t5SkpKUcP6 #history #Cdnpoli #Cdnecon #philately #collectstamps #onthisday https://t.co/XvlAROZaJ2",CCN & CSN,2020-04-22 12:58:23,"Welland, Ontario",negative,,,,
+127,6facd17c-4703-4ec9-a66a-d257bc8ba0cf,1252970296770023424,"@CNN I have a good friend who's surname is ""Ford"". I should ask him what he thinks about Ford Motor Company's business and compensation plans. Because that's about as much as Abigail Disney knows about Disney's. She has zero...ZERO...knowledge about anything at that company.",SC Norman,2020-04-22 14:39:32,,negative,,,,
+128,492eb1c3-4c04-4904-bd1b-c59f73f737b4,1252972173976670214,"@gatewaypundit and I am wondering how many of the THOUSANDS
 ventilators that so many, including Ford Motor Company is now making, are needed
 Orygun little girl governor Katie sent 140 to Cuomo
 If they are so desperately needed and WA state was
-in excess of 400.........why?",Black_Raven135,2020-04-22 14:47:00,,negative
-91,d282c973-31a5-4d3a-9c90-0abed9a0370c,1252981214555910144,"@simonsarris Socialists of the 1920s (e.g., the Fabian Society) used to go on about the wasteful duplications of capitalism. Why more than one factory making fountain pens? Far more efficient to run national economies like scaled-up versions of the Ford Motor Company.",ΧΡΙΣΤΌΦΟΡΟΣ bɝːd,2020-04-22 15:22:55,"Victoria, British Columbia",negative
-92,bb1fb996-bf4d-4168-8f55-20388b63c223,1252988162282061824,@brianlilley @JLCWood2017 @CanadianPress @JustinTrudeau Actually I built Crown Vic's and Grand Marquis Ford Motor Company we had the STOP PROGRAM. Summer students if family members worked the assembly lines and made very good money. The word is they WORKED FOR IT! 10 hour shifts for 13 years,MS JACQUIE🇨🇦,2020-04-22 15:50:31,,negative
-93,a8846801-142b-48e1-9433-528296906e53,1252888225967996928,"Tesla, Inc. (TSLA) surprised the market with Q3 result.  J.P. Morgan Chase changed the rating to Hold, as Tesla, Inc. (TSLA) has negative EPS revisions (down 3%) and not enough upside to warrant a Buy rating.",EquityMarketPredictor,2020-04-22 09:13:25,,negative
-94,c48d1816-a18b-48ec-823f-8654a1349c0d,1252908122429108224,Apple and Tesla are making medical equipment to fight Covid-19. What happens when it's over? @donreisinger https://t.co/SseRHJYXtA,Inc.,2020-04-22 10:32:28,New York City,negative
-95,abb45838-8ceb-4a1d-bdc8-24e1821d1e62,1252977123272376323,"More isn't always better when it comes to data - at least if it's not usable. 
+in excess of 400.........why?",Black_Raven135,2020-04-22 14:47:00,,negative,,,,
+129,d282c973-31a5-4d3a-9c90-0abed9a0370c,1252981214555910144,"@simonsarris Socialists of the 1920s (e.g., the Fabian Society) used to go on about the wasteful duplications of capitalism. Why more than one factory making fountain pens? Far more efficient to run national economies like scaled-up versions of the Ford Motor Company.",ΧΡΙΣΤΌΦΟΡΟΣ bɝːd,2020-04-22 15:22:55,"Victoria, British Columbia",negative,,,,
+130,bb1fb996-bf4d-4168-8f55-20388b63c223,1252988162282061824,@brianlilley @JLCWood2017 @CanadianPress @JustinTrudeau Actually I built Crown Vic's and Grand Marquis Ford Motor Company we had the STOP PROGRAM. Summer students if family members worked the assembly lines and made very good money. The word is they WORKED FOR IT! 10 hour shifts for 13 years,MS JACQUIE🇨🇦,2020-04-22 15:50:31,,negative,,,,
+131,a8846801-142b-48e1-9433-528296906e53,1252888225967996928,"Tesla, Inc. (TSLA) surprised the market with Q3 result.  J.P. Morgan Chase changed the rating to Hold, as Tesla, Inc. (TSLA) has negative EPS revisions (down 3%) and not enough upside to warrant a Buy rating.",EquityMarketPredictor,2020-04-22 09:13:25,,negative,,,,
+132,c48d1816-a18b-48ec-823f-8654a1349c0d,1252908122429108224,Apple and Tesla are making medical equipment to fight Covid-19. What happens when it's over? @donreisinger https://t.co/SseRHJYXtA,Inc.,2020-04-22 10:32:28,New York City,negative,,,,
+133,abb45838-8ceb-4a1d-bdc8-24e1821d1e62,1252977123272376323,"More isn't always better when it comes to data - at least if it's not usable. 
 
 #data #teslagov #information #dmv #government
 
-Disadvantages of Lots of Data | Tesla Government Inc https://t.co/kU95AgeD4T",Tesla Government Inc,2020-04-22 15:06:40,"Vienna, VA",negative
-96,bd73566d-2f0f-4b8e-aa23-1ca5226a770d,1253034729559019525,"I’d rather be hit by a bus than a car. The city got money for me to sue. Nobody trying to get hit by a 98 Honda , my medical bills be worth more than that car.",🅲🅰🆁🅻🅾 💎⛓,2020-04-22 18:55:34,"Timberland, Nyc",negative
-97,34894ba7-c5c6-426a-9033-29c63c682611,1253034984681635841,"Very true. I recall one time at the border, a cop let a couple of cars pass easy peasy back into Botswana. My turn, the man asked me to pull to the side, and that I get out so he does a thorough search. 10 whole mins my honda fit being searched. What for idk 😂 https://t.co/P5usGjOb1s",Farmboy 🐓🌾🌽🇧🇼,2020-04-22 18:56:35,"Gaborone, Botswana",negative
-98,76216f20-90d5-46f0-b9ae-d14cf0a3a758,1253035322222407680,Second time Honda dealership try’s to scam me smh 🤦🏽‍♂️,Dr_octavious,2020-04-22 18:57:55,,negative
-99,711b39fa-fb9e-4c0c-bc22-3ca050faded1,1253035516834074626,"@joserosado Honda and Ford came out with hybrids around the same time as the Prius.
+Disadvantages of Lots of Data | Tesla Government Inc https://t.co/kU95AgeD4T",Tesla Government Inc,2020-04-22 15:06:40,"Vienna, VA",negative,,,,
+134,bd73566d-2f0f-4b8e-aa23-1ca5226a770d,1253034729559019525,"I’d rather be hit by a bus than a car. The city got money for me to sue. Nobody trying to get hit by a 98 Honda , my medical bills be worth more than that car.",🅲🅰🆁🅻🅾 💎⛓,2020-04-22 18:55:34,"Timberland, Nyc",negative,,,,
+135,34894ba7-c5c6-426a-9033-29c63c682611,1253034984681635841,"Very true. I recall one time at the border, a cop let a couple of cars pass easy peasy back into Botswana. My turn, the man asked me to pull to the side, and that I get out so he does a thorough search. 10 whole mins my honda fit being searched. What for idk 😂 https://t.co/P5usGjOb1s",Farmboy 🐓🌾🌽🇧🇼,2020-04-22 18:56:35,"Gaborone, Botswana",negative,,,,
+136,76216f20-90d5-46f0-b9ae-d14cf0a3a758,1253035322222407680,Second time Honda dealership try’s to scam me smh 🤦🏽‍♂️,Dr_octavious,2020-04-22 18:57:55,,negative,,,,
+137,711b39fa-fb9e-4c0c-bc22-3ca050faded1,1253035516834074626,"@joserosado Honda and Ford came out with hybrids around the same time as the Prius.
 
 The problem with them is they looked like their other cars, so you wouldn’t get as much Social Currency as the distinctive Prius.
 
-So they didn’t sell well with the “green” crowd.",Abraham Lopez,2020-04-22 18:58:42,US,negative
-100,4bc84542-025a-47f0-9797-2d466c388e48,1253061288017539072,@tesla_unplugged Very sorry to hear. Sending hugs,Tesletter,2020-04-22 20:41:06,SF Bay Area,negative
-101,268beb45-5a33-4c7b-8ad9-45b2361dc567,1253061324382199808,"@Tesla @elonmusk “For a CEO that claims to want to make the world a better place, you’d think Elon Musk would start with his own workforce.” #PayYourWorkersElon https://t.co/0ptKASChRX",SiliconValleyRising,2020-04-22 20:41:15,"San Jose, CA",negative
-102,103486e2-183e-45b5-a6f2-d00fcf22e3b5,1253061350873587714,reasons why i need more tesla stock... yesterday 😭 https://t.co/T4Fne1w1fY,Ϗ𝝰ɨ 🌹,2020-04-22 20:41:21,The Capital District.,negative
-103,409476aa-8436-4fff-8947-89b96659ba2d,1253061368078462979,Hey @DavidDobrik my moms car caught on fire Tesla?,epicgamerman,2020-04-22 20:41:25,,negative
-104,274bdda5-447e-428a-b1d8-3a52de82635f,1253061691333582850,"@BonaireVolt @HeyHowA73126013 @skorusARK That’s your opinion, clearly not mine. As I said, IF you believe Tesla is disrupting all those things, you believe it will reach 1000s per share. If you don’t, well, good for you.",Vincent Karaboulad,2020-04-22 20:42:42,"Paris, France",negative
-105,78936a14-a9bd-4a2b-9c69-bec022edf273,1253043901109276672,"After women, fear men who drives Volkswagen ☻💩 https://t.co/KBMJjWFD36",Señor Sammie NESHUKU ® 🇳🇦,2020-04-22 19:32:01,🇳🇦 Helao Nafidi|Khomasdal ,negative
-106,63664890-33bf-41f4-aeff-67af1d2537ec,1253061906316685313,"Without exaggeration, it takes two seconds to defraud a market to the tune of billions. It takes two years to even start to pick up the pieces via the courts. From the funding secured docket, In re Tesla Inc. Securities Litigation. https://t.co/W6nYMJAUbW https://t.co/cBuv5MddTk",PlainSite,2020-04-22 20:43:33,,negative
-107,32d7fce1-267f-42ae-858f-a26b2da442ad,1253061949417574401,The amount of ppl defending this shit 😂😂😂😂 y’all bitches will never get a ring believe that https://t.co/lvWvOyXoMJ,Ray Tesla,2020-04-22 20:43:44,"Youngstown, OH",negative
-108,a7d1d074-acbd-48e1-8978-568d47ee5614,1253062193945468928,@TheMuddySchmuck @Tesla Those are good points. I personally never thought oil was done here. It is however a very clear example of a dependency we could and must do without.,Bryan Seely,2020-04-22 20:44:42,,negative
-109,78b9b7d9-4962-4fa2-9b70-cd287cd00abb,1253062415329214474,@abdashsoulTDE @wristsisfrogs @ez_da_great I don’t like him but he’s right,Ray Tesla,2020-04-22 20:45:35,"Youngstown, OH",negative
-110,cb4d6326-1ffa-4fec-b56e-2db617ff5d42,1253049077656424448,"Hi all 
+So they didn’t sell well with the “green” crowd.",Abraham Lopez,2020-04-22 18:58:42,US,negative,,,,
+138,4bc84542-025a-47f0-9797-2d466c388e48,1253061288017539072,@tesla_unplugged Very sorry to hear. Sending hugs,Tesletter,2020-04-22 20:41:06,SF Bay Area,negative,,,,
+139,268beb45-5a33-4c7b-8ad9-45b2361dc567,1253061324382199808,"@Tesla @elonmusk “For a CEO that claims to want to make the world a better place, you’d think Elon Musk would start with his own workforce.” #PayYourWorkersElon https://t.co/0ptKASChRX",SiliconValleyRising,2020-04-22 20:41:15,"San Jose, CA",negative,,,,
+140,103486e2-183e-45b5-a6f2-d00fcf22e3b5,1253061350873587714,reasons why i need more tesla stock... yesterday 😭 https://t.co/T4Fne1w1fY,Ϗ𝝰ɨ 🌹,2020-04-22 20:41:21,The Capital District.,negative,,,,
+141,409476aa-8436-4fff-8947-89b96659ba2d,1253061368078462979,Hey @DavidDobrik my moms car caught on fire Tesla?,epicgamerman,2020-04-22 20:41:25,,negative,,,,
+142,274bdda5-447e-428a-b1d8-3a52de82635f,1253061691333582850,"@BonaireVolt @HeyHowA73126013 @skorusARK That’s your opinion, clearly not mine. As I said, IF you believe Tesla is disrupting all those things, you believe it will reach 1000s per share. If you don’t, well, good for you.",Vincent Karaboulad,2020-04-22 20:42:42,"Paris, France",negative,,,,
+143,78936a14-a9bd-4a2b-9c69-bec022edf273,1253043901109276672,"After women, fear men who drives Volkswagen ☻💩 https://t.co/KBMJjWFD36",Señor Sammie NESHUKU ® 🇳🇦,2020-04-22 19:32:01,🇳🇦 Helao Nafidi|Khomasdal ,negative,,,,
+144,63664890-33bf-41f4-aeff-67af1d2537ec,1253061906316685313,"Without exaggeration, it takes two seconds to defraud a market to the tune of billions. It takes two years to even start to pick up the pieces via the courts. From the funding secured docket, In re Tesla Inc. Securities Litigation. https://t.co/W6nYMJAUbW https://t.co/cBuv5MddTk",PlainSite,2020-04-22 20:43:33,,negative,,,,
+145,32d7fce1-267f-42ae-858f-a26b2da442ad,1253061949417574401,The amount of ppl defending this shit 😂😂😂😂 y’all bitches will never get a ring believe that https://t.co/lvWvOyXoMJ,Ray Tesla,2020-04-22 20:43:44,"Youngstown, OH",negative,,,,
+146,a7d1d074-acbd-48e1-8978-568d47ee5614,1253062193945468928,@TheMuddySchmuck @Tesla Those are good points. I personally never thought oil was done here. It is however a very clear example of a dependency we could and must do without.,Bryan Seely,2020-04-22 20:44:42,,negative,,,,
+147,78b9b7d9-4962-4fa2-9b70-cd287cd00abb,1253062415329214474,@abdashsoulTDE @wristsisfrogs @ez_da_great I don’t like him but he’s right,Ray Tesla,2020-04-22 20:45:35,"Youngstown, OH",negative,,,,
+148,cb4d6326-1ffa-4fec-b56e-2db617ff5d42,1253049077656424448,"Hi all 
 
 My Silver VOLKSWAGEN TRANSPORTER like in the pic, Reg no. VU12 ZBR was stolen today on BARRY ROAD SE22 while I was delivering food, drinks and shopping to people 
 
 Have you seen this vehicle? 
 
-Contact me… https://t.co/AkGbqAzCJ9",""" Never Grow Up Its A Trap """,2020-04-22 19:52:35, ,negative
-111,eabd2975-b9c2-4b60-b1f8-910b3a43ff9f,1253062467971887106,"Nikola Tesla is rolling over in his grave, his names are fighting lmao https://t.co/02OtmYTTBD",nick-fil-a,2020-04-22 20:45:47,,negative
-112,a21ea5b5-6668-4134-a6a7-64f4c45ebb86,1253062559567052805,"We got some Tesla on Silkroad 👀 
+Contact me… https://t.co/AkGbqAzCJ9",""" Never Grow Up Its A Trap """,2020-04-22 19:52:35, ,negative,,,,
+149,eabd2975-b9c2-4b60-b1f8-910b3a43ff9f,1253062467971887106,"Nikola Tesla is rolling over in his grave, his names are fighting lmao https://t.co/02OtmYTTBD",nick-fil-a,2020-04-22 20:45:47,,negative,,,,
+150,a21ea5b5-6668-4134-a6a7-64f4c45ebb86,1253062559567052805,"We got some Tesla on Silkroad 👀 
 
-I realized after I kind of put Tesla to upset those so oppossed to electric cars . That’s the root of America right there. Some not believing something works unless it causes environmental destruction. “ we have always done it this way “ https://t.co/zDzXTFuR8N",There is No Clit,2020-04-22 20:46:09,"Chicago, IL Aesthetic Assethics Anesthesiologist",negative
-113,15f07b20-a43c-41c1-bb11-b7b8235ab296,1253053365619240960,the audacity of a man to hit on me whilst in a volkswagen beetle,"stop going out, dumbasses",2020-04-22 20:09:37,,negative
-114,613f92e9-9e68-46c2-9a81-9748fd6a7c75,1253053829651877889,@BuckeyevsTworld It's an overpriced Volkswagen.,Staci,2020-04-22 20:11:28,Ohio,negative
-115,2fbe00fe-ea38-4729-89c5-0cc088639c32,1253062724973670400,ok so yall can talk abt drama all the fucking time but the one time i mention how i got blocked by elon musk in a story involving a dildo button n penetration in a tesla IM the weird one,serena is nsfr,2020-04-22 20:46:49,she/her | cursed cunts,negative
-116,05f1f4db-f319-4194-b0a8-7cc37cfdffa7,1253054288038965250,@irack_216 😭😭😭 mines was $70 with my Chevy.  I can only imagine how much it’s about to be with my Volkswagen 😩😩,Sue 🌸,2020-04-22 20:13:17,"Cleveland, OH",negative
-117,6c822387-09b7-4008-8f60-bcebfedc0872,1253062772218191872,"@lucvandal @reneritchie After seeing the vegan leather Tesla uses for car seats, I tend to agree. Except they say they still have to use real leather on the steering wheel, because the faux stuff doesn’t hold up to prolonged exposure to hand oils.",jcieplinski,2020-04-22 20:47:00,"New York, NY",negative
-118,f633beff-0184-4bc0-8bdc-1ddf791c748c,1251436925526958081,Sometimes I think Honda must only hire engineers who are masochistic. Look at where this mounting bolt for an NT700 ABS unit is located. And it's threadlocked too. Honda Motor Company indeed. Certainly not the Honda Rational Packaging Company. https://t.co/8QFg3k470Y,Nevin Power,2020-04-18 09:06:28,Ireland,neutral
-119,3c5331cc-c934-44a6-9670-3b1a5a35a3bd,1252173036536639488,The Honda CRF450X is an off-road motorcycle made by Honda Motor Company. It currently has a 450 cc (27 cu in) liquid-cooled single-cylinder engine.,Muffings,2020-04-20 09:51:30,,neutral
-120,a31a2fb6-d0e8-42b9-b2bc-e303e3dc46d3,1252197704463118337,"Big Changes Announced for #Honda #Motor #Europe, Spain and #Portugal: Miu Kato joined #Honda in 2000 Throughout his career at the company, he has held positions of responsibility in countries such as #Russia and the United States. The until now vice… https://t.co/E6zFCCq75g",TotalMotorcycle,2020-04-20 11:29:32,United States,neutral
-121,e977c834-c1e0-4400-a82f-dbc5f13db18c,1252363394646065159,@jeontro EVERYONE WAS SO QUIET ABOUT IT I NEVER SAW THE HYUNDAI TWEET,h...⁷ DIANA DAY,2020-04-20 22:27:55,h^^py,neutral
-122,63c01bf6-596f-4e1e-aac0-eed7467f0c69,1252363454121271304,"@namjoon_trash94 Hyundai posted it! Looks like a local selfie, isn't it? 😁",Claudia⁷ 🎗️ON the MOON 🌕,2020-04-20 22:28:09,Magic Shop ,neutral
-123,75cde02f-5672-487c-9974-1d38163793a2,1252363869617414150,Elevate your daily drive behind the wheel of the 2020 Hyundai Santa Fe. Tap https://t.co/nzKHzpB2aI to see how you can lease the SUV for $249 per month! 😃 https://t.co/MOchdMgmKn,Hanford Hyundai,2020-04-20 22:29:48,"Hanford, CA",neutral
-124,377a6149-d081-4d9d-a5c7-bd0feffc915e,1252354497180913668,Volkswagen Group definitely went back to the drawing board after seeing that video. 🤣 https://t.co/ErN5lR66qp,Neo,2020-04-20 21:52:34,"Pretoria, South Africa",neutral
-125,9835efbe-d7bb-434e-85ab-c66a10609bf3,1252356104022974465,Volkswagen settles emissions class action with bulk of claimants https://t.co/A9GDbisGtZ,Mark Habersack,2020-04-20 21:58:57,Las Vegas Nevada,neutral
-126,9e9c4814-fc66-4c89-87d7-a07051b3f174,1252357184907694082,Every time I listen to Purple Reign I think about senior year at Byrd skipping class in my Volkswagen 🥺,K.Emonn✨,2020-04-20 22:03:15,"Louisiana, USA",neutral
-127,579e4057-1a9d-4915-9c7a-ccdaaac18ad1,1252358936469987328,"Don't submit then quit. Apply for jobs like ""Project Lead - Bentley"" at Volkswagen Group of America, then look for people you might know at the company. You might be able to reach out to HR directly. Ready to apply? Check out the link in our bio. #Engineering #Belmont, CA",TMJ-SFO Engin. Jobs,2020-04-20 22:10:12,"San Francisco, CA",neutral
-128,88773623-551f-42ef-b8ea-d11c8d53f8c3,1252359536536481799,"@meganamram What, like in the back of a Volkswagen?",Anxious Giant,2020-04-20 22:12:35,United States,neutral
-129,63ace485-557c-4684-bcf6-398824431266,1252361323129606146,was gonna make a web on the volkswagen forum?,Dr. Crowbotnik,2020-04-20 22:19:41,Eggmanland,neutral
-130,7a621fe9-18c0-4336-9617-eccfa55c5829,1252362658474414082,"VOLKSWAGEN up! 1.0 5p. move up! BlueMotion Technology
+I realized after I kind of put Tesla to upset those so oppossed to electric cars . That’s the root of America right there. Some not believing something works unless it causes environmental destruction. “ we have always done it this way “ https://t.co/zDzXTFuR8N",There is No Clit,2020-04-22 20:46:09,"Chicago, IL Aesthetic Assethics Anesthesiologist",negative,,,,
+151,15f07b20-a43c-41c1-bb11-b7b8235ab296,1253053365619240960,the audacity of a man to hit on me whilst in a volkswagen beetle,"stop going out, dumbasses",2020-04-22 20:09:37,,negative,,,,
+152,613f92e9-9e68-46c2-9a81-9748fd6a7c75,1253053829651877889,@BuckeyevsTworld It's an overpriced Volkswagen.,Staci,2020-04-22 20:11:28,Ohio,negative,,,,
+153,2fbe00fe-ea38-4729-89c5-0cc088639c32,1253062724973670400,ok so yall can talk abt drama all the fucking time but the one time i mention how i got blocked by elon musk in a story involving a dildo button n penetration in a tesla IM the weird one,serena is nsfr,2020-04-22 20:46:49,she/her | cursed cunts,negative,,,,
+154,05f1f4db-f319-4194-b0a8-7cc37cfdffa7,1253054288038965250,@irack_216 😭😭😭 mines was $70 with my Chevy.  I can only imagine how much it’s about to be with my Volkswagen 😩😩,Sue 🌸,2020-04-22 20:13:17,"Cleveland, OH",negative,,,,
+155,6c822387-09b7-4008-8f60-bcebfedc0872,1253062772218191872,"@lucvandal @reneritchie After seeing the vegan leather Tesla uses for car seats, I tend to agree. Except they say they still have to use real leather on the steering wheel, because the faux stuff doesn’t hold up to prolonged exposure to hand oils.",jcieplinski,2020-04-22 20:47:00,"New York, NY",negative,,,,
+156,60e6b892-f660-4084-ac35-2a132d22c0b3,1252595887395594242,Ford Motor Company is issuing a safety recall for select 2020 Ford Expedition vehicles. The belt tension sensor in the front passenger seat belt buckle may malfunction and can lead to a misclassification of the size and weight of the occupant for the restraint system.,ownersite,2020-04-21 13:51:46,"Roswell, GA",negative,5.0,193.0,0.0,0.0
+157,74f4a45a-313a-417d-8b3c-bb5e5c493993,1252686392347357185,"@thehill I just hope the immigrants don't leave because we need all the scapegoats we can get. God forbid if we ever run out, since we'd have to order Ford Motor Company to retool to manufacture 10,000 new scapegoats a day.",The Mad Guesser,2020-04-21 19:51:24,"Poulsbo,,WA,Havana,Atlanta,Geary.OKSaskatoon,Donnacona,QC,EielsonAFB,Nuiqsut,Noatak,Fairbanks,AK,HonoluluBerkeley,Mt Wilson,CA, 1952",negative,62.0,2.0,0.0,0.0
+158,e3b4f96f-ec0b-42f3-99d1-ccf7cc33fe1a,1252728556456751109,"Ford Motor Company Is Losing $165 Million a Day. Is it Time to Sell?
+#gtnews #news #carlover
+ #gaming
+#gamingcommunity https://t.co/n4pobQTB6y",grantopher,2020-04-21 22:38:57,,negative,973.0,3.0,0.0,1.0
+159,7bdb5b63-fccc-4fad-ae6c-52b89f0c1de1,1252740196757626888,Ford Motor Company Is Losing $165 Million a Day. Is it Time to Sell? https://t.co/EuPCnP06bW,The-Company,2020-04-21 23:25:12,winston salem,negative,99.0,92.0,0.0,0.0
+160,d0a9e0eb-9a6d-40fe-9c8c-7880b7b2b3cc,1252792048295587842,"On September 4th 1957, The Ford Motor Company launched The Ford Edsel–named after Henry Ford's only son. 18 versions of the car were made and people believed it would be the car of the future! However, it was a huge flop being called ugly and overhyped, costing them $250 million! https://t.co/3IahwLFiwB",Oddities From The Wacky Factory,2020-04-22 02:51:14,"New Jersey, USA",negative,89.0,31.0,0.0,0.0
+161,b14006fc-82f9-4a8e-91a5-8e4e239b2cb9,1252799556099563521,"Ford vs. Ferrari
+Pro: Christian Bale
+Pro: Matt Damon
+Pro: Great driving action
+Pro:Carroll Shelby (except he’s a sellout)
+Pro: Ken Miles (except he’s an obsessive psycho)
+Con: Ford Motor Company is an illustration of almost everything that’s wrong with this dick swinging country.",Jake Sutton,2020-04-22 03:21:04,United States,negative,26966.0,1161.0,0.0,2.0
+162,0aa914b1-017f-4a9f-acc3-b6348b52524c,1252898077477703680,Ford Motor Company Is Losing $165 Million a Day. Is it Time to Sell? #Topbuzz https://t.co/WmjCMigGo8,vandizzle,2020-04-22 09:52:34,,negative,7779.0,149.0,0.0,0.0
+163,c43ef80e-9e26-4f99-89d3-4427b7d182b0,1252944839739670528,"#OTD in 1968, thousands of employees of the Ford Motor Company of Canada began a weeklong strike at an assembly plant in St. Thomas, Ont.
+
+https://t.co/t5SkpKUcP6 #history #Cdnpoli #Cdnecon #philately #collectstamps #onthisday https://t.co/XvlAROZaJ2",CCN & CSN,2020-04-22 12:58:23,"Welland, Ontario",negative,3010.0,723.0,0.0,1.0
+164,38be6097-84a6-4d9e-9629-353eed217463,1252970296770023424,"@CNN I have a good friend who's surname is ""Ford"". I should ask him what he thinks about Ford Motor Company's business and compensation plans. Because that's about as much as Abigail Disney knows about Disney's. She has zero...ZERO...knowledge about anything at that company.",SC Norman,2020-04-22 14:39:32,,negative,4638.0,310.0,0.0,3.0
+165,37ddc11b-9be9-487d-afeb-4ef42afb824e,1252972173976670214,"@gatewaypundit and I am wondering how many of the THOUSANDS
+ventilators that so many, including Ford Motor Company is now making, are needed
+Orygun little girl governor Katie sent 140 to Cuomo
+If they are so desperately needed and WA state was
+in excess of 400.........why?",Black_Raven135,2020-04-22 14:47:00,,negative,28652.0,20073.0,1.0,0.0
+166,4fbc3c76-01a6-4c57-84bb-6556d612ca04,1253454431254908929,just got the bts hyundai ads 🥺 they used sun kissed for hobi... lowkey crying... https://t.co/0T0qzrQrnP,cami₂₉ ♡ chan | nsfr,2020-04-23 22:43:19,changbin’s salon ♡ | she/her,negative,49568.0,544.0,0.0,2.0
+167,72a70404-5cb9-4491-be4b-8955d6d7784a,1253454983732789261,"@thirdrowtesla What’s baffling is...
+
+why Google appointed the former CEO of Hyundai America to lead Waymo
+
+and
+
+why GM appointed an ex-investment banker to lead Cruise",Disruption Research,2020-04-23 22:45:30,,negative,4946.0,6025.0,3.0,18.0
+168,f93875c9-64e6-4b49-a8cb-e2568eb76e0f,1253455003060178944,15 minutes until this BHA Hyundai event thingy and my arse volcano has erupted,Bleeding Gums CK,2020-04-23 22:45:35,,negative,180215.0,851.0,0.0,1.0
+169,69396559-94d4-41a8-b9a5-2da4a1064994,1253456020694863872,"@the_cakegoddess Todays traffic lights, sidewalks and bridges took me back to the ""Hyundai"" days!! 🤣 UK fans will know this struggle #sanditon https://t.co/9J0xKFgc3p",🍑Lizzie Annette🍑,2020-04-23 22:49:38,,negative,5640.0,321.0,0.0,1.0
+170,557b2c3a-42f7-4030-98f8-7fd7c81c6ae2,1253456498849538048,@Fany2812 @Hyundai_Global @BTS_twt The other member’s selfies in the dark with only flash were not this low quality,with luv⁷ 🌙,2020-04-23 22:51:32,,negative,20035.0,184.0,0.0,0.0
+171,df20f952-3db6-4e07-9b32-de7d558b784d,1253458935618699266,white sadness is scraping the sub pop sticker off the leased hyundai you have to return tomorrow,matt,2020-04-23 23:01:13,,negative,17094.0,94.0,0.0,4.0
+172,d201774e-f4da-4be2-b765-b5791017f071,1253459728887427073,@NBCTheVoice @LAYS @johnlegend Him and his narcissistic sociopathic wife @chrissyteigen are Saul Alinsky fascist @Hyundai @Target,Lion & Lamb,2020-04-23 23:04:22,Legal Merican ,negative,88630.0,2985.0,0.0,0.0
+173,81e7cc71-becb-482d-866d-fb68fc141195,1253463722967928832,"@berlu135 @p_ferragu I'm not
+
+That's absurd, for the golf. 
+A 2018 Hyundai Accent is 2500lbs. 
+My subaru weighs 2800lbs and has AWD. 
+
+I love how you try to call shit that's not the case. 
+The golf is a little heavy for what it is, but 3500lbs isn't light by any means. Don't fucking delude yourself.",Himiko Tsuhane,2020-04-23 23:20:14,,negative,12556.0,240.0,0.0,0.0
+174,7ec93d39-174e-4f9b-9cd4-e90edc2ca8d7,1253471595756163073,@AllianceXrp @Ripple @JoelKatz Dude what’s your deal with @elonmusk? I’ve seen you hate on him in three of your last three tweets. Your Tesla not getting advertised range or what?,XRPatriot,2020-04-23 23:51:31,,negative,325.0,15.0,0.0,1.0
+175,0e1b08f6-2404-46ab-a17d-ba863df9176c,1253471760604954624,Tesla is showing the corporate world how to be socially responsible in times of crisis. The best organizations are those who realize they are accountable to a larger society. #MKTG3104 https://t.co/BowSR5SkrT,Hannah Stephenson,2020-04-23 23:52:10,Virginia,negative,3429.0,85.0,0.0,0.0
+176,14712ffc-6e55-4243-8af5-25f6011a9502,1253472186607648768,"@cppinvest I've had similar conversations with friends, family and random strangers.
+None of them are likely to ever buy a Tesla but how DARE I say anything bad about Elon Musk?
+EVERYONE knows he is saving the world.
+Stop with the conspiranoia!",Keef Wivanef,2020-04-23 23:53:52,Woop Woop,negative,155.0,125.0,0.0,20.0
+177,7fb91cc0-e0ae-4c19-9fdc-5196e71ff98c,1253472373321478149,"@Hypermobile2011 @normalizingFTW @Starbrina1 @BoycottGrimes There is, but I can’t think of it. I think with her it’s an unhealthy obsession with Musk, Grimes is just collateral. Can tell from the Tesla video, her body language is childish and uncontrolled.",JulieCrampton73,2020-04-23 23:54:36,,negative,741.0,16.0,0.0,2.0
+178,353198bb-4aa3-4001-aa0f-9f3fe58b42c8,1253472534244229120,@bustakap90 @Jalopnik @Tesla agreed. rip @INFINITIUSA,drew,2020-04-23 23:55:15,dallas,negative,5579.0,781.0,0.0,1.0
+179,a6836f20-8af3-4f49-92cf-10ce8e45f7e9,1253472557132627968,"It's not about buybacks alone. 
+I'm fine with people taking a gamble on Tesla, for example, but there should be some rule preventing innocent people's money going into such risky endeavors through pension and other funds.
+How's that for a suggestion @chamath ?",Rob Forth,2020-04-23 23:55:20,Belgium,negative,30413.0,1344.0,0.0,1.0
+180,f8a0d2a7-7810-401c-97fb-53560848b5aa,1253472652498526208,"@drdabbles @greentheonly Ok ? I follow this guy , he posts interesting stuff and I thought Tesla was ok with it but obviously crossed the line and pissed Tesla off. So he should back off and let them work. IP is the work of others, don’t mess with it if you have any class",I like Teslas,2020-04-23 23:55:43,,negative,10473.0,1477.0,0.0,0.0
+181,6b6c7a92-cbf7-43a5-941a-aa73bd9b1e16,1253472670840057856,"Dammit, @Tesla should just split the stock already so that the bulls and bears can agree that under 700 is even close to reasonable. https://t.co/b9BRvwDuEQ",TeslaJess,2020-04-23 23:55:47,United States,negative,16281.0,1039.0,0.0,10.0
+182,e1c6602e-5d8f-4b79-883f-ea4ff55242c9,1253472753828552704,"@MikePalmer217 @sander_gabe @Teslarati If they made them compatible with all EVs, that would not be smart for Tesla",Logan,2020-04-23 23:56:07,"Blackhawk, CA",negative,44691.0,6769.0,0.0,0.0
+183,98c8a734-1764-4dbb-8e9e-520a48e40863,1253472876432408579,"@ramonricky71 @Tesla I HATE YOU SO MUCH!! Not really but I do want to steal your Tesla, so I can watch Harry Potter. Sorry that’s the last time I’ll use that joke.",Leigh Kopaczewski,2020-04-23 23:56:36,"Round Rock, TX",negative,285.0,31.0,0.0,1.0
+184,2abcead9-7764-484c-ad1c-b2088d4becd6,1253473574834372614,"here we have things like the Tesla Cybertruck and irl hovermobiles going on big time, and self-driving semis and buses too, and we let this virus stymie us. ridiculous!",attempt serenity,2020-04-23 23:59:23,United States,negative,13050.0,406.0,0.0,1.0
+185,f633beff-0184-4bc0-8bdc-1ddf791c748c,1251436925526958081,Sometimes I think Honda must only hire engineers who are masochistic. Look at where this mounting bolt for an NT700 ABS unit is located. And it's threadlocked too. Honda Motor Company indeed. Certainly not the Honda Rational Packaging Company. https://t.co/8QFg3k470Y,Nevin Power,2020-04-18 09:06:28,Ireland,neutral,,,,
+186,3c5331cc-c934-44a6-9670-3b1a5a35a3bd,1252173036536639488,The Honda CRF450X is an off-road motorcycle made by Honda Motor Company. It currently has a 450 cc (27 cu in) liquid-cooled single-cylinder engine.,Muffings,2020-04-20 09:51:30,,neutral,,,,
+187,a31a2fb6-d0e8-42b9-b2bc-e303e3dc46d3,1252197704463118337,"Big Changes Announced for #Honda #Motor #Europe, Spain and #Portugal: Miu Kato joined #Honda in 2000 Throughout his career at the company, he has held positions of responsibility in countries such as #Russia and the United States. The until now vice… https://t.co/E6zFCCq75g",TotalMotorcycle,2020-04-20 11:29:32,United States,neutral,,,,
+188,e977c834-c1e0-4400-a82f-dbc5f13db18c,1252363394646065159,@jeontro EVERYONE WAS SO QUIET ABOUT IT I NEVER SAW THE HYUNDAI TWEET,h...⁷ DIANA DAY,2020-04-20 22:27:55,h^^py,neutral,,,,
+189,63c01bf6-596f-4e1e-aac0-eed7467f0c69,1252363454121271304,"@namjoon_trash94 Hyundai posted it! Looks like a local selfie, isn't it? 😁",Claudia⁷ 🎗️ON the MOON 🌕,2020-04-20 22:28:09,Magic Shop ,neutral,,,,
+190,75cde02f-5672-487c-9974-1d38163793a2,1252363869617414150,Elevate your daily drive behind the wheel of the 2020 Hyundai Santa Fe. Tap https://t.co/nzKHzpB2aI to see how you can lease the SUV for $249 per month! 😃 https://t.co/MOchdMgmKn,Hanford Hyundai,2020-04-20 22:29:48,"Hanford, CA",neutral,,,,
+191,377a6149-d081-4d9d-a5c7-bd0feffc915e,1252354497180913668,Volkswagen Group definitely went back to the drawing board after seeing that video. 🤣 https://t.co/ErN5lR66qp,Neo,2020-04-20 21:52:34,"Pretoria, South Africa",neutral,,,,
+192,9835efbe-d7bb-434e-85ab-c66a10609bf3,1252356104022974465,Volkswagen settles emissions class action with bulk of claimants https://t.co/A9GDbisGtZ,Mark Habersack,2020-04-20 21:58:57,Las Vegas Nevada,neutral,,,,
+193,9e9c4814-fc66-4c89-87d7-a07051b3f174,1252357184907694082,Every time I listen to Purple Reign I think about senior year at Byrd skipping class in my Volkswagen 🥺,K.Emonn✨,2020-04-20 22:03:15,"Louisiana, USA",neutral,,,,
+194,579e4057-1a9d-4915-9c7a-ccdaaac18ad1,1252358936469987328,"Don't submit then quit. Apply for jobs like ""Project Lead - Bentley"" at Volkswagen Group of America, then look for people you might know at the company. You might be able to reach out to HR directly. Ready to apply? Check out the link in our bio. #Engineering #Belmont, CA",TMJ-SFO Engin. Jobs,2020-04-20 22:10:12,"San Francisco, CA",neutral,,,,
+195,88773623-551f-42ef-b8ea-d11c8d53f8c3,1252359536536481799,"@meganamram What, like in the back of a Volkswagen?",Anxious Giant,2020-04-20 22:12:35,United States,neutral,,,,
+196,63ace485-557c-4684-bcf6-398824431266,1252361323129606146,was gonna make a web on the volkswagen forum?,Dr. Crowbotnik,2020-04-20 22:19:41,Eggmanland,neutral,,,,
+197,7a621fe9-18c0-4336-9617-eccfa55c5829,1252362658474414082,"VOLKSWAGEN up! 1.0 5p. move up! BlueMotion Technology
 12.100 € IVA esposta
 https://t.co/zulqvQSS1v
-#volkswagen #up!",AutoMaurig S.r.l.,2020-04-20 22:25:00,San Giovanni al Natisone,neutral
-131,403acbcc-9c79-4af1-b9a2-0c5c27b6154e,1252363935086305283,"See our latest #AuburnHills, MI job and click to apply: PCMS Associate Analyst - https://t.co/21aFjpWSo4 #Engineering",TMJ-MIU Engin. Jobs,2020-04-20 22:30:04,"Auburn Hills, MI",neutral
-132,c2ce75e0-11ca-424d-9a7c-aa80a0bce4a1,1252364926087122946,@UberFacts Like the back of a Volkswagen. Special shootout to @ThatKevinSmith without whom this tweet wouldn't be possibly.,You Dont Know,2020-04-20 22:34:00,,neutral
-133,74fc604b-fb6d-426c-9ab5-1f76302a12b1,1252365462240784385,"2021 Volkswagen Tiguan to get a fresh face, better tech 
-CarConnection - News - Noticia - Bitcoin - CryptoCurrency - Forex - @newstwiteafrica &gt; https://t.co/KYBQx9KENG https://t.co/g8DuI3zwiO",News Africa Noticia Bitcoin Forex Health Fitness,2020-04-20 22:36:08,Brasil,neutral
-134,86d613c4-b57d-4fb0-a7d5-7168a2faee8f,1252365518385770497,"New issue focuses on UK's 2035 proposals, tuning electric cars, MINI's first electric car, revised Volkswagen e-up!, Volvo's new front-wheel drive XC40 T5 Plug-in Hybrid and a special look at Covid-19 plus much more. https://t.co/TPJBiRHgd2",Autovolt Magazine,2020-04-20 22:36:22,United Kingdom,neutral
-135,d129915e-a3d0-47eb-a86a-6a487cf1bbd3,1252286866205880328,"‘Things were white-hot in and around Detroit in 1937 when it came to unionizing auto workers.’
+#volkswagen #up!",AutoMaurig S.r.l.,2020-04-20 22:25:00,San Giovanni al Natisone,neutral,,,,
+198,403acbcc-9c79-4af1-b9a2-0c5c27b6154e,1252363935086305283,"See our latest #AuburnHills, MI job and click to apply: PCMS Associate Analyst - https://t.co/21aFjpWSo4 #Engineering",TMJ-MIU Engin. Jobs,2020-04-20 22:30:04,"Auburn Hills, MI",neutral,,,,
+199,c2ce75e0-11ca-424d-9a7c-aa80a0bce4a1,1252364926087122946,@UberFacts Like the back of a Volkswagen. Special shootout to @ThatKevinSmith without whom this tweet wouldn't be possibly.,You Dont Know,2020-04-20 22:34:00,,neutral,,,,
+200,74fc604b-fb6d-426c-9ab5-1f76302a12b1,1252365462240784385,"2021 Volkswagen Tiguan to get a fresh face, better tech 
+CarConnection - News - Noticia - Bitcoin - CryptoCurrency - Forex - @newstwiteafrica &gt; https://t.co/KYBQx9KENG https://t.co/g8DuI3zwiO",News Africa Noticia Bitcoin Forex Health Fitness,2020-04-20 22:36:08,Brasil,neutral,,,,
+201,86d613c4-b57d-4fb0-a7d5-7168a2faee8f,1252365518385770497,"New issue focuses on UK's 2035 proposals, tuning electric cars, MINI's first electric car, revised Volkswagen e-up!, Volvo's new front-wheel drive XC40 T5 Plug-in Hybrid and a special look at Covid-19 plus much more. https://t.co/TPJBiRHgd2",Autovolt Magazine,2020-04-20 22:36:22,United Kingdom,neutral,,,,
+202,d129915e-a3d0-47eb-a86a-6a487cf1bbd3,1252286866205880328,"‘Things were white-hot in and around Detroit in 1937 when it came to unionizing auto workers.’
 
-https://t.co/SdXws9uFrH",Ella Septima-Hamer,2020-04-20 17:23:49,"Motown Bred, Harlem, NC, KS",neutral
-136,695ac0dd-d02c-4ebf-a9f6-3debbc68dd0d,1252293207322435585,Ford sets a new standard for modern development in the automobile industry with @RedHat and @Sysdig. https://t.co/3S6ajTjcng https://t.co/UrQz0nC89h,CK,2020-04-20 17:49:01,UK,neutral
-137,ec937480-72a5-43f2-8061-e2e97524b190,1252307552370597891,"(20) Daniel Oh on Twitter: "".@Ford built new #RedHat @OpenShift clusters with @Sysdig, gaining competences in #OpenShift and moved many stateful #apps onto the new platform. Learn more https://t.co/6Q84pcRhD7"" / Twitter https://t.co/txSZHqyJ3p https://t.co/Jyx4aIdKgy",Eric Carter,2020-04-20 18:46:01,"San Francisco, CA",neutral
-138,ef545e46-9188-4347-8eed-f113ec022950,1252317247076315137,"Ford Updates Vocational Truck Offerings
-#Ford #Vocational Truck #FSeries https://t.co/MaPthfTDcg",Equipment Today,2020-04-20 19:24:33,"Fort Atkinson, WI",neutral
-139,d593649c-5843-47d1-a45d-5f03efa78959,1252322396176027652,@sworrall @stockotrader Ford Motor Company.,Nick Short,2020-04-20 19:45:00,Bath & Suffolk,neutral
-140,5c0e8ce7-e57c-445c-b5bd-2d7224289290,1252323286366683138,"@3d_Cristina @nikolatrevor @nikolamotor So basically a Ford Escape and a Landrover are the same. While they are both SUV's there are many differences. Nikola Motor did not invent the semi truck, nor does the company have proprietary privileges to all semis.
+https://t.co/SdXws9uFrH",Ella Septima-Hamer,2020-04-20 17:23:49,"Motown Bred, Harlem, NC, KS",neutral,,,,
+203,695ac0dd-d02c-4ebf-a9f6-3debbc68dd0d,1252293207322435585,Ford sets a new standard for modern development in the automobile industry with @RedHat and @Sysdig. https://t.co/3S6ajTjcng https://t.co/UrQz0nC89h,CK,2020-04-20 17:49:01,UK,neutral,,,,
+204,ec937480-72a5-43f2-8061-e2e97524b190,1252307552370597891,"(20) Daniel Oh on Twitter: "".@Ford built new #RedHat @OpenShift clusters with @Sysdig, gaining competences in #OpenShift and moved many stateful #apps onto the new platform. Learn more https://t.co/6Q84pcRhD7"" / Twitter https://t.co/txSZHqyJ3p https://t.co/Jyx4aIdKgy",Eric Carter,2020-04-20 18:46:01,"San Francisco, CA",neutral,,,,
+205,ef545e46-9188-4347-8eed-f113ec022950,1252317247076315137,"Ford Updates Vocational Truck Offerings
+#Ford #Vocational Truck #FSeries https://t.co/MaPthfTDcg",Equipment Today,2020-04-20 19:24:33,"Fort Atkinson, WI",neutral,,,,
+206,d593649c-5843-47d1-a45d-5f03efa78959,1252322396176027652,@sworrall @stockotrader Ford Motor Company.,Nick Short,2020-04-20 19:45:00,Bath & Suffolk,neutral,,,,
+207,5c0e8ce7-e57c-445c-b5bd-2d7224289290,1252323286366683138,"@3d_Cristina @nikolatrevor @nikolamotor So basically a Ford Escape and a Landrover are the same. While they are both SUV's there are many differences. Nikola Motor did not invent the semi truck, nor does the company have proprietary privileges to all semis.
 
-So the color is the same and they both have tinted windows!?",Pravduh,2020-04-20 19:48:33,The interwebs,neutral
-141,7647cdf2-e5a7-4899-b293-fb5bc9395245,1252328189889781777,"After creating a container-based application platform with #RedHat and #sysdig, @Ford has improved developer productivity and enhanced its security and compliance approach. Read our story here https://t.co/g5jeTL61Pu #RHInnovationAwards #RHSummit https://t.co/zMZfbYOVNm",Sysdig,2020-04-20 20:08:02,"San Francisco, CA",neutral
-142,917bb262-b9d4-43f5-b39e-87de8d6241c1,1252328505922031616,@ReflectingMan @ahmed It was bought by my Dad and he gave it to the high school shop guy to bring it up to snuff so I could drive it to work at The Ford Motor company.  It was a 64 Fairlane.  Blue. It was slow and I guess my dad didn’t want it to be too fast....🤔,@SaysDana,2020-04-20 20:09:17,Switzerland,neutral
-143,80da8580-ab2c-4696-b62f-2d5339ae81d8,1252334746132189185,"Ford Motor Company - Without Food Supply Chain, South Africa Could Face Very Different Crisis - https://t.co/dIrCFvHGIT https://t.co/UfJX98C3ob",automobilsport,2020-04-20 20:34:05,Spanien/Luxembourg,neutral
-144,3440d808-62e1-4558-9c4c-93d09c5842ee,1252348132681068545,"🌟Ford Motor Company Fund Matches Donation💯
+So the color is the same and they both have tinted windows!?",Pravduh,2020-04-20 19:48:33,The interwebs,neutral,,,,
+208,7647cdf2-e5a7-4899-b293-fb5bc9395245,1252328189889781777,"After creating a container-based application platform with #RedHat and #sysdig, @Ford has improved developer productivity and enhanced its security and compliance approach. Read our story here https://t.co/g5jeTL61Pu #RHInnovationAwards #RHSummit https://t.co/zMZfbYOVNm",Sysdig,2020-04-20 20:08:02,"San Francisco, CA",neutral,,,,
+209,917bb262-b9d4-43f5-b39e-87de8d6241c1,1252328505922031616,@ReflectingMan @ahmed It was bought by my Dad and he gave it to the high school shop guy to bring it up to snuff so I could drive it to work at The Ford Motor company.  It was a 64 Fairlane.  Blue. It was slow and I guess my dad didn’t want it to be too fast....🤔,@SaysDana,2020-04-20 20:09:17,Switzerland,neutral,,,,
+210,80da8580-ab2c-4696-b62f-2d5339ae81d8,1252334746132189185,"Ford Motor Company - Without Food Supply Chain, South Africa Could Face Very Different Crisis - https://t.co/dIrCFvHGIT https://t.co/UfJX98C3ob",automobilsport,2020-04-20 20:34:05,Spanien/Luxembourg,neutral,,,,
+211,3440d808-62e1-4558-9c4c-93d09c5842ee,1252348132681068545,"🌟Ford Motor Company Fund Matches Donation💯
  
 Read more at - https://t.co/9hzZXZ3zVO
  
 For more information call @Ancira Ford - Floresville at (830) 216-4040 or send us an direct message.
 
-#ThinkAncira #Ford #Floresville #Builttolendahand #Community https://t.co/hT9lu5CEsW",AnciraFordFloresville,2020-04-20 21:27:16,,neutral
-145,1e497aa8-21af-4eff-bc58-1c72ae570c17,1252351125354737670,Ford Motor Company optimizes with container platform to speed delivery https://t.co/tg0ZSPbJc1,cyberpunk_fixer,2020-04-20 21:39:10,DC,neutral
-146,29b0472c-509a-468d-9e0f-ac987ef1ca7b,1252363920074928129,"The full Turtle Trading strategy is more complex, however, in this article, we have coded the crux of the strategy in Python and traded on stocks such as Apple Inc., Kinder Morgan Inc., and Ford Motor Company. https://t.co/txSIIXtvt2",Quantra,2020-04-20 22:30:00,"Mumbai, India",neutral
-147,d41a5c4d-fc2b-42db-8e61-a170f9da527e,1252363334285848576,@Toyota__Corolla Man crush rMonday?,Brock,2020-04-20 22:27:41,,neutral
-148,c8b5e037-d495-4c2e-a8a0-8ea9cb616656,1252363946746499073,"If you're not watching @johnkrasinski's @somegoodnews you're missing out!
+#ThinkAncira #Ford #Floresville #Builttolendahand #Community https://t.co/hT9lu5CEsW",AnciraFordFloresville,2020-04-20 21:27:16,,neutral,,,,
+212,1e497aa8-21af-4eff-bc58-1c72ae570c17,1252351125354737670,Ford Motor Company optimizes with container platform to speed delivery https://t.co/tg0ZSPbJc1,cyberpunk_fixer,2020-04-20 21:39:10,DC,neutral,,,,
+213,29b0472c-509a-468d-9e0f-ac987ef1ca7b,1252363920074928129,"The full Turtle Trading strategy is more complex, however, in this article, we have coded the crux of the strategy in Python and traded on stocks such as Apple Inc., Kinder Morgan Inc., and Ford Motor Company. https://t.co/txSIIXtvt2",Quantra,2020-04-20 22:30:00,"Mumbai, India",neutral,,,,
+214,d41a5c4d-fc2b-42db-8e61-a170f9da527e,1252363334285848576,@Toyota__Corolla Man crush rMonday?,Brock,2020-04-20 22:27:41,,neutral,,,,
+215,c8b5e037-d495-4c2e-a8a0-8ea9cb616656,1252363946746499073,"If you're not watching @johnkrasinski's @somegoodnews you're missing out!
 
-https://t.co/m3cCKJRv9b https://t.co/m3cCKJRv9b",CharlesBarkerToyota,2020-04-20 22:30:07,"1877 Laskin Rd, VA Beach, VA",neutral
-149,e734a9b1-f069-448e-842f-93b1fee12a8f,1252363987674529795,@DougDeMuro Someone needs to get you a Toyota X Runner for review! https://t.co/3RazSaEguc,Hayaku Ikimasu 🌎,2020-04-20 22:30:17,U.S.A.,neutral
-150,a8ac2a9a-1644-4737-8c66-d6d45dd1dcb6,1252364140800167938,@sebringraceway @Toyota_Hybrid Makes me wonder if you mixed Royal Crown and Crown Royal if it’s good,SebringFans.com,2020-04-20 22:30:53,"Sebring, Florida",neutral
-151,015468cb-ac7b-4e5a-9756-4c44eba34103,1252364280793448449,Toyota Motor North America new chief executive officer Ted Ogawa takes the office amid unprecedented changes. https://t.co/rY4h6J71kD https://t.co/NqjM0uA4r7,Paul Williamsen,2020-04-20 22:31:27,"Plano, TX",neutral
-152,ecbde3ec-8210-4c8f-a974-a88b4d620fe3,1252364564143804416,NOW WRECKING 2015 TOYOTA HILUX 2.4L 5 SPEED MANUAL UTE STOCK NUMBER W0250 CALL 1300 363 593 FOR INQUIRIES OR VISIT https://t.co/hwZMdsezQE https://t.co/iEhzVI9QQR,JCS Parts,2020-04-20 22:32:34,"Adelaide, South Australia",neutral
-153,eb85ddab-f164-4b03-a676-5d4040dc60f7,1252364689989750785,Toyota/Lexus Introduce Three New BEVs In China https://t.co/yrsE0wqg2r https://t.co/EEY0EXZ7fY,Liberty Access Technologies,2020-04-20 22:33:04,,neutral
-154,33fe992c-ea00-4ada-b4a9-3637cd7fc045,1252365936583032833,"Bismillahirrahmanirrahim
+https://t.co/m3cCKJRv9b https://t.co/m3cCKJRv9b",CharlesBarkerToyota,2020-04-20 22:30:07,"1877 Laskin Rd, VA Beach, VA",neutral,,,,
+216,e734a9b1-f069-448e-842f-93b1fee12a8f,1252363987674529795,@DougDeMuro Someone needs to get you a Toyota X Runner for review! https://t.co/3RazSaEguc,Hayaku Ikimasu 🌎,2020-04-20 22:30:17,U.S.A.,neutral,,,,
+217,a8ac2a9a-1644-4737-8c66-d6d45dd1dcb6,1252364140800167938,@sebringraceway @Toyota_Hybrid Makes me wonder if you mixed Royal Crown and Crown Royal if it’s good,SebringFans.com,2020-04-20 22:30:53,"Sebring, Florida",neutral,,,,
+218,015468cb-ac7b-4e5a-9756-4c44eba34103,1252364280793448449,Toyota Motor North America new chief executive officer Ted Ogawa takes the office amid unprecedented changes. https://t.co/rY4h6J71kD https://t.co/NqjM0uA4r7,Paul Williamsen,2020-04-20 22:31:27,"Plano, TX",neutral,,,,
+219,ecbde3ec-8210-4c8f-a974-a88b4d620fe3,1252364564143804416,NOW WRECKING 2015 TOYOTA HILUX 2.4L 5 SPEED MANUAL UTE STOCK NUMBER W0250 CALL 1300 363 593 FOR INQUIRIES OR VISIT https://t.co/hwZMdsezQE https://t.co/iEhzVI9QQR,JCS Parts,2020-04-20 22:32:34,"Adelaide, South Australia",neutral,,,,
+220,eb85ddab-f164-4b03-a676-5d4040dc60f7,1252364689989750785,Toyota/Lexus Introduce Three New BEVs In China https://t.co/yrsE0wqg2r https://t.co/EEY0EXZ7fY,Liberty Access Technologies,2020-04-20 22:33:04,,neutral,,,,
+221,33fe992c-ea00-4ada-b4a9-3637cd7fc045,1252365936583032833,"Bismillahirrahmanirrahim
 
 For Sale - Jual
 Tomica Takara Tomy
@@ -282,95 +396,95 @@ Paypal Ready
 WhatsApp : +62 857-0304-0515
 Line : 75corner
 
-Order Now, ⬇ Visit Link Below… https://t.co/Z4F1BgFAmk",75 Corner,2020-04-20 22:38:01,"Bandung, Indonesia",neutral
-155,d7db02ee-267f-4817-9723-90058d3659fe,1252366953261355009,"Toyota Camry 07/08 for sale, in good shape and good condition, buy and drive.",Ajala Jalingo,2020-04-20 22:42:04,Nigeria,neutral
-156,dafc3078-2e3d-4f2c-add6-d7186b15e915,1252367185495781376,Ok but tell me why Toyota thinks @chelseahandler is Chelsea cutler ..... https://t.co/5ZvFvDh7vO,Nidia,2020-04-20 22:42:59,,neutral
-157,ea97d55c-066d-4e2d-9d22-5df79c457085,1252367686681497601,"@stepstoolsarahx The only woman so beast she could no sell MULTIPLE dropkicks from Manami Toyota
+Order Now, ⬇ Visit Link Below… https://t.co/Z4F1BgFAmk",75 Corner,2020-04-20 22:38:01,"Bandung, Indonesia",neutral,,,,
+222,d7db02ee-267f-4817-9723-90058d3659fe,1252366953261355009,"Toyota Camry 07/08 for sale, in good shape and good condition, buy and drive.",Ajala Jalingo,2020-04-20 22:42:04,Nigeria,neutral,,,,
+223,dafc3078-2e3d-4f2c-add6-d7186b15e915,1252367185495781376,Ok but tell me why Toyota thinks @chelseahandler is Chelsea cutler ..... https://t.co/5ZvFvDh7vO,Nidia,2020-04-20 22:42:59,,neutral,,,,
+224,ea97d55c-066d-4e2d-9d22-5df79c457085,1252367686681497601,"@stepstoolsarahx The only woman so beast she could no sell MULTIPLE dropkicks from Manami Toyota
 
-https://t.co/RYHaZDiE07",Pun DMC,2020-04-20 22:44:59,"Louisville, KY",neutral
-158,9e3e2428-1fe1-42e8-aff5-c74fdc5a6ab9,1252362076552441856,See how Audi compares to the competition. Tap https://t.co/0VzUbN7RQ8 to read our model research! 🔎 https://t.co/8Nm6CdhY3U,Audi Hoffman Estates,2020-04-20 22:22:41,"Hoffman Estates, IL",neutral
-159,77c34af8-ab8d-469a-8f9d-dc1f17326d83,1252363393257795585,"@goonertom18 @premierleague What is Reina doing there??
-why not David James",MUBEEN,2020-04-20 22:27:55,"Katsina, Nigeria",neutral
-160,1c395dea-a70a-4b19-a61c-ab062d9ea60c,1252363794434555912,Yo please make me a free woman again still got 3 years over my head https://t.co/JVRPRgOR4r,audd,2020-04-20 22:29:31,,neutral
-161,197c66c9-8831-42ed-8a1f-c0a69b913ecb,1252364080486084610,"@ChristopherHahn An Odyssey ""Touring""! The Audi of Honda minivans!",Stu Loeser,2020-04-20 22:30:39,Alongside @JessLoeser,neutral
-162,19a105d0-fb47-4bf3-8633-540d6b91bcc0,1252365466070212615,"View Photos of the 2020 Audi R8 Spyder 
-caranddriver - News - Noticia - Bitcoin - CryptoCurrency - Forex - @newstwiteafrica &gt; https://t.co/JFJiyusofi",News Africa Noticia Bitcoin Forex Health Fitness,2020-04-20 22:36:09,Brasil,neutral
-163,b0737c6f-87e7-44c9-84d4-dd559b397e9a,1252365554570027010,"@AmericanOutlaws Centurylink Field, Providence Park, Alliance Stadium, Audi Stadium, Children's Mercy Park",Brandon Reyes,2020-04-20 22:36:30,"California, USA",neutral
-164,155b7fee-5e6c-41a3-bbc7-56038f2048c6,1252367526270431232,"@Speedy_Matt_ Any 3.0 V6 diesel VW or Audi. Touareg, A6 or A8. 1 fuel stop and comfort enough that one coffee break at Perth to refresh you. Doesn’t have to be a sporting car to get the job done",Mark Benzie,2020-04-20 22:44:20,"Winchester, Hampshire, UK",neutral
-165,a214364f-4025-4998-bde1-f277105d3aeb,1252367655475884033,"@mastropotato @newmacdroitwich The Audi, by a mile",Berversion,2020-04-20 22:44:51,Ireland,neutral
-166,a3f2fcd6-3024-4bf1-b8dc-5a9365e85197,1252368137003036673,Anybody have an Infiniti Q50 or 2012-15 Audi A6?,MrHereandThere,2020-04-20 22:46:46,United States,neutral
-167,fc827203-02cd-4cd9-b26a-2380f15f5a0f,1252367729606049795,"2020 BMW X7 xDrive40i | $9,750 incentive offered on this 30-mo. lease transfer in Santa Clarita, CA.  Details Here: https://t.co/MLGYDWp1Oc  Contact the private seller today. https://t.co/RiqQfzooOS",Swapalease.com,2020-04-20 22:45:09,"Cincinnati, USA, Canada",neutral
-168,fac9f4bc-c703-4aec-a256-06347e698e87,1252367783444111365,@Baffa_Umar Use your certificate to buy Benz and BMW and stop walking under the sun,isah mohammed yusuf,2020-04-20 22:45:22,Federal Capital Territory,neutral
-169,fdc1127b-2990-450a-9b01-673574c101bc,1252367855540043779,https://t.co/XoncnM2B5R we live!! @pritty_money @WBRC3 @DaSmokeOfNy @shawny_jay @ej_alwayz @MemphisPro @monarae_memoirs @HoodieMan1789 @IMINDABUILDN @BellaVendetta2 @EBLExclusiveBa1 @bmw_polo @CSkinner229 @LucksDani @DJLADIBUGGDAPL1 @PrinceSpazz,Follow Me On Caffeine Monte2020,2020-04-20 22:45:39,#330 #412 #608,neutral
-170,fa0efebe-aa7f-41b0-8ec8-00997072a78d,1252367958153691144,See and be seen in the 2020 BMW 330i: a sports sedan others aspire to be. 📲 Tap to view our inventory and have this iconic ride delivered right to your door: https://t.co/fiwLcWJg5R https://t.co/KplcLtTtl7,BMW of Newport RI,2020-04-20 22:46:03,"Newport, RI",neutral
-171,120fede7-dec6-4f67-86ee-3a3cf5ccd657,1252368250572165136,"Did you know?
-In 1916, Franz Joseph Popp, Karl Rapp, and Camillo Castiglioni founded the company which is based in Munich Germany. They called the company Bayerische Motoren Werke which was later shortened to BMW.",BMW Community,2020-04-20 22:47:13,,neutral
-172,86c0390b-a88b-4989-b2b9-9123526d6bfb,1252368259489251332,Hi everyone! Thanks to BMW for this journey from 1997 to 2020. @BMW  @BMWMotorsport https://t.co/t9sJ6wcgsh,halil,2020-04-20 22:47:15,Çinçin sevdalısı🥰,neutral
-173,50fd4748-d964-40e5-9a15-adfb8a64aea9,1252368540432076800,"In a Crisis, Pessimism Is Natural but Realism Is Crucial @HumanProgress https://t.co/y00x7GI7Ja #HumanProgressData",Rohit Gupta,2020-04-20 22:48:22,"Santa Clara, CA",neutral
-174,c8acb70c-ef29-4065-90b3-c60462d82af9,1252368887657541636,"Did you know?
-The Dixi was the first car that BMW manufactured. https://t.co/xbzZ5cd82R",BMW Community,2020-04-20 22:49:45,,neutral
-175,82532b62-3164-4773-9c8c-d8ae48ceba50,1252369074975240193,Opening Opportunities and Fighting Abuse — IJ’s Response to the COVID-19 Crisis https://t.co/BjhbcnKxmf,Rohit Gupta,2020-04-20 22:50:30,"Santa Clara, CA",neutral
-176,9f55f144-5f1b-4d45-90ed-04ce9b5fea14,1252369505814114316,@G2esports @BMW G2's match against mad lions where Caps picked vayne!,Matthieu Simpson,2020-04-20 22:52:12,,neutral
-177,ec5e4192-1d30-434d-9d01-78148fa53fce,1252369513263140865,@G2esports @BMW When caps locks in vayne and destroys,Diego Garcia,2020-04-20 22:52:14,,neutral
-178,4e39c754-a06c-4a4a-8f0e-69b307ecf49b,1252369590253842433,"2011 BMW 128i 
+https://t.co/RYHaZDiE07",Pun DMC,2020-04-20 22:44:59,"Louisville, KY",neutral,,,,
+225,9e3e2428-1fe1-42e8-aff5-c74fdc5a6ab9,1252362076552441856,See how Audi compares to the competition. Tap https://t.co/0VzUbN7RQ8 to read our model research! 🔎 https://t.co/8Nm6CdhY3U,Audi Hoffman Estates,2020-04-20 22:22:41,"Hoffman Estates, IL",neutral,,,,
+226,77c34af8-ab8d-469a-8f9d-dc1f17326d83,1252363393257795585,"@goonertom18 @premierleague What is Reina doing there??
+why not David James",MUBEEN,2020-04-20 22:27:55,"Katsina, Nigeria",neutral,,,,
+227,1c395dea-a70a-4b19-a61c-ab062d9ea60c,1252363794434555912,Yo please make me a free woman again still got 3 years over my head https://t.co/JVRPRgOR4r,audd,2020-04-20 22:29:31,,neutral,,,,
+228,197c66c9-8831-42ed-8a1f-c0a69b913ecb,1252364080486084610,"@ChristopherHahn An Odyssey ""Touring""! The Audi of Honda minivans!",Stu Loeser,2020-04-20 22:30:39,Alongside @JessLoeser,neutral,,,,
+229,19a105d0-fb47-4bf3-8633-540d6b91bcc0,1252365466070212615,"View Photos of the 2020 Audi R8 Spyder 
+caranddriver - News - Noticia - Bitcoin - CryptoCurrency - Forex - @newstwiteafrica &gt; https://t.co/JFJiyusofi",News Africa Noticia Bitcoin Forex Health Fitness,2020-04-20 22:36:09,Brasil,neutral,,,,
+230,b0737c6f-87e7-44c9-84d4-dd559b397e9a,1252365554570027010,"@AmericanOutlaws Centurylink Field, Providence Park, Alliance Stadium, Audi Stadium, Children's Mercy Park",Brandon Reyes,2020-04-20 22:36:30,"California, USA",neutral,,,,
+231,155b7fee-5e6c-41a3-bbc7-56038f2048c6,1252367526270431232,"@Speedy_Matt_ Any 3.0 V6 diesel VW or Audi. Touareg, A6 or A8. 1 fuel stop and comfort enough that one coffee break at Perth to refresh you. Doesn’t have to be a sporting car to get the job done",Mark Benzie,2020-04-20 22:44:20,"Winchester, Hampshire, UK",neutral,,,,
+232,a214364f-4025-4998-bde1-f277105d3aeb,1252367655475884033,"@mastropotato @newmacdroitwich The Audi, by a mile",Berversion,2020-04-20 22:44:51,Ireland,neutral,,,,
+233,a3f2fcd6-3024-4bf1-b8dc-5a9365e85197,1252368137003036673,Anybody have an Infiniti Q50 or 2012-15 Audi A6?,MrHereandThere,2020-04-20 22:46:46,United States,neutral,,,,
+234,fc827203-02cd-4cd9-b26a-2380f15f5a0f,1252367729606049795,"2020 BMW X7 xDrive40i | $9,750 incentive offered on this 30-mo. lease transfer in Santa Clarita, CA.  Details Here: https://t.co/MLGYDWp1Oc  Contact the private seller today. https://t.co/RiqQfzooOS",Swapalease.com,2020-04-20 22:45:09,"Cincinnati, USA, Canada",neutral,,,,
+235,fac9f4bc-c703-4aec-a256-06347e698e87,1252367783444111365,@Baffa_Umar Use your certificate to buy Benz and BMW and stop walking under the sun,isah mohammed yusuf,2020-04-20 22:45:22,Federal Capital Territory,neutral,,,,
+236,fdc1127b-2990-450a-9b01-673574c101bc,1252367855540043779,https://t.co/XoncnM2B5R we live!! @pritty_money @WBRC3 @DaSmokeOfNy @shawny_jay @ej_alwayz @MemphisPro @monarae_memoirs @HoodieMan1789 @IMINDABUILDN @BellaVendetta2 @EBLExclusiveBa1 @bmw_polo @CSkinner229 @LucksDani @DJLADIBUGGDAPL1 @PrinceSpazz,Follow Me On Caffeine Monte2020,2020-04-20 22:45:39,#330 #412 #608,neutral,,,,
+237,fa0efebe-aa7f-41b0-8ec8-00997072a78d,1252367958153691144,See and be seen in the 2020 BMW 330i: a sports sedan others aspire to be. 📲 Tap to view our inventory and have this iconic ride delivered right to your door: https://t.co/fiwLcWJg5R https://t.co/KplcLtTtl7,BMW of Newport RI,2020-04-20 22:46:03,"Newport, RI",neutral,,,,
+238,120fede7-dec6-4f67-86ee-3a3cf5ccd657,1252368250572165136,"Did you know?
+In 1916, Franz Joseph Popp, Karl Rapp, and Camillo Castiglioni founded the company which is based in Munich Germany. They called the company Bayerische Motoren Werke which was later shortened to BMW.",BMW Community,2020-04-20 22:47:13,,neutral,,,,
+239,86c0390b-a88b-4989-b2b9-9123526d6bfb,1252368259489251332,Hi everyone! Thanks to BMW for this journey from 1997 to 2020. @BMW  @BMWMotorsport https://t.co/t9sJ6wcgsh,halil,2020-04-20 22:47:15,Çinçin sevdalısı🥰,neutral,,,,
+240,50fd4748-d964-40e5-9a15-adfb8a64aea9,1252368540432076800,"In a Crisis, Pessimism Is Natural but Realism Is Crucial @HumanProgress https://t.co/y00x7GI7Ja #HumanProgressData",Rohit Gupta,2020-04-20 22:48:22,"Santa Clara, CA",neutral,,,,
+241,c8acb70c-ef29-4065-90b3-c60462d82af9,1252368887657541636,"Did you know?
+The Dixi was the first car that BMW manufactured. https://t.co/xbzZ5cd82R",BMW Community,2020-04-20 22:49:45,,neutral,,,,
+242,82532b62-3164-4773-9c8c-d8ae48ceba50,1252369074975240193,Opening Opportunities and Fighting Abuse — IJ’s Response to the COVID-19 Crisis https://t.co/BjhbcnKxmf,Rohit Gupta,2020-04-20 22:50:30,"Santa Clara, CA",neutral,,,,
+243,9f55f144-5f1b-4d45-90ed-04ce9b5fea14,1252369505814114316,@G2esports @BMW G2's match against mad lions where Caps picked vayne!,Matthieu Simpson,2020-04-20 22:52:12,,neutral,,,,
+244,ec5e4192-1d30-434d-9d01-78148fa53fce,1252369513263140865,@G2esports @BMW When caps locks in vayne and destroys,Diego Garcia,2020-04-20 22:52:14,,neutral,,,,
+245,4e39c754-a06c-4a4a-8f0e-69b307ecf49b,1252369590253842433,"2011 BMW 128i 
 Miles:141,000
 Engine:V6 3.0L
 Title:Clean
 Price:$4500 obo 
 Car fax:Clean
-This car has no mechanical issues very nice ride for the summer..has a inline v6 motor no leaks everything works as should..for more info dm me thx https://t.co/RcCjJWMuRB",B R E A C H💔,2020-04-20 22:52:32,"Tuscaloosa, AL",neutral
-179,b82b90bf-ed64-4d6a-9449-bae2ed3e875f,1252369662282567685,"Motivation Monday: Sleepah 💯
+This car has no mechanical issues very nice ride for the summer..has a inline v6 motor no leaks everything works as should..for more info dm me thx https://t.co/RcCjJWMuRB",B R E A C H💔,2020-04-20 22:52:32,"Tuscaloosa, AL",neutral,,,,
+246,b82b90bf-ed64-4d6a-9449-bae2ed3e875f,1252369662282567685,"Motivation Monday: Sleepah 💯
 
 🖥️ https://t.co/djJchn1fTX
 📸 Redlinesproject IG
 🚗 @BMWUSA 
 
-#BMW #M5 #M5Competition #blackcars #sleeper #Luxury #automotive #photography #photographer #PhotoOfTheDay #Blog #blogging #Website #Instagram #StayHome #Boston #cars #car #auto https://t.co/pfvIEVJpPH",redlinesproject,2020-04-20 22:52:50,Boston MA,neutral
-180,66d86700-969d-4884-b88e-dabf7836265b,1252953113322942466,"“Whether you think you can, or think you can’t — you’re right.”  –Henry Ford, Ford Motor Company Founder",Prasetyo Anzery,2020-04-22 13:31:15,Pekanbaru,neutral
-181,68a108c0-684d-4bb2-8262-f6f330611857,1252970918055378944,"Based on @RedHat #OpenShift and supported by #RedHat and #Sysdig technology, #Ford has improved #developer productivity, enhanced its security and compliance approach. Read the full story. @OpenShift @Ford  https://t.co/gJk6vI3nIw",Barbara Ann May,2020-04-22 14:42:00,London & Soulbury & Elsewhere ,neutral
-182,71c0bad9-12de-448e-a719-370068d25cc8,1252980189686042624,"Based on Red Hat® @OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story. https://t.co/ielYKdjcWp",Alex Callejas,2020-04-22 15:18:51,México DF,neutral
-183,6f132068-eb65-4cc1-bb15-c8d2668e71cf,1253002256145879041,"Ford Motor Company
+#BMW #M5 #M5Competition #blackcars #sleeper #Luxury #automotive #photography #photographer #PhotoOfTheDay #Blog #blogging #Website #Instagram #StayHome #Boston #cars #car #auto https://t.co/pfvIEVJpPH",redlinesproject,2020-04-20 22:52:50,Boston MA,neutral,,,,
+247,66d86700-969d-4884-b88e-dabf7836265b,1252953113322942466,"“Whether you think you can, or think you can’t — you’re right.”  –Henry Ford, Ford Motor Company Founder",Prasetyo Anzery,2020-04-22 13:31:15,Pekanbaru,neutral,,,,
+248,68a108c0-684d-4bb2-8262-f6f330611857,1252970918055378944,"Based on @RedHat #OpenShift and supported by #RedHat and #Sysdig technology, #Ford has improved #developer productivity, enhanced its security and compliance approach. Read the full story. @OpenShift @Ford  https://t.co/gJk6vI3nIw",Barbara Ann May,2020-04-22 14:42:00,London & Soulbury & Elsewhere ,neutral,,,,
+249,71c0bad9-12de-448e-a719-370068d25cc8,1252980189686042624,"Based on Red Hat® @OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story. https://t.co/ielYKdjcWp",Alex Callejas,2020-04-22 15:18:51,México DF,neutral,,,,
+250,6f132068-eb65-4cc1-bb15-c8d2668e71cf,1253002256145879041,"Ford Motor Company
 NYSE: F
-4.77 USD 0.00%",LEE,2020-04-22 16:46:32,in your mind,neutral
-184,8964d7da-b4bd-4ce9-8da8-df4014474bf0,1253006605882396683,"Ford motor company $F market cap $19B. Burritos $24B. 
+4.77 USD 0.00%",LEE,2020-04-22 16:46:32,in your mind,neutral,,,,
+251,8964d7da-b4bd-4ce9-8da8-df4014474bf0,1253006605882396683,"Ford motor company $F market cap $19B. Burritos $24B. 
 #BurritoNation
-#HenryFord",Darius Bronze,2020-04-22 17:03:49,,neutral
-185,886ba5e4-09ca-4561-a018-587e465da763,1253013852830261248,"Stocks with greater movement, last 15 minutes
+#HenryFord",Darius Bronze,2020-04-22 17:03:49,,neutral,,,,
+252,886ba5e4-09ca-4561-a018-587e465da763,1253013852830261248,"Stocks with greater movement, last 15 minutes
 
 $TWTR +/- 1.34% Twitter Inc.
 $TER +/- 0.92% Teradyne Inc.
 $HPQ +/- 0.82% HP Inc.
 $AMAT +/- 0.68% Applied Materials Inc.
 $F +/- 0.63% Ford Motor Company
-https://t.co/Clv3lWHACE",tradingBotNyse,2020-04-22 17:32:37,Argentina,neutral
-186,306f1280-d987-4bbb-a882-4d175af600db,1252896558472888320,Tesla Inc. $TSLA Trading Report https://t.co/FgtRNJo2ab Click for Buy/Sell,Stock Traders Daily,2020-04-22 09:46:31,La Jolla,neutral
-187,c8c9916f-3853-4969-a6be-de3cfc8766b8,1252897467634352129,Directional Bias for Tesla Inc. $TSLA Trading Report https://t.co/0qnGYYU0xs Click for Details https://t.co/jGUOqWyuWW,Stock Traders Daily,2020-04-22 09:50:08,La Jolla,neutral
-188,a3512114-a24a-4f71-8d59-c37550a634af,1252905645310980096,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Bain capital changed the rating to Buy, as Tesla, Inc. (TSLA) has great fundamentals and its currently trading at a PE of 0.97 with a PEG of 0.48.",EquityMarketPredictor,2020-04-22 10:22:38,,neutral
-189,e5b2205f-1550-4d06-b6c3-242143d23e2f,1252910365261742080,"Big boys coming in hot!
+https://t.co/Clv3lWHACE",tradingBotNyse,2020-04-22 17:32:37,Argentina,neutral,,,,
+253,306f1280-d987-4bbb-a882-4d175af600db,1252896558472888320,Tesla Inc. $TSLA Trading Report https://t.co/FgtRNJo2ab Click for Buy/Sell,Stock Traders Daily,2020-04-22 09:46:31,La Jolla,neutral,,,,
+254,c8c9916f-3853-4969-a6be-de3cfc8766b8,1252897467634352129,Directional Bias for Tesla Inc. $TSLA Trading Report https://t.co/0qnGYYU0xs Click for Details https://t.co/jGUOqWyuWW,Stock Traders Daily,2020-04-22 09:50:08,La Jolla,neutral,,,,
+255,a3512114-a24a-4f71-8d59-c37550a634af,1252905645310980096,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Bain capital changed the rating to Buy, as Tesla, Inc. (TSLA) has great fundamentals and its currently trading at a PE of 0.97 with a PEG of 0.48.",EquityMarketPredictor,2020-04-22 10:22:38,,neutral,,,,
+256,e5b2205f-1550-4d06-b6c3-242143d23e2f,1252910365261742080,"Big boys coming in hot!
 
-#apple #Tesla #COVID19 #medicalsupplies https://t.co/QgN0izNXIt",Hardeep Singh,2020-04-22 10:41:23,Singapore,neutral
-190,71b8ad6a-eccb-4ebb-914f-7c41604a60b5,1252926156606771203,"$TSLA
+#apple #Tesla #COVID19 #medicalsupplies https://t.co/QgN0izNXIt",Hardeep Singh,2020-04-22 10:41:23,Singapore,neutral,,,,
+257,71b8ad6a-eccb-4ebb-914f-7c41604a60b5,1252926156606771203,"$TSLA
 
-TESLA INC : BOFA GLOBAL RESEARCH CUTS TO UNDERPERFORM FROM NEUTRAL, CUTS PRICE OBJECTIVE TO $485 FROM $500",Justin,2020-04-22 11:44:08,"Toronto, Ontario",neutral
-191,dafdd333-3f32-4614-b095-e0ecaa6c53a9,1252928509678419969,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Morgan Stanley changed the rating to Hold, as Tesla, Inc. (TSLA)  reflects limited EPS from core operations.",EquityMarketPredictor,2020-04-22 11:53:29,,neutral
-192,df037b49-2253-4f5e-acd1-e0be4d1f3df5,1252953136559468545,"💪 Wall St Solver Power Rankings 💪
+TESLA INC : BOFA GLOBAL RESEARCH CUTS TO UNDERPERFORM FROM NEUTRAL, CUTS PRICE OBJECTIVE TO $485 FROM $500",Justin,2020-04-22 11:44:08,"Toronto, Ontario",neutral,,,,
+258,dafdd333-3f32-4614-b095-e0ecaa6c53a9,1252928509678419969,"Tesla, Inc. (TSLA) surprised the market with Q3 result. Morgan Stanley changed the rating to Hold, as Tesla, Inc. (TSLA)  reflects limited EPS from core operations.",EquityMarketPredictor,2020-04-22 11:53:29,,neutral,,,,
+259,df037b49-2253-4f5e-acd1-e0be4d1f3df5,1252953136559468545,"💪 Wall St Solver Power Rankings 💪
 🥇 $AMZN ▪️ https://t.co/YJ0zftNqcc Inc.
 🥈 $MSFT ▪️ Microsoft Corporation
 🥉 $TSLA ▪️ Tesla Inc
 Rankings ➡️ https://t.co/Kwu6r1EkES
-https://t.co/Kwu6r1EkES",Wall St Solver,2020-04-22 13:31:21,,neutral
-193,d579cb80-5737-4bbe-9a4d-a122bf4cb95f,1252968780617187328,"Tesla, Inc. (TSLA) surprised the market with Q3 result.  J.P. Morgan Chase changed the rating to Underperform, as Tesla, Inc. (TSLA) tumbled about 6% since the SEC hearing.",EquityMarketPredictor,2020-04-22 14:33:30,,neutral
-194,ede4ca35-58cf-4f3e-98a5-87022914bf28,1252977505709031424,Tesla Motors Inc (TSLA) stock rose by 2.6634%! Currently priced at 705.01. https://t.co/3Xx8X9M1jh,EquityMongoose,2020-04-22 15:08:11,"Philadelphia, PA",neutral
-195,1bab506a-f88e-447f-b9d1-c7ce7c7ef6be,1252991248924913664,"Tesla, Inc. (TSLA) surprised the market with Q4 result. Deutsche bank changed the rating to Underperform, as Tesla, Inc. (TSLA) tumbled about 6% since the SEC hearing.",EquityMarketPredictor,2020-04-22 16:02:47,,neutral
-196,974bbc57-ecb2-4049-8871-75db9e89e579,1252999951203864581,"Tesla Inc is now $699.75 (1.9%) 💹
-#TSLA #TSLAQ #Tesla #TeslaMotors #NASDAQ #EV #Automotive",Tesla Market Bot,2020-04-22 16:37:22,,neutral
-197,f8c636ce-3aa9-449a-8191-ed67afae8b5e,1253022015591776257,"$TSLA is today ranked #5 in the Daily Gambiste Big Cap rating. Tesla, Inc.  - Common Stock is today top rated. Check the full Gambiste long term ratings here: https://t.co/RA0LXyNU1n",Gambiste,2020-04-22 18:05:03,,neutral
-198,0c27e505-e86c-4386-9734-369b90f2eaee,1253034680011509761,@vermilionvixxxn Where did you work if you can say I’m a tech in the Phoenix area I’ve been a Honda tech for 33 years now,matt mazur,2020-04-22 18:55:22,,neutral
-199,91c427f0-1bee-48c8-942e-2cf9cc914e66,1253034828095606785,@JTrainNeil Ford Chase. Dodge Chase. Ram Chase. Honda Chase. Toyota Chase. Jeep Chase. Chrysler Chase. Nissan Chase. Fiat Chase.,Puffed CheekPastries,2020-04-22 18:55:57,"California, USA",neutral
-200,7a79090f-9b5c-4d82-8887-307580f21716,1253035310251982858,@GIrwinRacing Honda jackets?😂😂,willie cassidy,2020-04-22 18:57:52,"meath,ireland",neutral
-201,b9ee41e7-60eb-40b3-906b-2f37cf48babe,1253035368682790921,@SocietyNews @ThePoke Nope. Not on mine. I read about this thing a few years ago and I checked my VW Polo at the time and it wasn’t the case.  I now have a Honda Jazz and it’s the same thing.,(((Queen Snowflake)))🇹🇹🕷,2020-04-22 18:58:06,West Sussex,neutral
-202,4acaf926-1224-4253-89c0-b01f71dc372f,1253035450626985984,@Shaetonah Lol somebody plz buy this Honda 😂,Brianna Wormley,2020-04-22 18:58:26,"Atlanta,GA",neutral
-203,fa8a82a6-af37-4dd7-8a96-0bef93a2e0b1,1253035605606498304,"When outside used to keep!!! 
+https://t.co/Kwu6r1EkES",Wall St Solver,2020-04-22 13:31:21,,neutral,,,,
+260,d579cb80-5737-4bbe-9a4d-a122bf4cb95f,1252968780617187328,"Tesla, Inc. (TSLA) surprised the market with Q3 result.  J.P. Morgan Chase changed the rating to Underperform, as Tesla, Inc. (TSLA) tumbled about 6% since the SEC hearing.",EquityMarketPredictor,2020-04-22 14:33:30,,neutral,,,,
+261,ede4ca35-58cf-4f3e-98a5-87022914bf28,1252977505709031424,Tesla Motors Inc (TSLA) stock rose by 2.6634%! Currently priced at 705.01. https://t.co/3Xx8X9M1jh,EquityMongoose,2020-04-22 15:08:11,"Philadelphia, PA",neutral,,,,
+262,1bab506a-f88e-447f-b9d1-c7ce7c7ef6be,1252991248924913664,"Tesla, Inc. (TSLA) surprised the market with Q4 result. Deutsche bank changed the rating to Underperform, as Tesla, Inc. (TSLA) tumbled about 6% since the SEC hearing.",EquityMarketPredictor,2020-04-22 16:02:47,,neutral,,,,
+263,974bbc57-ecb2-4049-8871-75db9e89e579,1252999951203864581,"Tesla Inc is now $699.75 (1.9%) 💹
+#TSLA #TSLAQ #Tesla #TeslaMotors #NASDAQ #EV #Automotive",Tesla Market Bot,2020-04-22 16:37:22,,neutral,,,,
+264,f8c636ce-3aa9-449a-8191-ed67afae8b5e,1253022015591776257,"$TSLA is today ranked #5 in the Daily Gambiste Big Cap rating. Tesla, Inc.  - Common Stock is today top rated. Check the full Gambiste long term ratings here: https://t.co/RA0LXyNU1n",Gambiste,2020-04-22 18:05:03,,neutral,,,,
+265,0c27e505-e86c-4386-9734-369b90f2eaee,1253034680011509761,@vermilionvixxxn Where did you work if you can say I’m a tech in the Phoenix area I’ve been a Honda tech for 33 years now,matt mazur,2020-04-22 18:55:22,,neutral,,,,
+266,91c427f0-1bee-48c8-942e-2cf9cc914e66,1253034828095606785,@JTrainNeil Ford Chase. Dodge Chase. Ram Chase. Honda Chase. Toyota Chase. Jeep Chase. Chrysler Chase. Nissan Chase. Fiat Chase.,Puffed CheekPastries,2020-04-22 18:55:57,"California, USA",neutral,,,,
+267,7a79090f-9b5c-4d82-8887-307580f21716,1253035310251982858,@GIrwinRacing Honda jackets?😂😂,willie cassidy,2020-04-22 18:57:52,"meath,ireland",neutral,,,,
+268,b9ee41e7-60eb-40b3-906b-2f37cf48babe,1253035368682790921,@SocietyNews @ThePoke Nope. Not on mine. I read about this thing a few years ago and I checked my VW Polo at the time and it wasn’t the case.  I now have a Honda Jazz and it’s the same thing.,(((Queen Snowflake)))🇹🇹🕷,2020-04-22 18:58:06,West Sussex,neutral,,,,
+269,4acaf926-1224-4253-89c0-b01f71dc372f,1253035450626985984,@Shaetonah Lol somebody plz buy this Honda 😂,Brianna Wormley,2020-04-22 18:58:26,"Atlanta,GA",neutral,,,,
+270,fa8a82a6-af37-4dd7-8a96-0bef93a2e0b1,1253035605606498304,"When outside used to keep!!! 
 Troy Riley walking away unscratched after flipping in the Carib Cement corner at Dover. 
 #dmontiimages 
 #autocapture 
@@ -378,50 +492,50 @@ Troy Riley walking away unscratched after flipping in the Carib Cement corner at
 #honda 
 #crx
 #crash
-#accident @ Dover Raceway https://t.co/WuO4lWMSu0",DONAVAN MONTAGUE,2020-04-22 18:59:03,Kingston,neutral
-204,e737163f-feaa-4ec8-b5f0-28e4a45b429e,1253035623025344512,Yuka Honda is on Instagram... whitepilled again,illustrious felon hosea,2020-04-22 18:59:07,"LI, NY",neutral
-205,34b297c9-6586-446e-a3ba-0973d251f14f,1253035839912730625,@_ksalome He come in a Honda.,ʀoмᴇʟ,2020-04-22 18:59:59,,neutral
-206,6c3d927e-3b0d-428c-b553-7c90f3cde950,1253035860833992704,"#fixed #starter @honda shitty design @ Lexington, Kentucky https://t.co/qHUZBO9p2s",Michael Golden,2020-04-22 19:00:04,Kentucky,neutral
-207,26fb0dd4-42dd-482e-b14a-9b95812cfc1e,1253035884024389633,"Sales is now open online by appointment only! 
+#accident @ Dover Raceway https://t.co/WuO4lWMSu0",DONAVAN MONTAGUE,2020-04-22 18:59:03,Kingston,neutral,,,,
+271,e737163f-feaa-4ec8-b5f0-28e4a45b429e,1253035623025344512,Yuka Honda is on Instagram... whitepilled again,illustrious felon hosea,2020-04-22 18:59:07,"LI, NY",neutral,,,,
+272,34b297c9-6586-446e-a3ba-0973d251f14f,1253035839912730625,@_ksalome He come in a Honda.,ʀoмᴇʟ,2020-04-22 18:59:59,,neutral,,,,
+273,6c3d927e-3b0d-428c-b553-7c90f3cde950,1253035860833992704,"#fixed #starter @honda shitty design @ Lexington, Kentucky https://t.co/qHUZBO9p2s",Michael Golden,2020-04-22 19:00:04,Kentucky,neutral,,,,
+274,26fb0dd4-42dd-482e-b14a-9b95812cfc1e,1253035884024389633,"Sales is now open online by appointment only! 
 Shop our new offers: https://t.co/n64hISsiQB
 .
 .
-#HondaUniverse #honda #hondausa #carshopping #newdeals #cardeals #discounts #onlineshopping https://t.co/3Qe0DdI9SE",Honda Universe,2020-04-22 19:00:09,"1085 Ocean Ave,  Lakewood, NJ",neutral
-208,6fe82fce-b824-4f35-ab65-a044111e75dc,1253035957827207168,2018 Honda Civic For Sale in #Jamaica #usedcar #carforsale https://t.co/bhnrHbODwz,AutoAdsJa,2020-04-22 19:00:27,Jamaica,neutral
-209,7888912f-cd38-4443-a493-cfa5430db899,1253036065759342598,@_mosquedaa u got a honda???,mariaaa ❣️,2020-04-22 19:00:53,,neutral
-210,1b8237d7-790e-400e-b5ff-06a7afc299fc,1253036329966997506,If he wear these he smokes blacks and drives a 2001 Honda with no working a/c https://t.co/7MDs17Vzr5,✰Biyo,2020-04-22 19:01:56,Saturn dumbass,neutral
-211,f1e349b2-e2ad-4386-b9a6-f94a91806106,1253036477103190020,y’all wanna see the 2002 honda accord w/ ac ?🌚,2002 honda accord w/ AC,2020-04-22 19:02:31,"Brooklyn, NY",neutral
-212,81e255d8-2b19-4777-a4f8-05df974a1c16,1253061159953063937,#NowPlaying Love Song by Tesla #TuneIn https://t.co/WYEBllyx63 https://t.co/5biHV12Oyg,Auckland 80's,2020-04-22 20:40:35,Auckland. New Zealand,neutral
-213,65f5a7f4-47fb-41ec-ae89-85617d80ae47,1253061188105244678,@Kiwiz Jigs on Tesla ps4 https://t.co/Oo96Ki82gb,Hello My Name Is Just Jigs,2020-04-22 20:40:42,,neutral
-214,aea34297-8962-4473-ad10-586136355147,1253061196263104518,⚡️20th April. UK solar reached a peak of 9.68GW. This met 30% of the UK’s current energy demand. #EV #Electricvehicles #batterypower #solar #greenenergy #renewableenergy #renewables  #tesla #model3 #modelS #modelY #Roadster #pv #solarenergy #cleanair  #climatechange #airpollution https://t.co/ME3uAmHxgd,SuperCharged,2020-04-22 20:40:44,UK,neutral
-215,b7f7b8d1-2a8c-428d-af4c-d209558b6826,1253061215309516800,"@4aminthemorning @smollbeantanj 😂😂 
+#HondaUniverse #honda #hondausa #carshopping #newdeals #cardeals #discounts #onlineshopping https://t.co/3Qe0DdI9SE",Honda Universe,2020-04-22 19:00:09,"1085 Ocean Ave,  Lakewood, NJ",neutral,,,,
+275,6fe82fce-b824-4f35-ab65-a044111e75dc,1253035957827207168,2018 Honda Civic For Sale in #Jamaica #usedcar #carforsale https://t.co/bhnrHbODwz,AutoAdsJa,2020-04-22 19:00:27,Jamaica,neutral,,,,
+276,7888912f-cd38-4443-a493-cfa5430db899,1253036065759342598,@_mosquedaa u got a honda???,mariaaa ❣️,2020-04-22 19:00:53,,neutral,,,,
+277,1b8237d7-790e-400e-b5ff-06a7afc299fc,1253036329966997506,If he wear these he smokes blacks and drives a 2001 Honda with no working a/c https://t.co/7MDs17Vzr5,✰Biyo,2020-04-22 19:01:56,Saturn dumbass,neutral,,,,
+278,f1e349b2-e2ad-4386-b9a6-f94a91806106,1253036477103190020,y’all wanna see the 2002 honda accord w/ ac ?🌚,2002 honda accord w/ AC,2020-04-22 19:02:31,"Brooklyn, NY",neutral,,,,
+279,81e255d8-2b19-4777-a4f8-05df974a1c16,1253061159953063937,#NowPlaying Love Song by Tesla #TuneIn https://t.co/WYEBllyx63 https://t.co/5biHV12Oyg,Auckland 80's,2020-04-22 20:40:35,Auckland. New Zealand,neutral,,,,
+280,65f5a7f4-47fb-41ec-ae89-85617d80ae47,1253061188105244678,@Kiwiz Jigs on Tesla ps4 https://t.co/Oo96Ki82gb,Hello My Name Is Just Jigs,2020-04-22 20:40:42,,neutral,,,,
+281,aea34297-8962-4473-ad10-586136355147,1253061196263104518,⚡️20th April. UK solar reached a peak of 9.68GW. This met 30% of the UK’s current energy demand. #EV #Electricvehicles #batterypower #solar #greenenergy #renewableenergy #renewables  #tesla #model3 #modelS #modelY #Roadster #pv #solarenergy #cleanair  #climatechange #airpollution https://t.co/ME3uAmHxgd,SuperCharged,2020-04-22 20:40:44,UK,neutral,,,,
+282,b7f7b8d1-2a8c-428d-af4c-d209558b6826,1253061215309516800,"@4aminthemorning @smollbeantanj 😂😂 
 ""how to brush your teeth properly""
 ""Pronounce Tesla""
-""Word cup song 2018""",Nerdy,2020-04-22 20:40:49,"London, England",neutral
-216,4c9b6b58-086b-4763-80fd-14176651c00c,1253061259001462785,"@hellgate_mercy @andyswarbs @BMW_UK Given the range of a Tesla and fast charging then you don’t need a petrol engine.
+""Word cup song 2018""",Nerdy,2020-04-22 20:40:49,"London, England",neutral,,,,
+283,4c9b6b58-086b-4763-80fd-14176651c00c,1253061259001462785,"@hellgate_mercy @andyswarbs @BMW_UK Given the range of a Tesla and fast charging then you don’t need a petrol engine.
 
-hybrids are complex and inefficient because they contain 2 engine systems.",David Campaign,2020-04-22 20:40:59,"England, United Kingdom",neutral
-217,5e810da6-8b72-4b68-aec3-d6a038891fa1,1253061347283283975,"@dinopontino @Gays4Tesla @Goldfiinger77 @jpr007 @EnzoXYZ @squawksquare @Tesla We don’t need A/C, heaters, computers, refrigerators, public transportation, toilets, showers, beds etc etc etc.",Eric,2020-04-22 20:41:20,"Orlando, FL",neutral
-218,05bc674d-b035-49d2-99e3-dbaef07de9af,1253061364341489668,"oooh space x oooh tesla is that what you got 
+hybrids are complex and inefficient because they contain 2 engine systems.",David Campaign,2020-04-22 20:40:59,"England, United Kingdom",neutral,,,,
+284,5e810da6-8b72-4b68-aec3-d6a038891fa1,1253061347283283975,"@dinopontino @Gays4Tesla @Goldfiinger77 @jpr007 @EnzoXYZ @squawksquare @Tesla We don’t need A/C, heaters, computers, refrigerators, public transportation, toilets, showers, beds etc etc etc.",Eric,2020-04-22 20:41:20,"Orlando, FL",neutral,,,,
+285,05bc674d-b035-49d2-99e3-dbaef07de9af,1253061364341489668,"oooh space x oooh tesla is that what you got 
 the name the fame 
-let me tell you that you are trying to show off these things to girls of the  world that never continued with you and the biggest proof is that you are single now",boooooooo,2020-04-22 20:41:24,,neutral
-219,06ce30c7-3882-4c30-887c-a7d34dacbb0e,1253061448630243328,@SourGra32364954 @Only9built Didn't the first little Tesla use the little Lotus body. That one would have been okay.,luvyesmusic,2020-04-22 20:41:44,,neutral
-220,691aff9f-662c-4ab9-a869-4ffc06f32700,1253039261412024320,"@_Jordieeeeee @ashleynicolee3_ A lot of people don’t even be knowing most of these ‘luxury’ cars are made by Honda, Toyota, Volkswagen etc....",MJRLEAGUE.Chop🇭🇹,2020-04-22 19:13:34,|MKE|ARK|DAL|TCHULA|,neutral
-221,4a933266-e2ab-477e-b7ee-76f90cfbc01e,1253039628443160578,"Nobody feels the need to say this about Volkswagen or the autobahns, Vince. https://t.co/4Z6Twpy1Xt",Henry Hill,2020-04-22 19:15:02,,neutral
-222,58e24e9c-fce3-421e-880c-f76febe508f5,1253061513641955329,"@ChrissTrains Presumably not, though I have no idea how does a Tesla update or what happens in the connection of the car and the update servers. Maybe ask @TeslaSupport and your cell provider?",Milan 5G,2020-04-22 20:42:00,"Belgrade, Serbia",neutral
-223,a557818e-65b2-4305-8145-e2bf4a262453,1253040825178697728,Check out 2019 #Hot #Wheels #177 #Target Red Edition 12/12 VW #VOLKSWAGEN #CADDY Pickup #Truck  https://t.co/2triCq1r4R via @eBay,GreatDeals,2020-04-22 19:19:47,Palm Bay FL,neutral
-224,aa817240-b5b4-43f7-ad4b-674845f8a4fb,1253061518805151745,"""Build tunnels with cars on skates going hundreds of miles an hour coming soon. I'm just making up numbers here.""
+let me tell you that you are trying to show off these things to girls of the  world that never continued with you and the biggest proof is that you are single now",boooooooo,2020-04-22 20:41:24,,neutral,,,,
+286,06ce30c7-3882-4c30-887c-a7d34dacbb0e,1253061448630243328,@SourGra32364954 @Only9built Didn't the first little Tesla use the little Lotus body. That one would have been okay.,luvyesmusic,2020-04-22 20:41:44,,neutral,,,,
+287,691aff9f-662c-4ab9-a869-4ffc06f32700,1253039261412024320,"@_Jordieeeeee @ashleynicolee3_ A lot of people don’t even be knowing most of these ‘luxury’ cars are made by Honda, Toyota, Volkswagen etc....",MJRLEAGUE.Chop🇭🇹,2020-04-22 19:13:34,|MKE|ARK|DAL|TCHULA|,neutral,,,,
+288,4a933266-e2ab-477e-b7ee-76f90cfbc01e,1253039628443160578,"Nobody feels the need to say this about Volkswagen or the autobahns, Vince. https://t.co/4Z6Twpy1Xt",Henry Hill,2020-04-22 19:15:02,,neutral,,,,
+289,58e24e9c-fce3-421e-880c-f76febe508f5,1253061513641955329,"@ChrissTrains Presumably not, though I have no idea how does a Tesla update or what happens in the connection of the car and the update servers. Maybe ask @TeslaSupport and your cell provider?",Milan 5G,2020-04-22 20:42:00,"Belgrade, Serbia",neutral,,,,
+290,a557818e-65b2-4305-8145-e2bf4a262453,1253040825178697728,Check out 2019 #Hot #Wheels #177 #Target Red Edition 12/12 VW #VOLKSWAGEN #CADDY Pickup #Truck  https://t.co/2triCq1r4R via @eBay,GreatDeals,2020-04-22 19:19:47,Palm Bay FL,neutral,,,,
+291,aa817240-b5b4-43f7-ad4b-674845f8a4fb,1253061518805151745,"""Build tunnels with cars on skates going hundreds of miles an hour coming soon. I'm just making up numbers here.""
 
-#Tesla $tsla $tslaq",Elon Promises,2020-04-22 20:42:01,,neutral
-225,6e09c904-7879-4b05-8a4c-3427d411e3f6,1253043483847168000,"❓YOU WON'T BELIEVE IT❓
+#Tesla $tsla $tslaq",Elon Promises,2020-04-22 20:42:01,,neutral,,,,
+292,6e09c904-7879-4b05-8a4c-3427d411e3f6,1253043483847168000,"❓YOU WON'T BELIEVE IT❓
 We're selling 9"" Android 8.1 Volkswagen Bora 2008-2012 at $650.00
-Shop here ⏩ https://t.co/03LBpEqBFT https://t.co/ix230OoIXy",Car Dealz,2020-04-22 19:30:21,,neutral
-226,45becc15-1da6-4679-9af7-3464ac121fa5,1253061519597854720,"@VKaraboulad @BonaireVolt @HeyHowA73126013 @skorusARK I don't hear ARK saying Tesla has run a bit so we are trimming. We think those who have gains may want to do the same. 
+Shop here ⏩ https://t.co/03LBpEqBFT https://t.co/ix230OoIXy",Car Dealz,2020-04-22 19:30:21,,neutral,,,,
+293,45becc15-1da6-4679-9af7-3464ac121fa5,1253061519597854720,"@VKaraboulad @BonaireVolt @HeyHowA73126013 @skorusARK I don't hear ARK saying Tesla has run a bit so we are trimming. We think those who have gains may want to do the same. 
 
-Instead, I hear the bear case, the almost guaranteed case is $700/share.",Jon Bryant,2020-04-22 20:42:01,,neutral
-227,eb33fefb-b819-432a-92fb-7b5beaed0073,1253043799359655937,"@vincecable Maybe we should celebrate Hitler's birthday as well, he had the idea for Volkswagen and encouraged the development of rockets and look what those ideas have led to. Both men were murderers to obtain an end, they should be consigned to history and we should look forward not back",Charley,2020-04-22 19:31:36,,neutral
-228,0a734f8c-de79-4601-aa37-a4bdad2ab46d,1253044889836834816,#Volkswagen Golf Mk1 VR6 shot via IG user marcingru93 https://t.co/4r3KtPk9E0,German Car Scene,2020-04-22 19:35:56,Europe,neutral
-229,517a1081-e082-48f4-8db7-51ba2bf0b92a,1253061742516531200,"It's not too late to join us for our webinar with @Tesla Energy (California focused) 
+Instead, I hear the bear case, the almost guaranteed case is $700/share.",Jon Bryant,2020-04-22 20:42:01,,neutral,,,,
+294,eb33fefb-b819-432a-92fb-7b5beaed0073,1253043799359655937,"@vincecable Maybe we should celebrate Hitler's birthday as well, he had the idea for Volkswagen and encouraged the development of rockets and look what those ideas have led to. Both men were murderers to obtain an end, they should be consigned to history and we should look forward not back",Charley,2020-04-22 19:31:36,,neutral,,,,
+295,0a734f8c-de79-4601-aa37-a4bdad2ab46d,1253044889836834816,#Volkswagen Golf Mk1 VR6 shot via IG user marcingru93 https://t.co/4r3KtPk9E0,German Car Scene,2020-04-22 19:35:56,Europe,neutral,,,,
+296,517a1081-e082-48f4-8db7-51ba2bf0b92a,1253061742516531200,"It's not too late to join us for our webinar with @Tesla Energy (California focused) 
 
 DM or email me for Webex invite.  Info at https://t.co/A10IGZ8osl
 
@@ -431,75 +545,237 @@ and/or
 
 2) Encore on Saturday, April 25, at 11am.
 
-https://t.co/PahBJYkUkq",OC Tesla Club,2020-04-22 20:42:54,"Orange County, CA",neutral
-230,a3b4f8ed-2c4f-4018-bb6c-3b1955c3b965,1253061773911089152,@elonmusk @batflyer @tobyliiiiiiiiii @Kristennetten @thirdrowtesla @Tesla Nice u see this @Darkside ?,Tim Dorsey,2020-04-22 20:43:02,"St Louis, MO & Big Sur, CA",neutral
-231,d7d1bfbf-9d5a-42a6-bb5b-ca1c0dbc2569,1253045317454397448,Volkswagen is slowly resuming production in Germany.,Responsible Father of Three!!! 🇿🇦,2020-04-22 19:37:38,"Johannesburg, South Africa",neutral
-232,a845b20d-41f6-49aa-a8ab-64775adcad68,1253045579136946176,"Volkswagen opens few plants in Europe , Toyota next and also Mercedes .. Next Challenge is demand",Naveen Kapoor ANI,2020-04-22 19:38:41,"New Delhi, India",neutral
-233,3e49245b-abb4-44d8-88b6-ca02b26e49fd,1253061826075648001,"Hey @russ1mitchell, any new articles you'll be writing?  You and @lorakolodny can maybe go out for dinner with @danahull and discuss how you want to report this. @BarkMSmeagol @Everman @elonmusk @Tesla https://t.co/niwrueAphY",Ravi,2020-04-22 20:43:14,"Maryland, USA",neutral
-234,249f11a0-185a-429a-bfa6-830f0279594c,1253045755121729537,"The range-topping Polo Highline Plus variant is only available with the 1.0-litre turbo-petrol engine but gets 6-speed manual and automatic gearbox options.
- https://t.co/r6bdo8I85P",Sameer Singh,2020-04-22 19:39:23,Pune,neutral
-235,c27e332a-7691-4f72-89fd-051be1e957d7,1253045919513182208,Biggest Lesson Leaders Need To Learn From The Criminal Charges Against Volkswagen Executives https://t.co/HxC0lsulRm,Mother on a Mission to Save Lives,2020-04-22 19:40:02,United States,neutral
-236,fc867c21-ed81-4805-8772-77fe2c20b261,1253046483278016512,Volkswagen ID.3 Production Coming Back Online Tomorrow https://t.co/NG8kuwnvCS via @insideevs.com,Albert Mur Pera,2020-04-22 19:42:16,Barcelona,neutral
-237,31b66e1e-0fb4-4697-a36e-872e1ae0d546,1253046617076314112,"Sold: 1961 Volkswagen Beetle 1600 for $12,550. https://t.co/6B0HBZXdUf",Bring a Trailer,2020-04-22 19:42:48,,neutral
-238,ae742dcb-3d72-4860-b70f-46ea3a9a835a,1253062010570518528,"Tesla Stock Has Gained 90%. One Analyst Has Had Enough. … because analysts' calls on $TSLA rarely seem to matter … Murphy. 😂🤣
-https://t.co/kltgNRb2DV",Doncho Gunch≡𝕧 👻 #StayHome,2020-04-22 20:43:58,Bulgaria,neutral
-239,fcbd1282-3247-435f-84cb-d035cd7205f3,1253046630472921088,Classic VW - Free Ads on Site until this is over! - https://t.co/gcR83DmxN8 #vw #volkswagen #german #classic #bug,yourcollectorcar.com,2020-04-22 19:42:51,"New Hampshire, USA",neutral
-240,0c1ed368-88e6-461d-a4c9-f2c7ae52ad6b,1253062063213162496,@ItIsClit The window to buy Tesla closed a month ago 😂,shawn.,2020-04-22 20:44:11,Chicago,neutral
-241,5ecf079e-f77a-4020-b770-6fb08b3e52d8,1253047196251033601,"This #Certified #PreOwned 2019 Volkswagen #Atlas is well-appointed and ready to drive off our lot and to its new home. Check it out on our website for more details, and give us a call to learn about complimentary local delivery where available. @VW #SUV https://t.co/PQDusJARkI https://t.co/hlF5HBM5lp",Royal Auto Bham,2020-04-22 19:45:06,"Birmingham, AL",neutral
-242,bcb03b84-bd9d-4102-8310-6d604ef2f09e,1253062138563719168,@BrianGilbert_ @elonmusk @Tesla @TeslaGong @_TeslaTom @TeslOz @thirdrowtesla @tesla_raj @TeslaJoy @TeslaStraya Perhaps a marker on the progress bar on when the sentry mode was triggered as well.,Bradley,2020-04-22 20:44:29,"Gold Coast, Queensland",neutral
-243,9b5a0f78-b57d-4381-855f-97fed2aedcc2,1253048718636593152,"Volkswagen Says ID.3 Still Coming, Even If It Isn't Ready https://t.co/ikT4r0Wfzf https://t.co/e9OoHidSNN",The Truth About Cars,2020-04-22 19:51:09,Any Road...,neutral
-244,11e8e80d-529c-4032-b30b-36f016a98c26,1253062422274793472,@ElonsLife People have been saying this forever.  He can't leave.  Tesla would die.,Tweet Tweaker,2020-04-22 20:45:36,,neutral
-245,fa2aa0a5-a0e8-45e4-9f56-c9c34707c6a8,1253062479422332928,@charlidamelio If you get a Tesla I’m going to jump in a pool naked,Miriame,2020-04-22 20:45:50,,neutral
-246,793c5031-5b95-4430-a891-1d9378db6c2e,1253049772207980546,Watch the Volkswagen ID.3 in VR with this DIY VR headset tutorial: https://t.co/69CyBd6ny3,Volkswagen USA News,2020-04-22 19:55:20,"Herndon, VA",neutral
-247,3730adfb-a196-4201-92ff-69665f76edf3,1253062553812512770,A reminder you have 12 DAYS LEFT to watch Jim Jarmusch’s delightful Coffee and Cigarettes on @mubiuk see Jack White show Meg White his Tesla coil and Tom Waits confuse Iggy Pop with his story of “roadside surgery” ☕️🚭 https://t.co/IV0b5JZa24,The Cat,2020-04-22 20:46:08,London,neutral
-248,de87f9c8-a371-4a1b-b999-6272b8253e4b,1253051038204035073,Shop online to find a newly used Volkswagen that you always wanted to drive and Rutland Volkswagen will have it delivered to your home: https://t.co/pCfUh0b3cU https://t.co/2heSBnaJ7v,Rutland Volkswagen,2020-04-22 20:00:22,"Rutland, VT",neutral
-249,0680c18f-4ba7-449c-a9b8-bf481a403667,1253051499795681283,ICYMI: Today in Apple history: Apple teams with Volkswagen for iBeetle car https://t.co/D9smWdAZbR by @lukedormehl https://t.co/edCPVJ3u4x,Cult of Mac,2020-04-22 20:02:12,San Francisco and elsewhere,neutral
-250,45b0a1f6-5944-484b-a23e-71a99fe7c5e0,1253052090634641408,We’ve auto glaziers in Tipton “QUOTING” a customer to replace the windscreen on a 2011 Volkswagen Polo. #windscreen #replacement #Volkswagen #Polo #Tipton https://t.co/jDsgmNMeQz,myWindscreen,2020-04-22 20:04:33,Local. Nationwide. U.K. 🇬🇧,neutral
-251,11c644e7-79db-4bd7-916e-4d2aa1022338,1253052310659502094,Heresy? Volkswagen Might Expand the GTI Lineup to Include Crossovers - https://t.co/94PcFqkrbM,Flyin18T Motorsports,2020-04-22 20:05:26,"Long Island, New York",neutral
-252,d6c228ae-d9b2-472d-ad96-d16ccb6ecad3,1253052756488749057,"1971 Volkswagen Beetle 1.6
+https://t.co/PahBJYkUkq",OC Tesla Club,2020-04-22 20:42:54,"Orange County, CA",neutral,,,,
+297,a3b4f8ed-2c4f-4018-bb6c-3b1955c3b965,1253061773911089152,@elonmusk @batflyer @tobyliiiiiiiiii @Kristennetten @thirdrowtesla @Tesla Nice u see this @Darkside ?,Tim Dorsey,2020-04-22 20:43:02,"St Louis, MO & Big Sur, CA",neutral,,,,
+298,d7d1bfbf-9d5a-42a6-bb5b-ca1c0dbc2569,1253045317454397448,Volkswagen is slowly resuming production in Germany.,Responsible Father of Three!!! 🇿🇦,2020-04-22 19:37:38,"Johannesburg, South Africa",neutral,,,,
+299,a845b20d-41f6-49aa-a8ab-64775adcad68,1253045579136946176,"Volkswagen opens few plants in Europe , Toyota next and also Mercedes .. Next Challenge is demand",Naveen Kapoor ANI,2020-04-22 19:38:41,"New Delhi, India",neutral,,,,
+300,3e49245b-abb4-44d8-88b6-ca02b26e49fd,1253061826075648001,"Hey @russ1mitchell, any new articles you'll be writing?  You and @lorakolodny can maybe go out for dinner with @danahull and discuss how you want to report this. @BarkMSmeagol @Everman @elonmusk @Tesla https://t.co/niwrueAphY",Ravi,2020-04-22 20:43:14,"Maryland, USA",neutral,,,,
+301,249f11a0-185a-429a-bfa6-830f0279594c,1253045755121729537,"The range-topping Polo Highline Plus variant is only available with the 1.0-litre turbo-petrol engine but gets 6-speed manual and automatic gearbox options.
+ https://t.co/r6bdo8I85P",Sameer Singh,2020-04-22 19:39:23,Pune,neutral,,,,
+302,c27e332a-7691-4f72-89fd-051be1e957d7,1253045919513182208,Biggest Lesson Leaders Need To Learn From The Criminal Charges Against Volkswagen Executives https://t.co/HxC0lsulRm,Mother on a Mission to Save Lives,2020-04-22 19:40:02,United States,neutral,,,,
+303,fc867c21-ed81-4805-8772-77fe2c20b261,1253046483278016512,Volkswagen ID.3 Production Coming Back Online Tomorrow https://t.co/NG8kuwnvCS via @insideevs.com,Albert Mur Pera,2020-04-22 19:42:16,Barcelona,neutral,,,,
+304,31b66e1e-0fb4-4697-a36e-872e1ae0d546,1253046617076314112,"Sold: 1961 Volkswagen Beetle 1600 for $12,550. https://t.co/6B0HBZXdUf",Bring a Trailer,2020-04-22 19:42:48,,neutral,,,,
+305,ae742dcb-3d72-4860-b70f-46ea3a9a835a,1253062010570518528,"Tesla Stock Has Gained 90%. One Analyst Has Had Enough. … because analysts' calls on $TSLA rarely seem to matter … Murphy. 😂🤣
+https://t.co/kltgNRb2DV",Doncho Gunch≡𝕧 👻 #StayHome,2020-04-22 20:43:58,Bulgaria,neutral,,,,
+306,fcbd1282-3247-435f-84cb-d035cd7205f3,1253046630472921088,Classic VW - Free Ads on Site until this is over! - https://t.co/gcR83DmxN8 #vw #volkswagen #german #classic #bug,yourcollectorcar.com,2020-04-22 19:42:51,"New Hampshire, USA",neutral,,,,
+307,0c1ed368-88e6-461d-a4c9-f2c7ae52ad6b,1253062063213162496,@ItIsClit The window to buy Tesla closed a month ago 😂,shawn.,2020-04-22 20:44:11,Chicago,neutral,,,,
+308,5ecf079e-f77a-4020-b770-6fb08b3e52d8,1253047196251033601,"This #Certified #PreOwned 2019 Volkswagen #Atlas is well-appointed and ready to drive off our lot and to its new home. Check it out on our website for more details, and give us a call to learn about complimentary local delivery where available. @VW #SUV https://t.co/PQDusJARkI https://t.co/hlF5HBM5lp",Royal Auto Bham,2020-04-22 19:45:06,"Birmingham, AL",neutral,,,,
+309,bcb03b84-bd9d-4102-8310-6d604ef2f09e,1253062138563719168,@BrianGilbert_ @elonmusk @Tesla @TeslaGong @_TeslaTom @TeslOz @thirdrowtesla @tesla_raj @TeslaJoy @TeslaStraya Perhaps a marker on the progress bar on when the sentry mode was triggered as well.,Bradley,2020-04-22 20:44:29,"Gold Coast, Queensland",neutral,,,,
+310,9b5a0f78-b57d-4381-855f-97fed2aedcc2,1253048718636593152,"Volkswagen Says ID.3 Still Coming, Even If It Isn't Ready https://t.co/ikT4r0Wfzf https://t.co/e9OoHidSNN",The Truth About Cars,2020-04-22 19:51:09,Any Road...,neutral,,,,
+311,11e8e80d-529c-4032-b30b-36f016a98c26,1253062422274793472,@ElonsLife People have been saying this forever.  He can't leave.  Tesla would die.,Tweet Tweaker,2020-04-22 20:45:36,,neutral,,,,
+312,fa2aa0a5-a0e8-45e4-9f56-c9c34707c6a8,1253062479422332928,@charlidamelio If you get a Tesla I’m going to jump in a pool naked,Miriame,2020-04-22 20:45:50,,neutral,,,,
+313,793c5031-5b95-4430-a891-1d9378db6c2e,1253049772207980546,Watch the Volkswagen ID.3 in VR with this DIY VR headset tutorial: https://t.co/69CyBd6ny3,Volkswagen USA News,2020-04-22 19:55:20,"Herndon, VA",neutral,,,,
+314,3730adfb-a196-4201-92ff-69665f76edf3,1253062553812512770,A reminder you have 12 DAYS LEFT to watch Jim Jarmusch’s delightful Coffee and Cigarettes on @mubiuk see Jack White show Meg White his Tesla coil and Tom Waits confuse Iggy Pop with his story of “roadside surgery” ☕️🚭 https://t.co/IV0b5JZa24,The Cat,2020-04-22 20:46:08,London,neutral,,,,
+315,de87f9c8-a371-4a1b-b999-6272b8253e4b,1253051038204035073,Shop online to find a newly used Volkswagen that you always wanted to drive and Rutland Volkswagen will have it delivered to your home: https://t.co/pCfUh0b3cU https://t.co/2heSBnaJ7v,Rutland Volkswagen,2020-04-22 20:00:22,"Rutland, VT",neutral,,,,
+316,0680c18f-4ba7-449c-a9b8-bf481a403667,1253051499795681283,ICYMI: Today in Apple history: Apple teams with Volkswagen for iBeetle car https://t.co/D9smWdAZbR by @lukedormehl https://t.co/edCPVJ3u4x,Cult of Mac,2020-04-22 20:02:12,San Francisco and elsewhere,neutral,,,,
+317,45b0a1f6-5944-484b-a23e-71a99fe7c5e0,1253052090634641408,We’ve auto glaziers in Tipton “QUOTING” a customer to replace the windscreen on a 2011 Volkswagen Polo. #windscreen #replacement #Volkswagen #Polo #Tipton https://t.co/jDsgmNMeQz,myWindscreen,2020-04-22 20:04:33,Local. Nationwide. U.K. 🇬🇧,neutral,,,,
+318,11c644e7-79db-4bd7-916e-4d2aa1022338,1253052310659502094,Heresy? Volkswagen Might Expand the GTI Lineup to Include Crossovers - https://t.co/94PcFqkrbM,Flyin18T Motorsports,2020-04-22 20:05:26,"Long Island, New York",neutral,,,,
+319,d6c228ae-d9b2-472d-ad96-d16ccb6ecad3,1253052756488749057,"1971 Volkswagen Beetle 1.6
 
-https://t.co/wsB732D6c2 ⬅️On eBay Now https://t.co/H9m8V3TfDc",1970's Car Years,2020-04-22 20:07:12,United Kingdom,neutral
-253,73badf8d-fa1b-46c6-86d2-c4f5b1cf6e8a,1253052920125444100,VOLKSWAGEN TRANSPORTER We have this lovely 2019 … https://t.co/B348zXoKBw https://t.co/hCBMcLRbbl,Welcome2Baku,2020-04-22 20:07:51,Azerbaijan,neutral
-254,967a4bf3-8b85-4caf-89cd-62f329297fe2,1253053023699513344,"Volkswagen Says ID.3 Still Coming, Even If It Isn’t Ready - https://t.co/wfpzyNiIyI",Flyin18T Motorsports,2020-04-22 20:08:16,"Long Island, New York",neutral
-255,5b907b1a-6b8a-4768-a47c-40fdafa47a6e,1253062676164620288,"If you wanna eat it no pressure,I only do range no tesla😈😘",Kimeumaana,2020-04-22 20:46:37,🚀,neutral
-256,14c1b498-9cce-4ecb-a80f-26c573d136b1,1253062694053326854,Going back in time to invent twinkies before Tesla can,cowboy online,2020-04-22 20:46:41,soundcloud.com/visionescape,neutral
-257,7e66b269-0e46-4914-b399-71fa5aa89dac,1253053558091644928,"➡️#legendarycars in pick up versions
+https://t.co/wsB732D6c2 ⬅️On eBay Now https://t.co/H9m8V3TfDc",1970's Car Years,2020-04-22 20:07:12,United Kingdom,neutral,,,,
+320,73badf8d-fa1b-46c6-86d2-c4f5b1cf6e8a,1253052920125444100,VOLKSWAGEN TRANSPORTER We have this lovely 2019 … https://t.co/B348zXoKBw https://t.co/hCBMcLRbbl,Welcome2Baku,2020-04-22 20:07:51,Azerbaijan,neutral,,,,
+321,967a4bf3-8b85-4caf-89cd-62f329297fe2,1253053023699513344,"Volkswagen Says ID.3 Still Coming, Even If It Isn’t Ready - https://t.co/wfpzyNiIyI",Flyin18T Motorsports,2020-04-22 20:08:16,"Long Island, New York",neutral,,,,
+322,5b907b1a-6b8a-4768-a47c-40fdafa47a6e,1253062676164620288,"If you wanna eat it no pressure,I only do range no tesla😈😘",Kimeumaana,2020-04-22 20:46:37,🚀,neutral,,,,
+323,14c1b498-9cce-4ecb-a80f-26c573d136b1,1253062694053326854,Going back in time to invent twinkies before Tesla can,cowboy online,2020-04-22 20:46:41,soundcloud.com/visionescape,neutral,,,,
+324,7e66b269-0e46-4914-b399-71fa5aa89dac,1253053558091644928,"➡️#legendarycars in pick up versions
 
 🇩🇪#Volkswagen Beetle
 🇮🇹#Fiat 500
 🇫🇷#Citroen 2CV
 🇬🇧#Mini
 
-🔺Which one? https://t.co/Gxxvh7YK3J",MotoUSmolenia🚗,2020-04-22 20:10:23,"EU 🇪🇺, Poland",neutral
-258,ed67d955-4e22-4738-841f-bb153b583453,1253054731460771840,"Twitter this time next week:
+🔺Which one? https://t.co/Gxxvh7YK3J",MotoUSmolenia🚗,2020-04-22 20:10:23,"EU 🇪🇺, Poland",neutral,,,,
+325,ed67d955-4e22-4738-841f-bb153b583453,1253054731460771840,"Twitter this time next week:
 
-If I pack TOTS Zaha in my WL Rewards i'll give away 12,000 FIFA Points, a Volkswagen Golf and 24 bottles of Heineken.",DUFFS,2020-04-22 20:15:03,Éire,neutral
-259,16bc1645-009f-4092-b531-262e10054a35,1253056228537724928,"#Volkswagen has partnered with #eClassics for a special 70th anniversary original!
+If I pack TOTS Zaha in my WL Rewards i'll give away 12,000 FIFA Points, a Volkswagen Golf and 24 bottles of Heineken.",DUFFS,2020-04-22 20:15:03,Éire,neutral,,,,
+326,16bc1645-009f-4092-b531-262e10054a35,1253056228537724928,"#Volkswagen has partnered with #eClassics for a special 70th anniversary original!
 
 https://t.co/5yU1vhIU79 
 
-#AndyKeating #RSIR #RealogicsSothebys #KirklandRealEstate",Andy Keating,2020-04-22 20:21:00,"Kirkland, WA",neutral
-260,6ddd0d8b-476a-42af-9f2a-6b08b0c8251f,1253057504453505024,"SIMULCAST-ONLY SALE
+#AndyKeating #RSIR #RealogicsSothebys #KirklandRealEstate",Andy Keating,2020-04-22 20:21:00,"Kirkland, WA",neutral,,,,
+327,6ddd0d8b-476a-42af-9f2a-6b08b0c8251f,1253057504453505024,"SIMULCAST-ONLY SALE
 Volkswagen Credit
 11AM ET | Lane 13 | 80+ Units
 Click the link below for the presale list
-https://t.co/DwuFfHmUJB https://t.co/O1OpYSt0AH",Manheim Auto Auction,2020-04-22 20:26:04,Manheim Pennsylvania,neutral
-261,b9bacffb-b42a-4fb0-abbe-f03556704f36,1253062779432558592,"K. in Austin, TX is saving with the ""🚗Tesla down payment "" Goal they set up with Simple. What do you want to save for? #simplegoals https://t.co/WLI0WOtcBP https://t.co/bLuwTv3A0C",Simple,2020-04-22 20:47:02,"Portland, OR",neutral
-262,bfa4bae9-4ad5-40ea-b261-4eb78f3471ee,1253062780422434816,"Join us tomorrow at 6 PM Live with Host Bishop Filkey and Guest Rick Duncan of #NacnudStudios. Rick has worked with  #towerofpower #tesla #davidfoster #chicago #johnnycashtributeband, and produced platinum records! Watch it live on our App or Roku Channel&gt;&gt;https://t.co/3QS5Iq2OyN https://t.co/7gvlLk8JFb",MarkFilkey,2020-04-22 20:47:02,"California, USA",neutral
-263,eceadbfb-ce5b-416a-b887-7096b6b04c7a,1253058909885128704,"and with modern-day Europeans, I am mostly talking about white Europeans. Like, y'all had to get guillotines out in the streets and behead the super rich faster than Volkswagen can manufacture a car... and that is really fast. #whiteonwhiteviolence!",Olave Talks,2020-04-22 20:31:39,"The Hague, The Netherlands",neutral
-264,0be2b901-326c-423b-93ab-de0b620bb7b3,1253060521483333633,2008 Volkswagen Jetta SE Sport Sedan is now available on our lot. Go to https://t.co/UY6J9OI0jS for details.,Bay City Motors,2020-04-22 20:38:03,"San Leandro, CA",neutral
-265,2f1f0d67-bd4b-4c3a-baa8-ec09aaa36916,1253060741776773127,@BILD Audi and Volkswagen are creative with CO2-Emissionen! 🖕,Super Dino,2020-04-22 20:38:56,,neutral
-266,d0a0ae90-1c73-4c72-ab8e-d2857f03077b,1253061291176058884,"Smitten with the bug: RAY MASSEY tests the Volkswagen Beetle.. 
-DailyMailUK - News - Noticia - Bitcoin - CryptoCurrency - Forex - @News_1jl4 &gt; https://t.co/bMx2Gj7L6S",News_1jl4 Noticias Bitcoin Forex Health Fitness,2020-04-22 20:41:07,World,neutral
-267,38f16dcd-668f-42dc-827b-d5392c6e14de,1253062928988864512,"This video explains how to find the Rennstand jack pad that best suits your vehicle before your Rennstand purchase.
+https://t.co/DwuFfHmUJB https://t.co/O1OpYSt0AH",Manheim Auto Auction,2020-04-22 20:26:04,Manheim Pennsylvania,neutral,,,,
+328,b9bacffb-b42a-4fb0-abbe-f03556704f36,1253062779432558592,"K. in Austin, TX is saving with the ""🚗Tesla down payment "" Goal they set up with Simple. What do you want to save for? #simplegoals https://t.co/WLI0WOtcBP https://t.co/bLuwTv3A0C",Simple,2020-04-22 20:47:02,"Portland, OR",neutral,,,,
+329,bfa4bae9-4ad5-40ea-b261-4eb78f3471ee,1253062780422434816,"Join us tomorrow at 6 PM Live with Host Bishop Filkey and Guest Rick Duncan of #NacnudStudios. Rick has worked with  #towerofpower #tesla #davidfoster #chicago #johnnycashtributeband, and produced platinum records! Watch it live on our App or Roku Channel&gt;&gt;https://t.co/3QS5Iq2OyN https://t.co/7gvlLk8JFb",MarkFilkey,2020-04-22 20:47:02,"California, USA",neutral,,,,
+330,eceadbfb-ce5b-416a-b887-7096b6b04c7a,1253058909885128704,"and with modern-day Europeans, I am mostly talking about white Europeans. Like, y'all had to get guillotines out in the streets and behead the super rich faster than Volkswagen can manufacture a car... and that is really fast. #whiteonwhiteviolence!",Olave Talks,2020-04-22 20:31:39,"The Hague, The Netherlands",neutral,,,,
+331,0be2b901-326c-423b-93ab-de0b620bb7b3,1253060521483333633,2008 Volkswagen Jetta SE Sport Sedan is now available on our lot. Go to https://t.co/UY6J9OI0jS for details.,Bay City Motors,2020-04-22 20:38:03,"San Leandro, CA",neutral,,,,
+332,2f1f0d67-bd4b-4c3a-baa8-ec09aaa36916,1253060741776773127,@BILD Audi and Volkswagen are creative with CO2-Emissionen! 🖕,Super Dino,2020-04-22 20:38:56,,neutral,,,,
+333,d0a0ae90-1c73-4c72-ab8e-d2857f03077b,1253061291176058884,"Smitten with the bug: RAY MASSEY tests the Volkswagen Beetle.. 
+DailyMailUK - News - Noticia - Bitcoin - CryptoCurrency - Forex - @News_1jl4 &gt; https://t.co/bMx2Gj7L6S",News_1jl4 Noticias Bitcoin Forex Health Fitness,2020-04-22 20:41:07,World,neutral,,,,
+334,38f16dcd-668f-42dc-827b-d5392c6e14de,1253062928988864512,"This video explains how to find the Rennstand jack pad that best suits your vehicle before your Rennstand purchase.
 
 https://t.co/Mj6fX6zeGg
 
-#safejack #supportyourworld #rennstand #porsche #tesla # #bmw #audi #mercedes #car #porsche911 #honda #toyota #volvo #lexus #mechanic https://t.co/grqL6zEff1",Safe Jack,2020-04-22 20:47:37,"Pasco, WA  USA",neutral
-268,71ef0dae-41b6-464c-84cc-dbc53ea0ef07,1253062622645190657,"Volkswagen will resume production at Chattanooga plant on Sunday, May 3rd.  But workers will find some changes when they come back after 6 weeks. https://t.co/zZLL00XoRD",News 12 Now,2020-04-22 20:46:24,"Chattanooga, TN",neutral
-269,6d6f3c5d-73c6-4af1-9062-9ea37b04ce9f,1253063672009838592,"@BrushPercy @SummerPudding_1 @PymPurnell @bobbyhope123 @The_Brave @Citizen23259866 @MamaMac_ @EllaHillUK @The_Tolkienist @JamesLadbroke @ConceptualJames @wrongthinkQC @Natasha25552704 @kwilliam111 @dionne4210 @xTrendyBurdx @Crosscolin88 @harryangel666 The Psychopath Test
+#safejack #supportyourworld #rennstand #porsche #tesla # #bmw #audi #mercedes #car #porsche911 #honda #toyota #volvo #lexus #mechanic https://t.co/grqL6zEff1",Safe Jack,2020-04-22 20:47:37,"Pasco, WA  USA",neutral,,,,
+335,71ef0dae-41b6-464c-84cc-dbc53ea0ef07,1253062622645190657,"Volkswagen will resume production at Chattanooga plant on Sunday, May 3rd.  But workers will find some changes when they come back after 6 weeks. https://t.co/zZLL00XoRD",News 12 Now,2020-04-22 20:46:24,"Chattanooga, TN",neutral,,,,
+336,6d6f3c5d-73c6-4af1-9062-9ea37b04ce9f,1253063672009838592,"@BrushPercy @SummerPudding_1 @PymPurnell @bobbyhope123 @The_Brave @Citizen23259866 @MamaMac_ @EllaHillUK @The_Tolkienist @JamesLadbroke @ConceptualJames @wrongthinkQC @Natasha25552704 @kwilliam111 @dionne4210 @xTrendyBurdx @Crosscolin88 @harryangel666 The Psychopath Test
 How it works - THE GRANDPARENT
 Stalin - The man behind the mask
 To the Lighthouse
 Fear of Flying
-Volkswagen Jetta Haynes Manual",The English Bear,2020-04-22 20:50:34,West Somerset,neutral
+Volkswagen Jetta Haynes Manual",The English Bear,2020-04-22 20:50:34,West Somerset,neutral,,,,
+337,c7c9375a-81b9-454e-9a63-17366ca854b4,1252595371638996992,"@dianemariereid @CanyonDentalCen Learned to drive in my early 20’s as living in London did not need to drive. Had lessons on Ford Fiesta, but had this as company car when I first started in the motor industry in 1983/4. https://t.co/oYKhLj8fLJ",Malcolm,2020-04-21 13:49:43,,neutral,8556.0,90.0,0.0,2.0
+338,70cf31ed-1f24-48ab-940f-31eea2de86b0,1252604690501701633,"The Indian company, Mahindra Group, along with General Motors and Ford Motor, is now building medical personal protective equipment for health workers fighting Covid19 in the US.
+Doctors &amp; Nurses can treat corona virus infected patient by shielding themselves with the help of Kit",Saurabh pandey,2020-04-21 14:26:45,"New Delhi, India 110001",neutral,1965.0,70.0,0.0,1.0
+339,13fb8677-6970-4f68-bfb6-bb22492ca58d,1252605929025126401,"In World War II by mid-1944 the Ford Motor Company’s Willow Run factory in Michigan was turning out B-24 bombers by the hour.
+But that was because the plant was open and the workers were being paid. 
+https://t.co/UzO58c9M0k",Anang Mittal अनंग मित्तल,2020-04-21 14:31:40,"Washington, DC",neutral,65666.0,2900.0,0.0,0.0
+340,5c993ac9-ae08-4b96-9ade-9f8f17691cae,1252608709274021890,Video: Learn how Ford Motor Company choreographs robots to help people – and each other – on the fiesta assembly line https://t.co/bQs2gb7MaS,David Cappellani,2020-04-21 14:42:43,"Brighton, MI",neutral,166.0,135.0,0.0,0.0
+341,260d05e8-deff-425f-b966-c2b3b9194a04,1252610954950520835,Ford Motor Company announces details for 2020 Q1 earnings conference call https://t.co/KR2RdNFMBJ,Automotive World,2020-04-21 14:51:38,Global,neutral,654.0,4927.0,0.0,0.0
+342,9cdce38b-ae32-44f5-a66f-33ec1731f3fd,1252613644724178945,"To speed delivery and simplify maintenance, Ford adopted a container-based cloud platform based on #RedHat #OpenShift and supported by Sysdig technology to modernize its legacy, stateful applications. https://t.co/QloqrHqcGI #RHInnovationAwards #RHSummit https://t.co/gOhnLFbTL9",Nicholas Gerasimatos - Red Hat,2020-04-21 15:02:19,"Seattle, WA",neutral,360.0,3385.0,0.0,0.0
+343,2f0d6628-d352-488d-b4fd-2a45f41b684b,1252629099203395585,"#NYSE-Top-100-Volume-Leaders (Updated: Tue, 21 Apr 2020 11:49) 1 - #Occidental Petroleum Corp ( $OXY ) 2 - #Ford Motor Company ( $F ) 3 - #GeneralElectric Company ( $GE ) 4 - #bankofamerica Corp ( $BAC ) 5 - #Carnival Corp ( $CCL )
+https://t.co/pcZpN7iVFW",Stoxline Investing,2020-04-21 16:03:44,USA,neutral,17.0,2835.0,0.0,1.0
+344,41eee0df-a4f8-46c2-aeb7-93dabf2dbb63,1252639869970468865,Ford Motor Company Announces Details For 2020 Q1 Earnings Conference Call https://t.co/fo1I7RQ7kN,WebWire,2020-04-21 16:46:32,,neutral,0.0,540.0,0.0,0.0
+345,1f60e1b9-304e-4680-a83e-b0a799dfb2cc,1252641757273227265,Ford Motor Company (F) stock dropped by 2.9277%! Currently priced at 4.8342. https://t.co/PQ0t4MScer,EquityMongoose,2020-04-21 16:54:02,"Philadelphia, PA",neutral,118.0,60.0,0.0,0.0
+346,b226b2f0-aa53-47d9-9850-d12264876cce,1252659013562650624,"Stocks with greater movement, last 15 minutes
+
+$GM +/- 1.11% General Motors Company
+$APA +/- 1.01% Apache Corporation
+$CLF +/- 0.98% Cleveland-Cliffs Inc.
+$F +/- 0.94% Ford Motor Company
+$GPOR +/- 0.91% Gulfport Energy Corporation
+https://t.co/oKSO02BSSE",tradingBotNyse,2020-04-21 18:02:36,Argentina,neutral,0.0,1314.0,0.0,0.0
+347,e48e8861-b8fd-49a3-bd8d-bce815abc206,1252659884358692864,Ford China Sales Decrease 35 Percent During Q1 2020 https://t.co/8AKZw91TdF,FordAuthority,2020-04-21 18:06:04,,neutral,0.0,370.0,2.0,3.0
+348,bec8705e-87d6-46d5-bf98-e4991d6fc9b6,1252675340511653888,"In our latest Make It Move kids video, children can learn about the Ford Motor Company's automotive plants and the people who worked there while creating their very own employee badge! Join us next Tuesday, April 28th, for our last Make It Move video!
+https://t.co/n3R56DKyG7",Dearborn Historical Museum,2020-04-21 19:07:29,"915 Brady, Dearborn, Michigan",neutral,441.0,1100.0,0.0,0.0
+349,2d4bec37-5c48-4bf2-9a87-1798a103596e,1252703641355587586,"Ford Motor Company of Canada, Ltd. has begun production of face shields at its Windsor Site operations to help protect Canadian medical personnel and first responders on the front lines of the COVID-19 pandemic. Learn more: https://t.co/ImDzdWv6wb https://t.co/0E9Eo8GVjL",West Coast Ford,2020-04-21 20:59:56,maple ridge,neutral,99.0,494.0,0.0,1.0
+350,fdd08af7-ff7f-42e9-97b2-d89037a16cdf,1252724655661608961,"@LiveLikeAProUK @tommywheeldonjr Rush Green, Romford. Used to be the Ford Motor Company sports ground.",Danny Murray,2020-04-21 22:23:27,"Calgary, Canada  ",neutral,242.0,79.0,0.0,1.0
+351,532c8ac9-bb03-459f-888b-831acda64bcd,1252726426949898244,"#NYSE Top 100 Volume Leaders and technical ratings:  
+1 - #Ford Motor Company ( $F ) Sell
+2 - #GeneralElectric Company ( $GE ) ---
+3 - #BankofAmerica Corp ( $BAC ) ---
+4 - #Occidental Petroleum Corp ( $OXY ) Sell
+5 - #Exxon Mobil Corp ( $XOM ) ---
+https://t.co/CnAxOOVI55",Stoxline Investing,2020-04-21 22:30:29,USA,neutral,17.0,2835.0,0.0,2.0
+352,67f38aa3-23e9-415a-983c-0fa6c0b5cc23,1252738695364579330,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/lW3dPhXH9H https://t.co/UVy2F5WIjy",TMD Magazine,2020-04-21 23:19:14,"Valley View, OH",neutral,426.0,3228.0,0.0,0.0
+353,ba579db7-f905-49f6-b961-299e92a88bd5,1252738762788012037,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/EAGUbYH2Jq https://t.co/NcpjK0TFSb",AMD Magazine,2020-04-21 23:19:30,"Valley View, OH",neutral,106.0,3470.0,1.0,0.0
+354,7b92d4e8-ea55-4101-bd9a-d314a496933f,1252738849417068546,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/5zKseLj1j8 https://t.co/l9s2RsBvqV",WhyMFG,2020-04-21 23:19:51,"Cleveland, Ohio",neutral,21.0,903.0,0.0,0.0
+355,0886e0be-e11b-419c-9ec4-d5d3eef8d200,1252738901745242114,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/5QWx2QXxSN https://t.co/jh9bbxNlO3",TMV,2020-04-21 23:20:03,,neutral,79.0,1531.0,0.0,0.0
+356,1a32f53f-e080-4a59-901c-cc6297896f78,1252738966522077184,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/P5P3sZDbTG https://t.co/inThqXTzDC",QM&I Magazine,2020-04-21 23:20:19,,neutral,49.0,630.0,0.0,0.0
+357,d67a0995-299d-46ca-973e-b760dfe63747,1252739634033033216,"Hope to see you at the webinar tomorrow! (4/22/2020 12pm EDT)
+Hear how GE Healthcare, Ford Motor Company, and Airon partnered to scale ventilator production for COVID-19. TMD's montly columnists - MedTech MindSet - helped facilitate the deal. Register now: https://t.co/eOfmynnM0y https://t.co/PUfbDrHDwO",ElizabethModic,2020-04-21 23:22:58,,neutral,278.0,38.0,0.0,0.0
+358,7efaf93a-7c67-43ec-a0d1-67106a43a7cc,1252746687132696576,"#FeedTheWorldFilmPBS By the late 1920s, mechanization was transforming agriculture, including the Ford motor company tractor
+
+[not mentioned - also cities, with cars replacing horses] https://t.co/cATMNGo3oG",./Jim🚴‍♂️Gruman.Rmd,2020-04-21 23:50:59,"Illinois, USA",neutral,100231.0,2225.0,0.0,0.0
+359,8fef263a-5fdb-421d-8590-960345a83417,1252834186848698371,"Dated: APR 16, 2020 Ford Motor Company (Ford) is recalling certain 2020… https://t.co/CAZD6XQKRl from VooDoo Racing",aps MotorcycleCenter,2020-04-22 05:38:41,LasVegas,neutral,150.0,406.0,0.0,0.0
+360,961b2768-d25d-4e66-9a6d-3f03e2c85357,1252839767428829190,"Mountune was originally created in the UK and have been building engines and also designing and producing performance parts for over 40 years. Mountune is the only approved tuner for Ford motor company. 
+
+#moountune #cars #automotive #carphotography #ford #focusrs #sportcar https://t.co/a1e5NZmN47",Xcite Australia,2020-04-22 06:00:51,australia,neutral,0.0,8.0,0.0,0.0
+361,9e09704e-4b5f-4d9b-9f29-b19e6f2a53e7,1252854656650211329,".@Ford built new #RedHat @OpenShift clusters with @Sysdig, gaining competences in #OpenShift and moved many stateful #apps onto the new platform. Learn more https://t.co/5XhDxGGbdU",Red Hat Benelux,2020-04-22 07:00:01,"Amsterdam, The Netherlands",neutral,332.0,2963.0,0.0,0.0
+362,02121b67-a93c-4d7a-aca5-3096116844f4,1252879520404660224,".@MANNHUMMELGroup has announced it will collaborate with Ford Motor Company in the rapid development and production of powered air purifier respirators
+
+https://t.co/PdjrrTBCHV",PMM Magazine,2020-04-22 08:38:49,"Watford, UK",neutral,800.0,4193.0,0.0,2.0
+363,839150ba-9fed-48b9-8d66-fbf242a8751d,1252884669911056386,"INDUSTRY FIRSTS: The Oldest Car in Uganda is located at the Uganda National History Museum. 
+It is a 1925 Ford T Model. It's body is made of Wood.
+
+The Ford Model T is an automobile that was produced by Henry Ford's Ford Motor Company from October 1, 1908 to May 27, 1927.
+
+@Ford https://t.co/r6CNCJCIl7",CEO East Africa Magazine,2020-04-22 08:59:17,Uganda,neutral,663.0,2846.0,0.0,1.0
+364,e8d7f3b1-1341-47f0-bf40-f4a121cea63d,1252896191228063744,"22 Apr 1955:
+James Hackett
+(Carlow, Galway,
+Waterford, and Cork roots) born,
+Columbus, Ohio.
+
+He has served as the current president
+and CEO of Ford Motor Company since 1917.
+
+https://t.co/aZofnxHCCl",St. Patrick Parade,2020-04-22 09:45:04,"Baltimore, Maryland, USA",neutral,1118.0,1798.0,0.0,0.0
+365,f57deadf-9073-45ff-85e4-c66514da0157,1252945247430115328,"NPR’s Rachel Martin talks to Adrian Price, Ford’s director of manufacturing, about the company’s efforts to repurpose equipment used to make cars to now make ventilators and other medical supplies. https://t.co/z7KzOsPAH2 https://t.co/Nr5sStmztr",AMT,2020-04-22 13:00:00,"McLean, VA",neutral,1388.0,11554.0,0.0,0.0
+366,ab95b502-0b6b-478f-b9f5-dea1fa4c1f5d,1252953113322942466,"“Whether you think you can, or think you can’t — you’re right.”  –Henry Ford, Ford Motor Company Founder",Prasetyo Anzery,2020-04-22 13:31:15,Pekanbaru,neutral,1.0,745.0,0.0,0.0
+367,286cbdde-2fd0-4877-896d-14c97a2472b9,1252970918055378944,"Based on @RedHat #OpenShift and supported by #RedHat and #Sysdig technology, #Ford has improved #developer productivity, enhanced its security and compliance approach. Read the full story. @OpenShift @Ford  https://t.co/gJk6vI3nIw",Barbara Ann May,2020-04-22 14:42:00,London & Soulbury & Elsewhere ,neutral,1787.0,1153.0,0.0,0.0
+368,a638aeb1-9b44-4afe-b083-3ca6bf7a6dd3,1252980189686042624,"Based on Red Hat® @OpenShift® and supported by #RedHat and #Sysdig technology, Ford has improved developer productivity, enhanced its security and compliance approach. Read the full story. https://t.co/ielYKdjcWp",Alex Callejas,2020-04-22 15:18:51,México DF,neutral,14178.0,984.0,0.0,0.0
+369,ea3e5844-644d-4f93-a57c-ea5fccf09595,1252981214555910144,"@simonsarris Socialists of the 1920s (e.g., the Fabian Society) used to go on about the wasteful duplications of capitalism. Why more than one factory making fountain pens? Far more efficient to run national economies like scaled-up versions of the Ford Motor Company.",ΧΡΙΣΤΌΦΟΡΟΣ bɝːd,2020-04-22 15:22:55,"Victoria, British Columbia",neutral,55778.0,1524.0,0.0,2.0
+370,fa5746b5-33e9-4d3a-8fcd-f3d92e07e57c,1253457456145084419,@BrentTerhune How many people have won Camaro $ in Vegas? Try used Hyundai $,Kapn KRÜDE,2020-04-23 22:55:20,NJ,neutral,36721.0,1109.0,0.0,1.0
+371,a9dec2c5-d6fc-446a-9410-49e86274a49f,1253457537829163010,"Shop here 👉 https://t.co/p8LbiuHPuc
+We know you can't resist
+1-888-328-1037
+#rubbertracks #tracks https://t.co/S9JtkwG0RY",Rubber Tracks of America,2020-04-23 22:55:39,"Holbrook,",neutral,132.0,158.0,0.0,0.0
+372,b5b1dc93-28a5-42b6-a618-42a8d5300ed4,1253458124264165381,".@Hyundai just couldn’t resist the temptation to make the Veloster N appeal to a wider audience and has now introduced an automatic transmission for the hot hatchback.
+
+Read more: 🔗https://t.co/hFbiXCzf27 https://t.co/FvBOQdcp8b",MotorWeek,2020-04-23 22:57:59,"Owings Mills, MD",neutral,661.0,66434.0,1.0,4.0
+373,8b5d0cb3-18d4-41af-8efa-ae1d274813cb,1253459268101001218,Hyundai Prophecy concept headed to production as possible Ioniq replacement - CNET,Saw BoYz Dembow,2020-04-23 23:02:32,soy bacanisimo dame back,neutral,12.0,222.0,0.0,0.0
+374,c0851982-79f3-43fb-8c58-66b9e61f7ab5,1253459552927916032,Hyundai is here to help support families during this uncertain time. https://t.co/z27yw4wMtT,ElginHyundai,2020-04-23 23:03:40,"Elgin, IL",neutral,20.0,258.0,0.0,0.0
+375,31e60b77-88a8-40d1-bcfb-42e9cb1e3a3f,1253460681908645888,GREEN on @ForzaMotorsport @Hyundai fans racing @MWilkins @BryanHerta @mason_filippi @TylerGonzalez57 @TylerMaxsonRace six races...first up @WeatherTechRcwy https://t.co/cCCu3x3p57,Bryan Herta Autosport,2020-04-23 23:08:09,"Indianapolis, Indiana",neutral,1768.0,23314.0,4.0,21.0
+376,d6f3ad9a-edf0-4f88-8e28-a6feae60e0f8,1253462007547740160,@Hyundai_Global @BTS_twt WE NEED A HQ,linda⁷ 🥺,2020-04-23 23:13:25,republic of joonies dimples 🌱,neutral,6892.0,60.0,0.0,0.0
+377,8c5e09f7-a26f-4117-8b13-eceade88617a,1253462733720367107,@SugaBear_80 Slightly by him 🤣 The Hyundai pic lol. I still can’t get over that 🥵 https://t.co/sYBILfNCr2,𝕞𝕠𝕠𝕟☾𝕔𝕙𝕚𝕝𝕕⁷,2020-04-23 23:16:18,,neutral,820.0,267.0,0.0,0.0
+378,17be6c27-4248-4491-b64f-4e69a0c57577,1253463160813690886,@BHA @ForzaMotorsport @Hyundai @MWilkins @BryanHerta @mason_filippi @TylerGonzalez57 @TylerMaxsonRace @WeatherTechRcwy I am supposed to be apart of it but I got disconnected my gamertag is torontofan34,Terry James Murphy,2020-04-23 23:18:00,,neutral,103.0,160.0,0.0,0.0
+379,44c32535-12c8-486c-98c1-e7b3f4e0ffa9,1253463216425857025,did anyone get that BTS ad for Hyundai?,𝗽𝗹𝘀 𝗿𝘁 𝗺𝘆 𝗽𝗶𝗻𝗻𝗲𝗱 📌 | 2 𝗱𝗮𝘆𝘀 ⏳,2020-04-23 23:18:13,🇵🇭,neutral,1219.0,374.0,0.0,0.0
+380,826c5611-c47a-4824-bc73-c38f9f94d174,1253463608287064064,"@ampup_io , a Cupertino, Calif.-based maker of electric vehicle charging tech, raised an undisclosed amount. Investors include SAIC Motors, Hyundai Motor Company, and Forest Ventures. #Fundingtweets #electricvehicles #charging",DiverseVC,2020-04-23 23:19:47,"Silcon Valley, CA",neutral,1.0,31.0,2.0,1.0
+381,38979f99-4e46-4784-97bf-175826cc35b5,1253464552148209669,"Important info for your wives GUYS. Go with a Kia, not a Hyundai. 
+
+https://t.co/oUabU38p4j https://t.co/ftfQcKIb17",Alli McTrucks,2020-04-23 23:23:32,"Bent Creek, NC",neutral,33764.0,4850.0,0.0,4.0
+382,3553f51c-59f3-44d0-8afc-b955aebe7edc,1253464598730010624,@BHA @ForzaMotorsport @Hyundai @MWilkins @BryanHerta @TylerGonzalez57 @TylerMaxsonRace @WeatherTechRcwy Stream back on!,Mason Filippi,2020-04-23 23:23:43,"California, USA",neutral,1587.0,215.0,0.0,4.0
+383,5511160d-e399-48da-81c6-547d11264d19,1253464757853655042,"https://t.co/buzcEuqh4Z Research Frontiers SPD-SmartGlass Licensee and Strategic Investor Gauzy Ltd. secures the Series C investment from Hyundai Motor Company, Blue Red Partners VC (Singapore), and Avery Dennison",PressReleasePoint,2020-04-23 23:24:21,,neutral,1.0,1564.0,0.0,0.0
+384,e65b1453-22e8-45c0-9a6c-77faade66f87,1253465008710844416,@nikolamotor I own a Hyundai Nexo and live in Southern Cali. H2 is currently $16/kg where I live. Is your price of hydrogen still going to be $3.50/kg for non-Nikola customers?,Boris Limons,2020-04-23 23:25:20,,neutral,70.0,4.0,0.0,3.0
+385,5dadd06a-086a-4271-b76b-82b6f827da8b,1253465178785660929,@ryderjj89 @iamtherog @vrunt @Dwayne_Media @Rawnzilla @CallofDuty @InfinityWard Nothing a Hyundai and a beautiful blonde can't fix ☺️,Juniper Daniels,2020-04-23 23:26:01,,neutral,1339.0,1.0,0.0,1.0
+386,ff14da9e-3478-4f32-b286-d4d7601ea8df,1253465427717619713,"@thatsmydogjune @iamtherog @vrunt @Dwayne_Media @Rawnzilla @CallofDuty @InfinityWard Hyundai is from a game, moron. Hold this block lmfao.",Joshua Ryder,2020-04-23 23:27:00,"New Port Richey, FL",neutral,1881.0,66.0,0.0,0.0
+387,a94698be-6aae-49c8-bd41-80943e977a58,1253466394408226816,I JUST GOT A HYUNDAI BTS AD ON A WILLNE VIDEO IM CRYINGHVGKHB,ًNSFR! ↻¹²⁽⁷⁾,2020-04-23 23:30:51,黄仁俊❣️HE/HIM/HIS!!! ,neutral,4100.0,552.0,0.0,1.0
+388,8789a79d-b24f-4ccb-95d7-3dc6e606927d,1253467704394203137,Pre Purchase Inspection of Hyundai Grandeur 2006 with Some Issues. https://t.co/C7Nje6HdlL,Last Check Vehicle Inspection,2020-04-23 23:36:03,"Sydney, Australia",neutral,4.0,33.0,0.0,0.0
+389,4a8d0888-cc58-44c2-af42-ce17ff8a039b,1253467751374483456,@BHA @ForzaMotorsport @Hyundai @MWilkins @BryanHerta @TylerGonzalez57 @TylerMaxsonRace @WeatherTechRcwy About to start our next race 🙌🏻🏁,Mason Filippi,2020-04-23 23:36:14,"California, USA",neutral,1587.0,215.0,0.0,5.0
+390,e5a1cc35-ec0a-4c28-959b-61f8913dc66c,1253468373150765065,@rossgreenspan Store the oil in those low interest Hyundai SUVs. Should be some price increase by 84 mos.,James Donaldson,2020-04-23 23:38:43,,neutral,228.0,21.0,0.0,1.0
+391,e7a9e604-2afc-408a-bd9d-e88d3810a934,1253469156755767301,#darkselfie #DarkSelfieChallenge #HyundaixBTS @Hyundai_Global @BTS_twt @bts_bighit  HAPPY EARTH DAY!!! https://t.co/XDI0Lp42am,m⁷,2020-04-23 23:41:49,Bangtan Sonyeondan ,neutral,921.0,11.0,0.0,3.0
+392,102e6d0d-519a-45f7-8bba-932e07e309e3,1253469558477918213,I really miss my Hyundai Sonata but i got something better,🤫🚪,2020-04-23 23:43:25,,neutral,2629.0,915.0,0.0,0.0
+393,ff094b24-4089-4494-9b9d-22f3eb9587f0,1253470889372499969,@mason_filippi @BHA @ForzaMotorsport @Hyundai @MWilkins @BryanHerta @TylerGonzalez57 @TylerMaxsonRace @WeatherTechRcwy Good luck Mason!,💙,2020-04-23 23:48:43,"Caledon, Ontario",neutral,0.0,10.0,0.0,1.0
+394,fdfd8fc3-c4c6-47a2-8213-1ba986284090,1253472069418807296,@Hyundai_Global Hallo,Agnes Aprilia,2020-04-23 23:53:24,,neutral,18.0,0.0,0.0,0.0
+395,0263bf25-6d8f-4750-b525-31e326fdb487,1253472337300803589,I JUST GOT THE HYUNDAI AD ON YOUTUBE AAAAAAHHHHH,호비 here 🤭🤗 selling tour tix 📌,2020-04-23 23:54:28,nat. '94. she/her 🌈,neutral,94337.0,187.0,0.0,0.0
+396,b255c6f6-3b0f-4adb-8be5-d0031f02741a,1253472343923490816,"🚀[.PDF] Hyundai HL757-9 Wheel Loader Workshop Repair Service Manual DOWNLOAD
+🚀D0WNL0AD LINK: https://t.co/hTCxUdaXix
+
+Hyundai HL757-9 Wheel Loader Workshop Repair Service Manual DOWNLOAD
+
+This is the Most Complete OEM for the Hyundai HL757-9 Wheel... https://t.co/qsj0iG67Qb",Maine Flores,2020-04-23 23:54:29,,neutral,0.0,2.0,0.0,0.0
+397,96e4085a-0f99-4358-9cef-44051feb69ec,1253471396287713288,@tdawg10573 @Giants Or better yet. What are we doing with@nate solder,James caligiuri,2020-04-23 23:50:43,"New Jersey, USA",neutral,466.0,11.0,0.0,0.0
+398,b0424e0f-4220-42e4-8da1-6a5194eff6d0,1253471456832389122,@RobertClarke_WM @chigrl Imagine thinking of buying a Tesla right now,EnergyCynic,2020-04-23 23:50:58,"Houston, TX",neutral,39005.0,9372.0,0.0,4.0
+399,d35ef6a3-e863-4d06-9d08-44eb74859e2b,1253471475706630144,"Tesla competitor Polestar 2 will start at $59,900 in the US https://t.co/2lKgcnTkWp https://t.co/NWvfBmm4Cq",Stuart,2020-04-23 23:51:02,,neutral,1288.0,690.0,0.0,0.0
+400,d2386541-e080-4a8e-9be8-60816ec99048,1253471486951723008,"@ByeonChansoo @thirdrowtesla @Model3Owners @Audi @Tesla @earlectrek @vincent13031925 Maybe they know Tesla is the future and this was their job application for Tesla 😆
+
+https://t.co/bhceVFx0Kq https://t.co/AolpmvZKGm",CillDar,2020-04-23 23:51:05,"Clare, Ireland",neutral,5370.0,137.0,0.0,6.0
+401,6497a627-aee7-477a-90da-05d21f8c71b6,1253471497382920194,@norik_morina I only have tesla power :|,Ardit,2020-04-23 23:51:08,"Prishtina, Republic of Kosovo",neutral,300.0,51.0,0.0,1.0
+402,48402e06-92d5-4b97-89dd-daec4ba70f1d,1253471604702674950,THE VITAL LIGHT OF NIKOLA TESLA: Healing Power of Ultraviolet Rays https://t.co/CGOqiYX7FX,Mia Stevens,2020-04-23 23:51:33,"Trophy Club, TX",neutral,2519.0,778.0,0.0,0.0
+403,b86bb719-75e1-4241-9c1a-51777924314b,1253471663267643392,@Abilityy soo when's the Tesla arriving?,؜,2020-04-23 23:51:47,"London, England",neutral,6720.0,400.0,0.0,1.0
+404,f3354503-9bc8-42ff-953b-937349689297,1253471681709924352,"Maybe @Tesla &amp; others should swap from making ventilators to these simple ‘black boxes’ - cheaper than CPAP + close fitting masks / helmets.
+
+COVID19 patients reportedly having far better outcomes the earlier CPAP support is started. Could be used at home in many cases. @elonmusk https://t.co/y00jwYa3Zg",Tesla Opinion,2020-04-23 23:51:51,,neutral,16141.0,3620.0,0.0,3.0
+405,c62d9151-02e3-425e-8f92-3523680edb47,1253471761292812288,@Trefender @may_tesla @PeterSinclair77 @DrJacobsRad You still haven't stepped up and taken in any have you? Just blah blah blah.,Joseph DaSilva,2020-04-23 23:52:10,"Ontario, Canada",neutral,65572.0,344.0,0.0,0.0
+406,ba8db2f4-05db-45d6-930e-f8a1700a6fda,1253471935490437120,"Huh. ~Week ago, joking re Tesla and ""lung gas"", I suggested that using a mix of ozone and chlorine to ventilate #COVID19 patients would - technically - near-instantly result in eliminating infections...
+
+...Life imitating art ...? ... 🦧🍊...🤦🏻‍♂️
+(@MomoStJohn @DogICUma @psirides) https://t.co/mZzce8r61l",Cerberus,2020-04-23 23:52:52,,neutral,5094.0,94.0,0.0,1.0
+407,249953c2-df6c-470d-8dd7-89389af64f73,1253472051844845570,"@thirdrowtesla @elonmusk Sounds like a company with employees who are not passionate about the use and overseeing of the product, no? We see Tesla owners, daily, who engage AP w/ determination to support improvement towards level 5 autonomy. All owners are guided to understand this/drive responsibly",Liz🌸Lori,2020-04-23 23:53:20,,neutral,4827.0,141.0,0.0,1.0
+408,ad7f6194-0f0f-4ebc-948d-312db8c6e6cf,1253472106349604865,@LumpoThinkyMan @sama @Tesla Tesla is literally Silicon Valley.,GavinSelvaratnam,2020-04-23 23:53:33,,neutral,8944.0,23.0,0.0,8.0
+409,e41ce7ec-c4cc-4107-83dd-e21d5a0e4829,1253472244329742336,"I like immigrants when they come and build @Tesla , @SpaceX ...etc not when they write material for @realDonaldTrump 
+
+Not cool @Trevornoah https://t.co/BhjHjrLJf0",Steve Agnew,2020-04-23 23:54:06,United States,neutral,915.0,65.0,0.0,0.0
+410,ff2120e2-0b8f-4dba-8562-22a09e5e057e,1253472428199604224,"Tesla hires Hiro Mizuno, ex-manager of Japan's $1.5tn pension fund https://t.co/bMELbyzPYL",runrunhidepon,2020-04-23 23:54:49,tokyo,neutral,8515.0,190.0,0.0,0.0
+411,b94d00fb-d8ce-4921-b878-37e501c73806,1253472451129827328,@Teslarati If wasn't young and didn't want to travel and made more then enough to comfortably afford it then i think it would be a great option. That extra $$ and not so great N/A network keep me with tesla. Does seem like a competent offering though. I curious on charge rate and efficiency,Larry spiller,2020-04-23 23:54:55,,neutral,9108.0,83.0,0.0,1.0
+412,e466a836-fe9b-462f-bfc7-2d35d34c2830,1253472463926763520,Tesla Motors woke the industry up and has been years ahead. Daimler AG is catching up tho,Art,2020-04-23 23:54:58,Berlin,neutral,899.0,23.0,0.0,0.0
+413,a50581ee-db53-474b-80bf-245e0fedbf3a,1253472631329882117,"@CillDar @thirdrowtesla @Model3Owners @Audi @Tesla @earlectrek @vincent13031925 Elon: tell us about the most extraordinary thing you've done
+
+Candidate from Audi: Um... I copied from Tesla website &amp; pasted to update Audi website when asked to update 
+
+Elon: welcome to Tesla 
+
+@28delayslater https://t.co/h02SfB4DyJ",Chansoo Byeon,2020-04-23 23:55:38,"Toronto, Ontario",neutral,26233.0,381.0,0.0,4.0
+414,b7ffd1b2-618b-4aec-865e-82ad83927634,1253472773617250304,@rodydavis @Apple @AppStore @FlutterDev @Tesla What's the name of the app,CyberDude,2020-04-23 23:56:12,Canada,neutral,32127.0,521.0,0.0,1.0
+415,6c0d3ea8-0549-4913-b930-d91a88285446,1253472811353542656,Catch @MFrunker @TeslaMilton @Nerds4hire and myself for tonight’s live Tesla Talks podcast. https://t.co/QIa6ozR7EA https://t.co/qsH2TWgQpd,Tesla Talks,2020-04-23 23:56:21,"Ontario, Canada",neutral,7509.0,2427.0,5.0,14.0
+416,0af68df6-24e3-4e4c-b810-3414f0f2db4d,1253472835160485888,Tesla is adding a $ 1.5 trillion Japanese pension fund to the chief executive 2020 https://t.co/aYoHDhwiws https://t.co/TDQsV3s8B8,CoinnewsBest,2020-04-23 23:56:26,,neutral,297.0,151.0,0.0,0.0
+417,7795ae8e-6fcd-49ca-8a03-f14f7547ebd6,1253472852294225921,@ramonricky71 @Tesla Shrubs are overgrown!  Should have applied tire shine to the wheels for picture taking!  That’s my two cents worth!  😉,I Am Who I Am 🏳️‍🌈,2020-04-23 23:56:31,"Missouri, USA",neutral,684.0,385.0,0.0,1.0
+418,20d2753d-dbef-46f8-b140-a0602163778b,1253472915326148608,Pls let us wake up w that bearish run on tesla,Jose,2020-04-23 23:56:46,Houston,neutral,24335.0,778.0,0.0,0.0
+419,b50feb8c-b9aa-41af-af2b-dd7bb8b57223,1253473006489403393,THE VITAL LIGHT OF NIKOLA TESLA: Healing Power of Ultraviolet Rays - Vitality Magazine https://t.co/urVesVQVqO,Peggy O'Donnell,2020-04-23 23:57:07,,neutral,28596.0,2818.0,0.0,0.0
+420,1a71b9a0-158e-47e0-9cab-3c64998a47fb,1253473465111392259,Tesla is the “legacy” auto company $tsla $tslaq https://t.co/OPPC44XMnB,Commentator,2020-04-23 23:58:57,Long Hill New Jersey,neutral,12146.0,1489.0,0.0,0.0
+421,705b76ab-fc23-4b8b-973e-0b2d8a58f79d,1253473573173227520,"https://t.co/wOO9s3gBRI
+
+Six years, more than 2.3 million players, and one amazing journey – BitStarz turns 6 today and we’re celebrating in style by giving away a Tesla Model 3!
+ 
+In our epic birthday promotion we’re inviting everyone to come along and j…https://t.co/e6U5ZXGlEB",Frank White,2020-04-23 23:59:22,,neutral,197.0,83.0,0.0,0.0
+422,cd4a927b-4a1e-4589-a9aa-e957058c6c82,1253473580349894656,@Inevitable_ET Tesla sanitized everything w light 100 yrs ago,Christine Parmenter,2020-04-23 23:59:24,,neutral,61580.0,392.0,0.0,6.0
+423,d7d99f59-f10c-4289-bd14-933308459dc2,1253473724927561728,@JCOviedo6 @ARKInvest @CNBC Her 10% Allocation To Any Said Security Excuse Does Not Work When You’re Selling Tesla On The Way Down $TSLAQ,LA2K4ERS,2020-04-23 23:59:59,,neutral,9609.0,766.0,0.0,1.0

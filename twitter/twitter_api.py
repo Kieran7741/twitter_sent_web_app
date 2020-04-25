@@ -59,7 +59,8 @@ class TweetLite:
         :return: TweetLite instance
         :rtype: `TweetLite`
         """
-        return cls(tweet.id_str, tweet.full_text, tweet.author.name, tweet.author.followers_count, tweet.author.followers_count,  tweet.created_at, tweet.author.location)
+        return cls(tweet.id_str, tweet.full_text, tweet.author.name, tweet.author.favourites_count, tweet.author.followers_count,
+                   tweet.retweet_count, tweet.favorite_count, tweet.created_at, tweet.author.location)
 
 
 def get_api(consumer_key, consumer_secret, api_key, secret_key):
@@ -93,7 +94,6 @@ def get_multiple_tweets(api, topic, num_tweets=100, tweetlite=False):
 
     today = datetime.date.today()
     yesterday = today - datetime.timedelta(days=1)
-    print('Here')
 
     tweets = Cursor(api.search, q=topic + ' -filter:retweets', until=f'{yesterday}', lang='en', tweet_mode='extended').items(num_tweets)
     if tweetlite:

@@ -5,7 +5,7 @@ def get_db(database):
     return MongoClient()[database]
 
 
-def get_tweets_from_collection(db, collection, search):
+def get_tweets_from_collection(db, collection, search, print_=False):
     """
     Retrieve tweets from a database collection.
     :param db: Database to use
@@ -14,9 +14,10 @@ def get_tweets_from_collection(db, collection, search):
     :return:
     :rtype: list
     """
-    print(f'Fetching data from {collection} search: {search}')
-    result = db[collection].find(search)
-    print(f'Found {result.count()} tweets')
+    if print_:
+        print(f'Fetching data from {collection} search: {search}')
+        result = db[collection].find(search)
+        print(f'Found {result.count()} tweets')
     return [_ for _ in db[collection].find(search)]
 
 
