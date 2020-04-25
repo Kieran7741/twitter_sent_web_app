@@ -96,6 +96,13 @@ def classify_tweet(tweet_id):
 
 ![Select sentiment](images/classify_tweet.png)
 
+
+## Dataset proportions
+```python
+{'neutral': 239, 'positive': 104, 'negative': 81}
+```
+![Classes](./images/data_breakdown_pie.png)
+
 ## Building a Sentiment Model
 
 Now that tweets have been collected we can now begin to train a model to predict the sentiment of new tweets .
@@ -209,11 +216,11 @@ def compare_sentiment(x_test, y_test, custom_model_score):
 
 Both models performed very poorly. 
 ```commandline
-Number of features: 1424
-Vader scored: 0.5441176470588235
-Custom model scored: 0.5147058823529411
+Number of features: 1912
+Vader scored: 0.5283018867924528
+Custom model scored: 0.5471698113207547
 ```
-It appears Vader produces a higher accuracy. However lets compare the confusion matrix of both models...
+It appears the custom model performed better. However lets compare the confusion matrix of both models...
 * Vader
 
 ![Vader CM](images/Vader_Confusion_Matrix.png)
@@ -221,11 +228,11 @@ It appears Vader produces a higher accuracy. However lets compare the confusion 
 * Neural Net
 ![Neural Net CM](images/Custom_Model_Confusion_Matrix.png)
 
-The Vader model only classifies tweets as neutral. This however may be due to the processed tweet.
+The Vader model mainly classifies tweets as neutral.
 The testing data provided to the model has had punctuation removed which vader takes into account.
   
-The custom model from an accuracy standpoint performs worse, however it can identify some positive
-tweets but cannot identify negative tweets.
+The custom model from an accuracy standpoint performs better. It has a 80% hit rate for neutral tweets
+but struggles on positive and negative tweets.
 
 ### Using model on unseen topic: Football
 The models accuracy was tested on the unseen topic of football. 50 football related tweets were used to test the models accuracy.
@@ -233,7 +240,7 @@ The models accuracy was tested on the unseen topic of football. 50 football rela
 Other topic score using Motor car model: Score: 0.48
 ```
 
-![Unseen topic of football](./images/Custom_Model_Confusion_Matrix_used_on_Football_tweets.png)
+![Unseen topic of football](./images/Custom_Model_used_on_Football_tweets.png)
 
 
 ## Final remarks

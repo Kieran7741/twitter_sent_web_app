@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
     other_topic_predictions = model.predict(other_topic_test)
     other_topic_score = accuracy_score(other_topic_df.sentiment, other_topic_predictions)
-    result_string = f'Other topic score using Motor Car model: Score: {round(other_topic_score, 3)}'
+    result_string = f'Football topic score using Motor Car model: Score: {round(other_topic_score, 3)}'
     print(result_string)
     cm = confusion_matrix(other_topic_df.sentiment, other_topic_predictions, labels=['positive', 'neutral', 'negative'], normalize='true')
     plot = ConfusionMatrixDisplay(cm, ['positive', 'neutral', 'negative'])
